@@ -1,0 +1,862 @@
+incident_id,equipment_id,field,team,category,incident_date,incident_type,severity,status,resolution_hours,sla_breach,downtime_hours,reported_by,sla_status
+47e4133f-73ae-454b-a6a5-1fd9322ac0f4,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:55,Pressure Drop,High,Resolved,9.85,Yes,3.36,Sarah Shah,BREACHED
+7d20f11b-5d82-48a6-9ea9-c3893a14be51,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:46,Valve Malfunction,Medium,Open,12.71,No,3.06,Anthony Bell,COMPLIANT
+7deceb5f-7674-4b5f-b877-4af63415a6b6,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:01,Pressure Drop,Critical,Open,2.14,No,0.61,Erin Hensley,COMPLIANT
+750c861a-ba53-4f96-86f1-3688232db251,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:29,Equipment Failure,Medium,Resolved,43.63,Yes,32.33,Tom Johnson,BREACHED
+5ba4ecf0-f3a3-444c-9c4a-f552311004cd,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:55,Pressure Drop,High,Open,12.45,Yes,1.6,Christopher Johnson,BREACHED
+7a0e70a7-d4c4-40a4-a958-90255d257da9,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:13,Power Outage,Medium,In Progress,33.66,Yes,27.18,Karl Gilbert,BREACHED
+4e3aafe1-5b51-449e-8705-5f507b533a23,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:42,Pressure Drop,Low,Resolved,26.66,No,10.48,Victoria Lopez,COMPLIANT
+aa4543c3-c1d4-4457-a643-8d63e0066c40,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:18,Power Outage,Critical,Open,4.65,Yes,1.1,Patrick Miller,BREACHED
+50ca4443-e6e9-4f66-a4c3-6d3963de146f,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:46,Power Outage,High,Open,16.6,Yes,7.22,Donald Rogers,BREACHED
+99acd30b-8725-474c-b4dc-ae35a4e5a5b6,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:45,Leak,Low,Resolved,69.57,Yes,60.03,Christopher Moore,BREACHED
+cca3e44b-410f-4d03-9a7e-97177308870d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:08,Leak,High,Resolved,5.51,No,2.35,Robert Edwards,COMPLIANT
+570b11b2-e970-48c0-8e02-f8007f338fbd,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:01,Power Outage,Medium,In Progress,19.94,No,12.05,Benjamin Sampson,COMPLIANT
+32e6e860-89ec-4de2-b9be-463e5a1d7054,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:15,Equipment Failure,Medium,Open,13.64,No,9.04,Cynthia Williams,COMPLIANT
+463266db-3b36-4008-9088-b43f7e83b428,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:20,Valve Malfunction,Low,Resolved,44.45,No,36.27,Rebecca Vasquez,COMPLIANT
+0dd857fd-fda7-44d1-880a-921c2f1f1221,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:49,Corrosion,Medium,Resolved,27.32,Yes,4.31,Kevin Stevens,BREACHED
+40daa414-fea5-43a8-9e08-f99166a4fc06,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:29,Valve Malfunction,Medium,Resolved,28.46,Yes,0.73,Tamara Zavala,BREACHED
+c759fb20-7688-401f-9026-9a149383650e,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:23,Equipment Failure,High,Open,23.33,Yes,22.98,Brandon Simmons,BREACHED
+0cd4a4e2-dfcb-4ebb-a48d-e62d11cbb323,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:34,Equipment Failure,Critical,In Progress,10.57,Yes,1.0,John Howell,BREACHED
+e198f8a7-3b09-437f-9625-6b13d8f8496b,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:06,Valve Malfunction,Medium,Open,42.09,Yes,13.05,Renee Williams,BREACHED
+7f6f14b6-f2c4-4779-87b2-708b175c344e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:08,Pressure Drop,Critical,Open,5.36,Yes,4.26,Jessica Payne,BREACHED
+6e0c7dcf-6cb9-4703-a69c-0a237bbc208c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:05,Equipment Failure,Low,Open,47.21,No,39.91,Lawrence Scott,COMPLIANT
+b2d85c34-3583-4ecc-84ad-11d0f170ca67,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:28,Valve Malfunction,Medium,Open,43.68,Yes,13.82,Shannon Williams,BREACHED
+40889f8d-f991-4817-811e-ac68350efc9a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:14,Corrosion,High,Open,23.73,Yes,4.11,Christopher Patterson,BREACHED
+45bc050c-8725-4c32-8f57-c4494cd20d23,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:43,Power Outage,Low,Resolved,47.99,No,22.87,Penny Bond,COMPLIANT
+3b2a6f59-f6b8-43a5-bf33-cba5388bda89,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:20,Valve Malfunction,Low,In Progress,32.52,No,20.83,Bobby Washington,COMPLIANT
+8654595d-af98-4a05-bc57-8af85eaf7b01,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:19,Pressure Drop,Critical,Open,5.77,Yes,5.04,Cynthia Castillo,BREACHED
+0584efc2-916b-4870-b903-779766558dd1,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:28,Leak,High,In Progress,13.11,Yes,9.8,Travis Hess,BREACHED
+c4c63432-8e08-4a3d-9087-2121ffbe2f19,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:26,Leak,Medium,In Progress,17.61,No,13.6,Kimberly Simmons,COMPLIANT
+7cac3152-e799-4747-b8b7-bb4a14325424,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:06,Valve Malfunction,Critical,In Progress,1.0,No,0.56,Laurie Martin,COMPLIANT
+9415aa82-fd05-49fb-9b17-d32bb14ad77a,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:36,Leak,Low,In Progress,26.6,No,23.78,Alexis Kelley,COMPLIANT
+22371659-434f-4b18-bc0a-fe3f0c5f4a9f,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:59,Equipment Failure,Low,Resolved,70.84,Yes,40.89,Thomas Tran,BREACHED
+4142ee0a-942f-40da-ab1f-34a7263cadbf,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:23,Leak,Critical,In Progress,2.28,No,1.54,Kirk Lawson,COMPLIANT
+dd94ea72-1ded-4de7-af31-4080305976c5,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:03,Power Outage,Medium,Open,27.21,Yes,24.38,John Rhodes,BREACHED
+458b1f44-fd26-45cf-9859-da5407329817,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:05,Pressure Drop,High,Open,2.18,No,1.48,Dennis Johnson,COMPLIANT
+01354350-76c9-4abc-93d4-d9220fb1eceb,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:12,Pressure Drop,Medium,Resolved,5.53,No,2.43,Kirk Mann,COMPLIANT
+7de9064a-c881-4cf5-b09d-096cf0de62a6,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:42,Valve Malfunction,Critical,In Progress,1.14,No,0.59,Angela Ray,COMPLIANT
+75978f5f-e809-4c59-8afb-decd45819b19,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:06,Valve Malfunction,Critical,Resolved,6.09,Yes,5.59,Rachel Pace,BREACHED
+35bbe468-2673-4846-989f-c22d35de10fd,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:52,Valve Malfunction,Low,In Progress,7.22,No,5.25,Casey Young,COMPLIANT
+540cb2e5-0969-47e9-a9de-18158c39b2c2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:24,Valve Malfunction,High,Open,12.18,Yes,8.81,Brandon Johnson,BREACHED
+3335f27b-a17b-48e2-90da-0bdede488938,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:33,Leak,High,Open,19.78,Yes,8.25,Maria Clark,BREACHED
+4e1c5089-b184-4c82-80c2-2eb43936c2df,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:49,Equipment Failure,Low,Resolved,22.23,No,5.56,Nicolas Leblanc,COMPLIANT
+caaadd73-12cc-4bd6-9431-b84942c30e98,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:11,Valve Malfunction,Critical,Resolved,6.35,Yes,4.13,Kylie Stone,BREACHED
+f3ef9c78-e9bf-4bc5-8c5f-c1b09824c8ad,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:36,Equipment Failure,Critical,Open,8.16,Yes,7.15,Carlos Dixon,BREACHED
+16eb04ab-141b-4861-a18b-d2788b6b844c,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:54,Corrosion,Low,Resolved,24.1,No,16.63,Kara Smith,COMPLIANT
+32f10fb3-e639-4117-a3c4-0160e964dc15,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:53,Power Outage,Low,Resolved,10.15,No,6.67,Christopher Cruz,COMPLIANT
+db3b3c01-0db6-418d-b191-ca3e15610a16,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:55,Pressure Drop,Low,Open,8.49,No,5.52,Phillip Weber,COMPLIANT
+fd528ae7-3526-45f4-a764-0a52473b2bc7,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:00,Valve Malfunction,High,In Progress,22.52,Yes,18.97,Tara Taylor,BREACHED
+1b9fe817-5566-4990-b0c2-c37ed43a403f,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:00,Pressure Drop,Critical,Open,10.72,Yes,4.28,Jessica Roberts,BREACHED
+81f2f476-2694-4f30-80da-bdb3964e0f49,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:24,Pressure Drop,Critical,Open,3.33,No,1.09,Taylor Davies,COMPLIANT
+f77314df-940d-44d8-9052-df936297dff5,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:23,Leak,Low,Open,63.03,Yes,7.36,Rachel Lynch,BREACHED
+e157123d-cf97-4b80-93cd-71f87d6c2d7b,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:45,Pressure Drop,Medium,Open,12.01,No,2.89,Travis Gregory,COMPLIANT
+16237df4-81ef-44ea-b885-0d4fc3d781ce,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:23,Valve Malfunction,Medium,Resolved,22.71,No,3.82,Rebecca Garcia,COMPLIANT
+a37a2c53-ccd8-4450-a900-c7d47fdd62a1,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:49,Power Outage,Critical,Resolved,9.66,Yes,8.36,Teresa Ward,BREACHED
+42cbd139-bc6c-4da9-8323-ebaea4452099,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:53,Leak,High,Resolved,3.02,No,1.03,Nicholas Elliott,COMPLIANT
+02ab16ca-41f1-4a9c-8bb6-82e75c3b9e0b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:06,Equipment Failure,Low,Resolved,42.71,No,30.94,Charles Lozano,COMPLIANT
+882e90da-4a7f-4748-b9a0-2b88c6fdb220,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:33,Valve Malfunction,Medium,Open,26.09,Yes,1.44,Joseph Ford MD,BREACHED
+c47fc578-769a-485a-8848-e9c89caf5ed4,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:12,Corrosion,Low,Resolved,49.03,Yes,29.71,Brittany Farley,BREACHED
+7a709cb6-6201-48f1-b330-98b31c4b59db,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:01,Corrosion,Critical,In Progress,4.09,Yes,2.72,Tina Austin,BREACHED
+3f7c1369-3139-4c0f-849e-1c9d58ceb461,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:50,Valve Malfunction,High,Open,2.23,No,0.56,Rachel Garcia,COMPLIANT
+4039abcc-d409-439a-8ed0-92108987240f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:04,Pressure Drop,Critical,In Progress,10.72,Yes,5.41,Jared Cline,BREACHED
+b8453c74-e490-4b99-8705-7ac9abf289be,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:22,Pressure Drop,High,In Progress,17.62,Yes,7.9,Larry Torres,BREACHED
+29bbf61f-1044-468c-aace-ae1df3973750,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:01,Corrosion,Medium,Resolved,47.58,Yes,3.91,Stephen Miller,BREACHED
+9c57d21a-5fc8-4608-8f22-e61d64904edb,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:16,Leak,Low,Open,14.9,No,14.83,David Leon,COMPLIANT
+79b5fba0-23f6-43de-ab44-120669b8c643,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:46,Pressure Drop,Medium,Open,27.35,Yes,20.06,Shawn Tyler,BREACHED
+d4b561a2-2a3f-4cf3-b6ab-16307d7ece70,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:14,Equipment Failure,Critical,In Progress,9.19,Yes,1.69,Emily Ware,BREACHED
+29bc0412-c35a-4fdc-b134-51fd77b1cb0b,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:39,Power Outage,High,In Progress,6.35,No,4.61,Heather Fitzgerald,COMPLIANT
+0e6fc83a-ff83-473d-a4f8-a3cfaac5304f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:06,Leak,Critical,Resolved,9.2,Yes,4.0,Margaret Morales,BREACHED
+71eb8cd5-0fcd-4201-bf28-69bc0b6524c2,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:07,Corrosion,Low,Open,5.53,No,3.88,Angela Strickland,COMPLIANT
+75d72b59-6949-4881-bd55-e97b2b9672e4,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:33,Corrosion,Critical,In Progress,11.63,Yes,1.23,Susan Spencer,BREACHED
+db7f2bf9-4f64-4b00-91b4-5e55b52a63c0,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:52,Power Outage,Low,Resolved,21.76,No,7.81,Carlos Tate DDS,COMPLIANT
+b2ecde4f-2cf5-4c39-b81f-f0dd8494dc73,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:00,Equipment Failure,High,In Progress,9.05,Yes,0.58,Joseph Russell,BREACHED
+5092cd98-21e2-41c2-8966-3343a91d2dd8,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:11,Pressure Drop,Medium,Resolved,1.08,No,0.74,Alexandria Douglas,COMPLIANT
+c26a125b-33f2-42be-b39f-8694e2e26d3b,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:41,Corrosion,Low,Open,26.03,No,13.74,Sarah Miller,COMPLIANT
+dbb3f4ef-53ca-4668-b466-144dd1f1dc7d,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:09,Pressure Drop,Critical,Open,5.46,Yes,3.73,Jeanette Jackson,BREACHED
+5009520e-bbf1-4449-a822-96f5b08619da,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:39,Power Outage,Low,Open,30.33,No,3.96,Danielle Cline,COMPLIANT
+17832a03-5063-4f2a-ac99-96a5ddb5d955,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:01,Pressure Drop,Low,In Progress,66.99,Yes,63.76,Jeffrey Juarez,BREACHED
+c7521926-0130-4d75-950c-8198571686d8,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:51,Equipment Failure,Medium,Resolved,29.53,Yes,28.11,Anthony Hamilton,BREACHED
+20a9e4dc-5bc1-4cac-bc91-fbd1ffd1f126,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:25,Power Outage,Critical,Resolved,2.82,No,1.44,Nicole Smith,COMPLIANT
+cc3bf9e4-a994-4c30-ae4d-efd87d546d17,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:38,Equipment Failure,Medium,Open,17.1,No,7.18,Adam Reyes,COMPLIANT
+0b2047df-a0b5-4cbe-a6b7-09922b129e98,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:13,Leak,Low,Open,13.01,No,0.73,Kelly Jones,COMPLIANT
+64905359-d689-4c81-8201-56fdf9f68c41,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:31,Power Outage,Critical,Resolved,11.01,Yes,3.72,Daniel Castro,BREACHED
+a16578f9-2a30-4561-a567-fb4ff472a14f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:39,Equipment Failure,Medium,In Progress,47.95,Yes,43.78,Melissa Randall,BREACHED
+ba10ba5f-56f3-43f3-9c4e-161d2741297f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:12,Leak,Low,Open,49.07,Yes,24.63,Alexander Burton,BREACHED
+9c8f24ed-a7fc-49f4-9f24-1b393e44f8ad,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:00,Valve Malfunction,Medium,Resolved,7.54,No,4.65,Judith Cantu,COMPLIANT
+b8d2c938-91df-451c-9119-ffe222281e74,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:32,Power Outage,Critical,In Progress,10.79,Yes,8.77,Dr. Shawn Mooney,BREACHED
+951f9dd0-eb9e-4aac-99c5-22d9032004e2,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:07,Power Outage,Low,Resolved,15.7,No,5.4,Robert Hart,COMPLIANT
+62d39214-cc63-4845-aa3c-bf97c912e311,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:42,Equipment Failure,Critical,In Progress,11.22,Yes,1.83,Tina Myers,BREACHED
+2a3d5e1b-3c9c-415c-8a9a-874cb715bef2,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:45,Leak,High,Resolved,9.04,Yes,4.65,John Long,BREACHED
+0d3056e4-9368-4133-9d22-be43131b8934,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:18,Corrosion,Low,Open,47.41,No,13.63,Erin Spencer,COMPLIANT
+48016f88-b26b-4ae3-b162-b9eb15d78d2b,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:34,Pressure Drop,Critical,In Progress,9.84,Yes,2.03,Mark Butler,BREACHED
+780bdb32-381c-4893-9926-178cf28db1d7,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:13,Corrosion,Critical,Resolved,3.78,No,1.11,Jessica Stevens,COMPLIANT
+6c0bd437-b1f2-4d1d-a896-43b3c5002ffe,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:34,Valve Malfunction,Medium,Open,2.82,No,0.85,James Berry,COMPLIANT
+0b3c1ac8-92eb-4831-95fe-2b63d8646afa,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:02,Pressure Drop,Low,Resolved,40.28,No,12.19,Matthew Hamilton,COMPLIANT
+ab5480f9-0b24-4ebe-94d6-66d6eac2ac67,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:06,Leak,Low,In Progress,23.95,No,3.65,Kristen Smith,COMPLIANT
+f578d80d-69f7-493d-a916-99a49cf2ae8f,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:23,Equipment Failure,High,Open,15.47,Yes,2.01,Greg Calhoun,BREACHED
+bb80f0a7-dc9c-495d-b2bd-466dcd7fa5c2,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:18,Power Outage,Critical,Resolved,10.67,Yes,0.74,Stacy Lutz,BREACHED
+8e139c0d-bac3-472a-8ec5-c4d062c27fd1,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:31,Corrosion,Low,Open,1.2,No,0.6,James Lopez,COMPLIANT
+c5cb7e1d-c159-468f-8f8d-086336b6724c,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:48,Power Outage,Low,Resolved,27.76,No,27.15,Ashley Keller,COMPLIANT
+efd050b6-83ac-4f29-b468-473b8699b576,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:08,Power Outage,High,In Progress,8.43,Yes,5.96,Jamie Wilson,BREACHED
+39db9d06-baae-4705-a092-3a7f52c9f4a9,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:28,Power Outage,Critical,Resolved,1.68,No,1.64,Mark Glover,COMPLIANT
+f5634277-a842-42f5-b6c7-f241463a8762,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:57,Equipment Failure,Low,Open,58.24,Yes,42.59,Elizabeth Strickland,BREACHED
+d2c3e53b-09e5-45ac-98b7-775bc2c41949,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:07,Valve Malfunction,Medium,Resolved,8.23,No,1.31,Michelle Miller,COMPLIANT
+c922acd5-0e1b-407d-bbdd-96f638ef3774,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:34,Equipment Failure,Medium,Resolved,23.57,No,9.5,Kathryn Hicks,COMPLIANT
+0cbf422c-dbe3-4544-bff1-5851837ecee4,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:49,Equipment Failure,Low,Resolved,50.4,Yes,5.27,Ronald Nelson,BREACHED
+d777a00d-ba05-4c0a-beee-81935e991603,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:17,Corrosion,Low,Resolved,69.05,Yes,3.42,Jay Johnson,BREACHED
+34dfb102-c146-4154-9756-aaf454bf8681,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:47,Pressure Drop,High,Resolved,9.74,Yes,3.75,Laura Rasmussen,BREACHED
+7bd1ffa9-e0f1-4ea1-b68e-2a449c78820e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:36,Leak,Critical,In Progress,11.21,Yes,6.29,Kristen Blair,BREACHED
+00e6d5f6-3ba2-46c8-9003-dab09ac763fd,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:41,Equipment Failure,Medium,Open,18.22,No,11.34,Wanda Stewart,COMPLIANT
+4c35f3ac-5bfc-40c3-b3fd-9869e021771e,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:19,Pressure Drop,Medium,In Progress,13.65,No,1.03,Lisa Adams,COMPLIANT
+b42550da-45ba-45be-aa30-14dd143536b5,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:45,Pressure Drop,Critical,Open,1.77,No,1.33,Elaine Griffin,COMPLIANT
+b222dc59-cfc4-4bfd-83f4-937c318574fd,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:07,Equipment Failure,High,Resolved,18.91,Yes,18.8,Vincent Mosley,BREACHED
+a9e93857-7fdd-4d33-b95c-33ce87db2b72,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:49,Leak,Medium,In Progress,6.81,No,1.08,David Perry,COMPLIANT
+589862eb-fded-4df6-84b1-122b9f3d5e11,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:14,Valve Malfunction,Medium,Resolved,36.52,Yes,19.4,Melissa King,BREACHED
+8962eb22-4f06-47f0-b944-7b20bffba3a3,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:43,Valve Malfunction,High,Resolved,4.8,No,2.84,Nicole Hall,COMPLIANT
+3556484b-4d37-4b14-981a-c85898c45b3d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:05,Leak,Low,Open,50.94,Yes,11.6,Tony Cannon,BREACHED
+a496e741-dddc-445c-a741-867df6e178bf,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:34,Pressure Drop,High,In Progress,19.52,Yes,16.27,Tammy Andrade,BREACHED
+990fd6b0-676b-4a19-ae12-3505e60fd28a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:35,Pressure Drop,Medium,Open,38.3,Yes,36.67,Andrew Horton,BREACHED
+43d74315-c9e6-4a68-9883-9bb4ad42989c,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:41,Leak,High,In Progress,20.11,Yes,11.7,Tammy Willis,BREACHED
+8503122c-f9f6-4298-abf9-69c1a15253c9,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:13,Corrosion,Low,In Progress,17.94,No,11.43,Melissa Manning,COMPLIANT
+174cb58e-fdf5-4399-9836-19fd7ef75c6b,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:49,Leak,Critical,Open,3.65,No,3.14,Benjamin Mendoza,COMPLIANT
+f1343a40-20d7-4ac5-9d24-d50f38ab531f,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:57,Equipment Failure,High,Resolved,5.33,No,5.27,Ryan Wood,COMPLIANT
+14f8c49b-7f3e-4a78-a006-5e8a87d3094e,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:08,Pressure Drop,Medium,Open,41.72,Yes,33.0,Jeffrey Berg,BREACHED
+ec2f3872-9e36-4488-9c9b-131530833c7e,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:22,Power Outage,High,Open,1.3,No,0.97,Antonio Tate,COMPLIANT
+e70dd4ed-70bc-4d0f-8b2f-1c0d404d74c9,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:50,Corrosion,Medium,In Progress,20.87,No,14.7,Tristan Sanchez,COMPLIANT
+d742000f-eac0-47a2-aacd-7c6b76a7654c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:46,Equipment Failure,Medium,In Progress,33.45,Yes,23.17,Laura Wilson,BREACHED
+71c9ab56-4ae1-471d-9c21-d10e806073af,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:41,Equipment Failure,Low,Resolved,60.53,Yes,29.11,Rhonda Bailey,BREACHED
+15f5d20c-9ae6-4404-a4cc-b772db3330e4,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:49,Corrosion,Medium,Resolved,32.59,Yes,5.38,Michelle Hendricks,BREACHED
+e5443ac9-6192-47df-a271-ab1a28e4f6bd,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:11,Corrosion,Medium,Resolved,28.76,Yes,19.11,Traci Barnes,BREACHED
+3a9184ab-63b3-4a5b-8dfa-a8bb1ff3ceef,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:01,Leak,Low,Resolved,54.47,Yes,15.38,Tricia Maxwell,BREACHED
+10c51384-d082-4839-a3c6-8ee2fbf59d55,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:14,Leak,Critical,In Progress,11.09,Yes,6.29,William Adams,BREACHED
+cebe3695-594a-46ff-9154-94d1c2fb091f,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:09,Equipment Failure,Critical,Resolved,6.58,Yes,6.43,Joel Williamson,BREACHED
+5d8f7f95-7756-4ced-bb68-16e18a3b2213,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:56,Leak,High,Resolved,5.58,No,5.04,Judith Williams,COMPLIANT
+0d8423d7-7d31-41a2-ba01-682c52064eb2,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:50,Corrosion,Low,Resolved,17.8,No,4.4,Justin Simpson,COMPLIANT
+82728c95-aab8-4409-af6f-a6340c4e5cf3,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:04,Valve Malfunction,High,Resolved,18.24,Yes,13.14,Wendy Adams,BREACHED
+44a3e89b-3895-4adb-872b-0a047e9de1e2,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:19,Equipment Failure,Medium,Resolved,34.73,Yes,17.84,Sarah Nelson PhD,BREACHED
+a804f13e-b2d8-4180-997a-faa48707d2a6,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:09,Leak,Low,In Progress,29.35,No,3.63,William Sullivan,COMPLIANT
+14e58a05-1253-4d41-b9df-6e16bc6793de,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:10,Equipment Failure,Medium,In Progress,9.71,No,3.07,Anita Clark,COMPLIANT
+3aacdf4a-2b80-4812-bb73-985bf8f8fff0,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:40,Leak,Medium,Open,47.66,Yes,2.65,Joshua Williams DVM,BREACHED
+0307296d-7f0b-4b83-8ea4-98eba03b0d9c,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:43,Power Outage,Medium,Resolved,11.96,No,7.77,Nancy Miller,COMPLIANT
+34e3a831-8fee-4526-865a-f6141014293a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:57,Valve Malfunction,High,Open,20.65,Yes,11.08,Deborah Cooper,BREACHED
+542506d6-7096-4254-a103-b8cf1883b652,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:54,Pressure Drop,High,In Progress,1.87,No,1.46,Tracy Wilcox,COMPLIANT
+266d02b7-2122-42ed-a9a7-81d4ab38d075,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:15,Equipment Failure,Critical,In Progress,6.0,Yes,1.6,Jamie Gray,BREACHED
+a8e7ea24-60fd-4857-8aec-a77fdb067f75,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:08,Leak,Medium,Open,16.25,No,5.52,Steven Small,COMPLIANT
+9f1f8007-61b2-4b73-b656-f4920b63f588,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:16,Corrosion,Critical,Open,10.74,Yes,3.14,David Griffin,BREACHED
+802fda3c-e93b-47ba-8791-35b7926c96bc,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:00,Equipment Failure,Low,In Progress,4.08,No,0.8,William Payne,COMPLIANT
+1c594ce4-d2c1-40d0-b858-37f166c74e4e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:06,Valve Malfunction,High,Open,9.65,Yes,7.13,Christine Tyler,BREACHED
+bcbf4534-8c77-4639-93b4-8cf4ef181865,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:08,Pressure Drop,Low,Open,27.19,No,19.81,Stacey Rodgers,COMPLIANT
+aed41593-f800-4775-b4c0-b952f954aa2d,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:07,Valve Malfunction,Medium,In Progress,30.6,Yes,8.69,Samuel Sullivan,BREACHED
+aa6501f5-acd5-4913-9609-5101894f3542,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:30,Equipment Failure,Low,Resolved,67.34,Yes,22.83,Kyle Wheeler,BREACHED
+b49f05ce-c159-4a54-9fd0-c0451f4ce5a7,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:39,Leak,Low,Resolved,60.51,Yes,21.75,Amanda Moore,BREACHED
+ac2dbfbe-57ed-48d5-8987-b9cd66f477ed,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:49,Pressure Drop,Medium,Resolved,8.09,No,3.18,Jessica Erickson,COMPLIANT
+0d81ff87-1012-4810-8777-94309d54c9fe,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:54,Corrosion,Low,Open,7.89,No,6.63,Roger Sanchez,COMPLIANT
+b3da653d-d80b-4b3e-9821-adf656bd7a26,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:17,Corrosion,High,Resolved,17.75,Yes,3.99,Mark Pacheco,BREACHED
+a34f43c8-3a7c-40cc-9f50-1b360ee3671c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:01,Equipment Failure,Medium,In Progress,32.37,Yes,12.24,John Turner,BREACHED
+3b3a1689-1134-4d77-b906-014a9432fc37,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:25,Power Outage,Medium,In Progress,6.0,No,1.86,Tina Miller,COMPLIANT
+59002c9e-18ff-4c5a-829c-548e31ff23db,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:58,Power Outage,High,In Progress,6.38,No,3.72,Maria Gibson,COMPLIANT
+84b8aa2d-de9e-457c-8630-609527d73c7e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:18,Pressure Drop,Low,In Progress,11.51,No,6.32,Joshua Wood,COMPLIANT
+1ac96165-ebbf-4798-9862-295ba9027c7b,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:51,Power Outage,Critical,In Progress,3.34,No,0.99,Donna Marshall,COMPLIANT
+6a93f3d5-6488-4e46-a383-acfecd3ba105,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:52,Corrosion,Critical,In Progress,5.25,Yes,0.74,Alexander Griffin,BREACHED
+88308985-15ac-443b-ae23-3b3ffa27e06d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:06,Equipment Failure,Low,Open,32.32,No,15.62,Dwayne Gutierrez,COMPLIANT
+03196bdb-3bc6-4246-9838-db919bb195ba,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:17,Leak,High,Open,17.08,Yes,2.23,Chris Morgan,BREACHED
+8b9e08d4-c277-4d1a-aa88-c458414438ba,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:55,Corrosion,Critical,Resolved,11.27,Yes,5.0,John Walker,BREACHED
+ab3d5e0b-923c-4610-9bfb-fb6e1334cdc2,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:46,Corrosion,Medium,In Progress,5.2,No,2.34,Kelly Johnson,COMPLIANT
+455c6975-b87c-4ac7-a951-9593e2f3bcec,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:08,Valve Malfunction,Low,In Progress,53.15,Yes,45.73,Tonya Hubbard,BREACHED
+0d9eb57b-05ef-4ce8-9063-5a88658efffc,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:39,Valve Malfunction,Medium,In Progress,10.44,No,5.76,John Cabrera,COMPLIANT
+5078203e-5bb7-4593-9191-ae24d91a9db4,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:38,Pressure Drop,Low,Resolved,7.7,No,4.67,John Shannon,COMPLIANT
+1d12de0f-de73-4ab9-8176-4f4f30e541a1,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:59,Leak,High,Open,22.34,Yes,7.06,Randy Garcia,BREACHED
+da14ba57-a50a-4a34-941a-948fd8646836,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:11,Pressure Drop,Critical,In Progress,1.41,No,1.32,Amy Moss,COMPLIANT
+c77d4ac5-8d8f-4c3c-add1-d754dc6cc541,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:32,Valve Malfunction,Low,Open,49.77,Yes,6.26,Shaun Smith Jr.,BREACHED
+378d0793-af4a-4e9f-bf25-d83050f4b37e,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:06,Equipment Failure,Low,Open,17.03,No,16.37,Heather White,COMPLIANT
+1aac4fb7-dbd8-42c8-8e66-370da49c3e19,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:38,Valve Malfunction,Low,In Progress,13.27,No,0.97,Lawrence Rhodes,COMPLIANT
+18baba6c-7442-48b7-82d1-cfad958cb5e3,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:09,Leak,Medium,Resolved,30.72,Yes,17.33,Tommy Rice,BREACHED
+979d427f-d13d-4550-89a9-d294404cdc70,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:10,Pressure Drop,Medium,Open,29.29,Yes,18.53,Denise Brown,BREACHED
+a5bbe8ea-e78c-4367-a07d-c9891c65068b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:33,Leak,Medium,Open,26.49,Yes,5.83,Melanie Turner,BREACHED
+1a5722a9-1958-40d7-84a2-a214288e7aec,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:01,Pressure Drop,Low,In Progress,35.62,No,6.09,Darlene Edwards,COMPLIANT
+494eea3f-82b0-4555-8716-cd85974307e2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:41,Pressure Drop,Medium,Open,12.24,No,7.55,Judy Garrison,COMPLIANT
+2576d622-a6d0-49f2-987f-6d5205a24b2f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:34,Corrosion,High,Open,12.18,Yes,0.54,Stacey Mercer,BREACHED
+3a0adc68-8541-4e1c-8188-2024146c0595,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:29,Corrosion,Medium,In Progress,20.22,No,1.56,James Black,COMPLIANT
+6034a463-2390-45a7-a9af-e4803a822371,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:40,Power Outage,High,Open,9.09,Yes,1.77,Julia Lopez,BREACHED
+920738f7-024e-431f-b71b-0ba64a76192a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:32,Power Outage,Critical,Resolved,6.73,Yes,5.46,Diana Sharp,BREACHED
+4f7fa410-1c82-40f5-b8c7-c479a2fb50c0,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:07,Power Outage,Critical,Resolved,5.18,Yes,4.35,Michelle Hart,BREACHED
+80ab2522-1e7d-4e17-8a73-6a69fe4397a1,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:58,Valve Malfunction,Low,In Progress,50.14,Yes,8.02,Patrick Grant,BREACHED
+afe346e0-943f-4582-ab65-1c935ed3cc25,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:50,Pressure Drop,Low,In Progress,9.38,No,8.1,Alyssa Smith,COMPLIANT
+30c452c0-bd1f-4705-adcd-5e6780c1b559,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:05,Valve Malfunction,High,In Progress,17.0,Yes,4.73,Matthew Elliott,BREACHED
+59a0ac30-5337-4b4f-bd4c-06c270693cdb,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:55,Valve Malfunction,High,Open,11.67,Yes,7.7,Debra Mckinney,BREACHED
+2260f5cf-e143-4e69-83c5-d475590aea73,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:36,Corrosion,Critical,In Progress,9.71,Yes,5.61,Tammy Arnold,BREACHED
+6f14612e-6405-4820-b3ca-737f7ee6fb5b,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:22,Equipment Failure,Low,In Progress,30.67,No,27.43,Kelly Cantrell,COMPLIANT
+e87282d5-7edd-4d52-aa55-c4315512d425,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:26,Power Outage,Low,In Progress,23.45,No,1.02,Brad Barnett,COMPLIANT
+5cdf0644-c779-4c67-94cb-7d97eda1b4da,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:14,Power Outage,Medium,Resolved,13.73,No,4.34,Miranda Lam,COMPLIANT
+5806f2bc-52b2-465e-9a80-2c2ff815574e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:42,Leak,Critical,Open,1.21,No,0.84,Jennifer Velasquez,COMPLIANT
+45029ad9-95bb-4843-85ab-e7fb2b2e074b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:47,Equipment Failure,Medium,Resolved,40.18,Yes,31.02,Alejandro Stafford,BREACHED
+800ef3dc-ee08-4f86-b256-1db67914941f,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:00,Leak,Critical,Open,4.91,Yes,3.95,Timothy Garrison,BREACHED
+4b7b90d4-fd2a-4a4f-80a6-e2aa4add99e0,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:26,Valve Malfunction,Critical,In Progress,2.85,No,2.77,Lisa Byrd,COMPLIANT
+fb2ebcfe-7d5d-4028-b9fa-33e38b502b9c,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:18,Power Outage,Critical,Resolved,7.48,Yes,2.62,Paula Moreno,BREACHED
+3936ca9c-c5f4-4943-8f57-41f765128a8b,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:38,Corrosion,Critical,Resolved,9.44,Yes,1.46,Maria Roach,BREACHED
+07b2e65c-61bc-479e-9667-54cd8ecd429e,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:21,Equipment Failure,Medium,Open,42.82,Yes,35.51,Carol Frazier,BREACHED
+4997fa2e-726d-4375-a889-524187f0134d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:04,Leak,High,Resolved,7.73,No,2.01,Michael Henry,COMPLIANT
+b33b1674-b746-46ed-ad3d-d3bd95f28ab8,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:53,Leak,High,Open,13.09,Yes,5.1,Kevin Moody,BREACHED
+0d639fb2-2e5c-4487-aded-b37ef919a557,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:55,Power Outage,Medium,In Progress,42.6,Yes,26.21,Valerie Patterson,BREACHED
+b4576b76-ff92-42d6-b609-6c2812d7583b,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:48,Equipment Failure,Medium,In Progress,24.29,Yes,20.29,Mr. Matthew Moore DDS,BREACHED
+4679453f-9c0a-4687-8117-7fb35f297850,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:50,Leak,Medium,Resolved,1.93,No,1.77,Mr. Phillip Gillespie,COMPLIANT
+0277fc39-6091-4908-a4b8-319db256daeb,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:43,Valve Malfunction,Medium,Resolved,14.82,No,9.61,Amy Garrett,COMPLIANT
+1cdaf346-4e05-4f6c-9bc5-b2e31440ef48,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:25,Corrosion,Medium,Open,35.49,Yes,12.72,Brett Harris,BREACHED
+6802df31-ac29-4271-b8ec-9c4222dec47f,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:36,Leak,Critical,In Progress,6.0,Yes,1.58,Cynthia Holmes,BREACHED
+bd9ae394-eea6-4b11-9167-fd7ef000cdaf,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:02,Leak,Medium,Open,32.77,Yes,26.89,John Wise,BREACHED
+5d45b03c-ccb5-435d-937a-2eb5c155e5a4,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:08,Pressure Drop,Medium,Resolved,3.69,No,1.19,Wesley Keller,COMPLIANT
+098a1375-1189-47c5-8139-e8f8a44f851b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:35,Valve Malfunction,Low,Open,36.6,No,12.72,David Thompson,COMPLIANT
+b0da975d-1005-460b-9278-2f6b0c9a29ae,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:52,Leak,High,Open,18.33,Yes,0.77,Daniel Floyd,BREACHED
+3adbc5c7-6835-47e7-b6a8-40a368411487,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:44,Leak,Medium,Resolved,23.45,No,12.31,Elizabeth Powers,COMPLIANT
+dfb43def-c785-4680-8f69-1ffb1f8bb664,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:37,Leak,Medium,Open,21.75,No,16.2,Dawn Taylor,COMPLIANT
+839c67ac-0c99-4c4c-b820-5801e8cc5507,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:30,Equipment Failure,Low,In Progress,46.76,No,20.58,Kimberly Odonnell,COMPLIANT
+614780ab-95a4-4525-bea9-fd2186b6962d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:39,Leak,Critical,Open,8.6,Yes,8.38,Scott Barr,BREACHED
+b6fc6dee-d5b0-4ecd-8208-1b506cb22588,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:55,Power Outage,Medium,Resolved,17.59,No,9.64,Eric Sheppard,COMPLIANT
+818155a3-8d60-4653-be54-4fe32ad0ba18,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:59,Power Outage,High,Resolved,1.9,No,1.52,Darlene Aguilar,COMPLIANT
+e5953f09-a040-4f52-80c6-444299506862,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:48,Corrosion,Critical,Resolved,2.22,No,1.39,Taylor Simpson,COMPLIANT
+13f59cd7-c865-4863-b641-59483c1fda2a,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:47,Leak,Low,Open,17.99,No,16.29,Mary Graham,COMPLIANT
+ed506596-b7b1-4b2f-bbcf-31254fb8a668,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:12,Valve Malfunction,Low,Resolved,10.44,No,7.57,Patricia Anderson,COMPLIANT
+70e90e26-b844-4915-913f-678b03c78ce4,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:06,Leak,Low,Resolved,25.81,No,1.77,Nicole Welch,COMPLIANT
+ba433a42-2688-4525-aad9-fbd647efaae1,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:05,Pressure Drop,Medium,In Progress,22.91,No,22.3,Angela Wilson,COMPLIANT
+953ade74-6cbf-4df6-a243-b22383cf4bcf,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:32,Corrosion,Low,In Progress,8.15,No,7.63,Eileen Stone,COMPLIANT
+94c695f9-a058-4a57-99db-415b123c7a16,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:41,Power Outage,Low,In Progress,31.39,No,16.63,Matthew Hall,COMPLIANT
+f9c31368-a46f-42d5-92fc-f207ea2da4c5,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:03,Valve Malfunction,Critical,In Progress,10.74,Yes,1.3,Karen Carter,BREACHED
+9a23ec53-93fc-4425-9181-bc7afc28ee0d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:05,Pressure Drop,Medium,Open,40.98,Yes,34.88,Rita Bishop,BREACHED
+42d85346-3514-4276-8965-5dfba1d0bddf,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:18,Corrosion,Critical,Open,11.66,Yes,5.2,Joe Booker,BREACHED
+7f2813bf-4073-4967-aa7b-08f27da3886d,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:19,Leak,High,Resolved,6.84,No,3.1,Anna Gray,COMPLIANT
+c7bfecc8-95d4-47ce-940a-02acb0379b86,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:55,Corrosion,Critical,Open,10.26,Yes,3.79,Krista Shaw,BREACHED
+e234a327-d4e7-472d-b76e-2fd88c2bc67e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:05,Valve Malfunction,High,In Progress,16.6,Yes,3.27,Amber Clark,BREACHED
+8613fc69-9ab8-4524-91ff-849919bda22d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:15,Valve Malfunction,Low,In Progress,37.04,No,1.38,Cameron Parks,COMPLIANT
+45ba1785-3de7-4341-9f50-33bee9077365,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:20,Leak,Critical,Resolved,3.15,No,0.98,William Patrick,COMPLIANT
+b9a8abcc-3dbc-46e0-8adb-c25beac8a91b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:44,Pressure Drop,Critical,Resolved,2.89,No,1.51,Elizabeth Barrett,COMPLIANT
+0b8df2d7-0ae7-483d-8301-1aaf10167923,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:33,Equipment Failure,Medium,Resolved,27.54,Yes,22.04,Christina Walton,BREACHED
+870a5083-1f2e-4e9a-b809-eaaccfb199c9,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:47,Valve Malfunction,Low,Open,37.03,No,14.13,Andrew White,COMPLIANT
+8ba56d95-f83f-4d13-ad69-8597b832712d,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:26,Equipment Failure,High,Open,10.13,Yes,5.48,Eric Diaz,BREACHED
+228d35b9-c136-4464-8acc-ed762b765a20,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:38,Power Outage,High,Open,6.89,No,0.96,Christine Jacobs,COMPLIANT
+819d73ed-4d4e-4750-a34b-22ae166e52f5,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:12,Leak,Critical,In Progress,7.97,Yes,6.52,Becky Gomez,BREACHED
+9c0bb92c-6391-4cd5-a2c1-a7f5d7d771df,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:08,Corrosion,Medium,Resolved,19.23,No,0.86,Randy Moore,COMPLIANT
+e32d8f6f-3b71-4727-a1f0-23ee7b746791,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:12,Corrosion,Medium,Resolved,18.28,No,12.38,Alfred Flores,COMPLIANT
+c22f1aad-28dc-4177-80d8-f02a7fe1ca24,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:29,Pressure Drop,High,Resolved,12.95,Yes,7.98,Jennifer Andersen,BREACHED
+e917654b-daf8-402a-94ef-b1f97b0c0751,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:11,Valve Malfunction,Low,Resolved,56.92,Yes,51.71,Kevin Townsend,BREACHED
+b5afb0a1-2b7c-4cfc-b57f-b7759092d018,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:44,Valve Malfunction,Critical,Resolved,5.19,Yes,0.53,Robert Graves,BREACHED
+65ce31f3-e387-431f-9900-17683f9f68ad,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:54,Pressure Drop,Low,Open,39.11,No,35.13,Robin Rose,COMPLIANT
+db7f054b-0e19-4709-acef-dd6192462964,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:57,Pressure Drop,Low,Open,59.13,Yes,1.01,Taylor Schmidt,BREACHED
+15085b21-bfbc-4622-a711-97e7009e8356,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:12,Pressure Drop,Low,Open,69.09,Yes,45.8,Samantha Harris,BREACHED
+3d01206f-0b21-4d18-ade4-21061737495e,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:25,Pressure Drop,Critical,Resolved,8.97,Yes,3.79,Lisa Dean,BREACHED
+36dccf4b-97f5-4e04-ae6c-685f7b2da388,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:30,Corrosion,Critical,Resolved,5.12,Yes,4.77,Brian Faulkner,BREACHED
+080b5a6f-8b1f-4e7e-a6ba-8e283bbe1191,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:08,Leak,Critical,Resolved,5.53,Yes,5.1,Karen Knapp,BREACHED
+1d5611ca-7e43-4c29-ba39-9b6736698312,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:55,Corrosion,Medium,Resolved,16.86,No,6.27,Melanie Ho,COMPLIANT
+4f678750-67a1-4172-bb93-d3f31d7b6520,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:16,Leak,High,Open,23.38,Yes,14.28,Cathy Ford,BREACHED
+09975dff-1bdf-42cf-80f4-699fd5427204,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:40,Corrosion,High,Resolved,7.82,No,3.95,John Hill MD,COMPLIANT
+9ec0cbc0-25ea-4a34-9b4f-450fa61eacf6,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:19,Pressure Drop,Critical,Resolved,5.48,Yes,4.25,Diane Bailey,BREACHED
+11fa0522-b31b-4d16-940e-cc8aa83b1eb8,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:47,Equipment Failure,Critical,Open,2.31,No,1.38,Jodi Myers,COMPLIANT
+6f6b7a3b-a1fe-49a2-be82-ec2d7a168969,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:44,Corrosion,Medium,In Progress,4.76,No,1.31,Karen Pierce,COMPLIANT
+2cd2a9af-b4d4-45df-8094-16ee50c319b8,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:46,Corrosion,High,Open,7.22,No,0.6,Michael Nunez,COMPLIANT
+b8a69aa0-4bd5-41e4-a639-d1348251173f,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:19,Power Outage,High,Resolved,15.56,Yes,7.31,Emily Ramos,BREACHED
+da4a3eca-972f-4172-98a8-6e56244550c0,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:00,Leak,Medium,Resolved,39.75,Yes,3.91,Kristen Gonzalez,BREACHED
+36f6e148-5158-45b5-95df-35a3d7bcf68a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:37,Pressure Drop,Medium,Open,21.08,No,19.89,Makayla Li,COMPLIANT
+3091cc53-0e22-4813-95fe-0791758d368d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:48,Power Outage,Critical,Resolved,10.47,Yes,5.84,Megan Smith,BREACHED
+6b8eb6da-f149-4271-81bd-242b93bc6506,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:24,Pressure Drop,Medium,Open,34.6,Yes,2.47,Jon Mitchell,BREACHED
+9a027ece-d9d5-422c-9368-e0817797c683,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:44,Leak,Critical,Resolved,4.85,Yes,1.76,Zachary Williams,BREACHED
+830fe3c0-efcb-45e9-8355-f30724ed9d58,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:19,Pressure Drop,Medium,Resolved,29.02,Yes,4.36,Christopher Haynes,BREACHED
+e625ea37-8d62-435c-b7a3-69ec26f70be1,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:42,Corrosion,Medium,Open,16.38,No,11.45,Jacob French,COMPLIANT
+5c2e1e58-4752-4e74-ad78-ddbba3e74e72,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:02,Equipment Failure,Low,In Progress,68.2,Yes,2.14,James Fuller,BREACHED
+0877f8f8-7731-4ac1-a565-824eed0d933a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:02,Power Outage,Critical,In Progress,8.77,Yes,6.33,Brian Daniels,BREACHED
+eee47e31-63a6-4d40-9c79-c5f37206d319,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:12,Power Outage,Low,In Progress,13.73,No,5.71,Mark Smith,COMPLIANT
+732f2dd9-fc1e-4261-aecb-ba2c1ed97375,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:02,Leak,High,In Progress,16.75,Yes,13.71,Crystal Hamilton,BREACHED
+1b7e77be-03e4-4069-90e4-faaef657a74f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:23,Pressure Drop,Medium,In Progress,37.34,Yes,25.74,Kenneth Austin,BREACHED
+d30a1764-5aaf-4e32-a1b8-d64d53be7629,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:18,Power Outage,Medium,In Progress,15.04,No,3.63,David Schmitt,COMPLIANT
+f97d624c-b792-4287-8608-823128db06e5,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:03,Valve Malfunction,High,Open,23.5,Yes,9.25,Roger Villa,BREACHED
+544ea121-9ade-4f0a-b9f6-401304ceb602,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:46,Pressure Drop,High,Open,19.96,Yes,6.98,Steven Spencer,BREACHED
+dd7b12d7-625b-481a-9244-cf36fa7bede7,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:06,Corrosion,High,Resolved,22.87,Yes,0.93,Kevin Harrington,BREACHED
+73496ebd-a7af-4c5d-bb3f-a6ede17fb731,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:03,Leak,Medium,In Progress,12.91,No,11.79,Tyler Summers,COMPLIANT
+a8c395d6-76bc-47c8-abbd-8932bf71a9eb,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:43,Leak,Critical,Open,10.86,Yes,0.56,David Bridges,BREACHED
+fbc8d983-62e1-41b3-ac9b-9402cacfb249,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:07,Leak,Medium,In Progress,17.9,No,13.02,Sarah Hall,COMPLIANT
+1e3d7488-8570-468b-a94a-d486f4085ee0,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:30,Valve Malfunction,Critical,Resolved,7.22,Yes,2.54,Debra Jackson,BREACHED
+282d1917-3916-4f90-a82d-e43303ff0e85,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:30,Power Outage,Medium,Resolved,22.83,No,7.29,Kevin Moreno,COMPLIANT
+f240d4d0-cfeb-4515-aa15-933c4baf68a0,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:47,Pressure Drop,Medium,In Progress,19.59,No,2.06,Justin Mahoney,COMPLIANT
+36fd11d2-7e84-4cae-ba2b-24136c9af1ca,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:49,Corrosion,Critical,Open,4.02,Yes,0.64,Alex Oliver,BREACHED
+0e46a8c6-8485-4932-a3e2-18597b129f95,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:57,Leak,High,Open,7.31,No,7.23,Destiny Snyder,COMPLIANT
+b24b7c7e-5674-4f12-97f7-0b4ccb075e05,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:52,Equipment Failure,Medium,In Progress,28.16,Yes,3.92,Michael Foster,BREACHED
+eb34f4cf-c31e-4f72-87d8-5d5bc83e7ffc,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:18,Power Outage,High,Resolved,19.64,Yes,1.66,Lisa Jones,BREACHED
+acdf42a5-077b-4143-a3f8-14d18602637d,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:46,Corrosion,Critical,In Progress,5.59,Yes,2.91,Greg Wall,BREACHED
+cdd74369-0791-46b6-8604-cca48351c48c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:28,Pressure Drop,Medium,In Progress,28.03,Yes,10.52,Martin Martinez,BREACHED
+443e2241-b559-4c97-bac6-be6fdd9db784,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:17,Corrosion,Critical,In Progress,5.43,Yes,2.52,Kenneth Munoz,BREACHED
+0ad31c04-a51c-4a47-b9d3-cabce91b8973,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:28,Corrosion,High,Resolved,2.14,No,1.64,Patricia Sanchez,COMPLIANT
+4c401d2e-789e-4853-be6b-3f986819e372,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:53,Leak,High,In Progress,5.54,No,1.16,Juan Ali,COMPLIANT
+323e19b1-a1ad-49a9-b8f9-7a8f36f5bb35,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:05,Valve Malfunction,Medium,Open,4.73,No,3.54,Leah Edwards,COMPLIANT
+33328425-86c8-4929-bbc7-624eb164e972,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:14,Power Outage,Low,Open,56.77,Yes,29.47,Mrs. Jennifer Edwards,BREACHED
+76116dba-7036-4261-acf9-89f3425d551c,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:46,Leak,High,In Progress,6.64,No,3.06,Logan Jenkins,COMPLIANT
+25a6b1bf-fd4d-4b63-9a72-679ec617fe42,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:04,Power Outage,Critical,Resolved,1.79,No,1.06,Isabella Miller,COMPLIANT
+936fb92d-3caa-472c-8862-b1e0d998db86,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:54,Valve Malfunction,High,Resolved,4.0,No,2.96,Larry Moreno,COMPLIANT
+63066a3c-4b92-422d-afd0-9391712e8503,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:58,Power Outage,Low,Open,43.42,No,29.61,Sherri Mitchell,COMPLIANT
+61ecb8c4-7aaa-4b4b-a491-039ee76d2933,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:27,Corrosion,High,In Progress,14.83,Yes,4.32,Stephanie Smith,BREACHED
+519cef75-9dde-4fc1-adf6-f74ee73b770b,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:17,Corrosion,Critical,In Progress,6.58,Yes,1.64,Jacqueline Murphy,BREACHED
+3ea8e550-24aa-4adb-b734-a194948a76a6,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:46,Equipment Failure,Critical,Open,5.9,Yes,4.05,Tara Brown,BREACHED
+fac98904-808b-4c2a-90d6-9df4376ffe04,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:02,Pressure Drop,Low,Open,50.75,Yes,37.3,Julie Johnson,BREACHED
+767aef30-b5f3-4817-8840-60e77544f638,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:58,Power Outage,High,In Progress,14.61,Yes,3.42,Deanna Garcia,BREACHED
+bddafefa-9d93-4d0c-9a69-618a940da80a,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:28,Valve Malfunction,High,Open,4.86,No,1.84,Cynthia Green,COMPLIANT
+461d2961-dd5b-405d-ac0d-ddd22200c851,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:20,Corrosion,Critical,In Progress,3.72,No,3.31,Eric Jordan,COMPLIANT
+67cb7013-7a8c-4cef-8f35-a7871ce6724c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:20,Leak,Critical,Open,10.55,Yes,7.53,Alex Arias,BREACHED
+20414849-904f-4180-9820-5f50a51e7580,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:19,Valve Malfunction,High,In Progress,9.22,Yes,5.76,Lonnie Dougherty,BREACHED
+4542dc06-10fa-4cd3-b60b-21079cecf23f,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:01,Corrosion,Low,Open,56.03,Yes,52.26,David Byrd,BREACHED
+a2c1fe13-80fa-41d3-b7e5-233bf54151c4,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:41,Valve Malfunction,Low,Resolved,58.36,Yes,12.11,Eric Knight,BREACHED
+6603e02d-eef0-4386-85a0-30d8824936cd,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:48,Valve Malfunction,Low,Open,49.89,Yes,37.85,Sean Cherry DDS,BREACHED
+bc4c732c-b6e0-45f1-9039-8ae55aab77ab,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:20,Equipment Failure,Low,Resolved,2.81,No,1.81,Danielle Shelton,COMPLIANT
+d832e5ed-58d5-4472-a565-b81ba09f5b2e,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:16,Pressure Drop,Medium,Open,28.44,Yes,26.46,Taylor Garcia,BREACHED
+9944fb58-6511-47fa-9e8d-ef1a35d48466,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:57,Power Outage,Low,Open,56.73,Yes,44.19,Kyle Shelton,BREACHED
+a9adc8c0-43cd-45ff-8b57-f16a1a77669a,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:20,Leak,High,In Progress,4.16,No,2.31,Brian Banks,COMPLIANT
+bd95ce77-3328-4b94-a75a-dcdfc420b3a2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:54,Pressure Drop,Critical,Open,1.17,No,1.14,Daniel Rodriguez,COMPLIANT
+a4a37042-68c6-4d18-8524-1a5ba16b2ade,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:51,Power Outage,Low,Open,47.03,No,5.78,Alyssa Hill,COMPLIANT
+62fee9c3-5d14-4d15-b8ed-857ddf77f781,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:48,Power Outage,Low,In Progress,68.51,Yes,4.02,Christina Bishop,BREACHED
+abcfe4e6-e13f-4efb-ab6d-bf37a54b5033,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:29,Pressure Drop,Critical,Open,7.58,Yes,1.17,Nancy Lang,BREACHED
+4f0e38a4-7be3-49bd-a639-98aaaff3d7b2,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:35,Equipment Failure,Critical,In Progress,6.92,Yes,0.92,Patrick Moore,BREACHED
+eeceefec-56c4-4ee8-9561-daa12a8ee75a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:39,Pressure Drop,High,Resolved,10.76,Yes,4.64,Kenneth Mercado,BREACHED
+8fa5a4b4-6e55-4ba8-b479-869524def100,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:06,Equipment Failure,Medium,In Progress,43.88,Yes,5.53,Andrea Woods,BREACHED
+76beaa26-35c0-4e28-b7ce-5cb894d62084,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:15,Equipment Failure,Medium,Open,35.63,Yes,11.09,Andrew Mcdonald,BREACHED
+8f5b9998-72e7-4738-be2f-3b5d8bcc38d5,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:53,Pressure Drop,Critical,Resolved,10.05,Yes,9.2,Dustin Washington,BREACHED
+9aac1e28-7185-43c3-80f8-dabb7387bd7d,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:28,Leak,Critical,Open,11.68,Yes,1.14,Christopher Howard,BREACHED
+f3653617-18aa-45e1-b373-83f397e559fb,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:44,Corrosion,Medium,Open,2.03,No,0.86,Meghan Robertson DDS,COMPLIANT
+a5d8d01e-17b5-4378-8ae4-f37f7fe0e010,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:09,Corrosion,High,Resolved,11.72,Yes,3.38,Holly Robinson,BREACHED
+0b1d8aaf-92e8-4325-96cd-bee887a72d09,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:57,Pressure Drop,Medium,Resolved,7.38,No,3.79,Jack Garcia,COMPLIANT
+d4f055d4-e5da-462e-9ab3-26d2e16723d5,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:11,Leak,High,In Progress,21.27,Yes,17.19,William Jones,BREACHED
+399567db-5309-426e-be2f-33f7cbc613d9,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:05,Pressure Drop,Medium,Open,39.55,Yes,27.92,Robert Mckinney,BREACHED
+1b36ddd4-fbd3-424e-ad76-6eb769a89260,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:10,Leak,Low,Resolved,23.35,No,13.1,Christopher Ramirez,COMPLIANT
+c590be54-d297-41c5-9533-d8c9055c0832,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:14,Power Outage,Medium,Resolved,42.71,Yes,23.05,Timothy Griffin,BREACHED
+41e67892-0f89-4d2c-87cb-206d91edfde7,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:08,Corrosion,High,In Progress,23.18,Yes,15.33,Ryan Nichols,BREACHED
+520b7c65-2bd7-4c57-aec3-243ca34ecbe5,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:16,Leak,High,Open,22.43,Yes,10.52,Brittany Fields,BREACHED
+ecaea5fd-aaf2-4c83-b8ce-3e3fae011cd4,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:09,Corrosion,High,Open,1.71,No,0.61,Brandi Thomas,COMPLIANT
+cc517c01-e51b-4110-a211-9e3fa58a76e4,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:38,Corrosion,Critical,Resolved,6.81,Yes,4.84,Sergio Hicks,BREACHED
+eed1277d-ebdc-445e-82d0-7cc5bc206393,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:22,Equipment Failure,Medium,Open,28.65,Yes,28.25,Elizabeth Lynch,BREACHED
+52858aed-350e-4437-85a3-6ec0d1352837,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:40,Equipment Failure,Critical,Open,9.03,Yes,0.93,Jon Berry,BREACHED
+b87708c6-251e-40a2-8068-ca5189dce782,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:32,Valve Malfunction,Medium,Resolved,12.86,No,5.4,Brenda Gonzales,COMPLIANT
+03605335-8d3f-4ce6-adfb-700155c6ac23,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:02,Valve Malfunction,Critical,Open,5.5,Yes,3.72,Micheal Larsen,BREACHED
+274e9d89-a60e-45b7-bad5-d920c682f779,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:49,Power Outage,High,Resolved,3.93,No,0.57,Hannah Dixon,COMPLIANT
+0dce2255-8046-49a2-9edc-88e8a39ebdc8,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:56,Corrosion,Critical,Resolved,3.91,No,3.21,Christine Washington,COMPLIANT
+8884e9ec-bc5c-4378-94da-84299fd28e22,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:23,Power Outage,Medium,Resolved,33.08,Yes,22.94,Shane Harris,BREACHED
+5155d4d6-1d7a-4f05-a0aa-420d0bd9c8d3,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:43,Valve Malfunction,Critical,Open,7.25,Yes,3.74,Joshua James,BREACHED
+bc06f4f4-e6b6-41d4-9cfd-0ee1bec2614f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:05,Leak,Critical,Resolved,2.23,No,1.06,Dennis Hunt,COMPLIANT
+d20af082-36b4-40b2-802d-b47ad51fb33b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:13,Corrosion,High,Resolved,4.53,No,2.01,Lynn Rogers,COMPLIANT
+c8f11d70-f3a5-463b-9e8a-ffbe793d5f04,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:00,Pressure Drop,Low,In Progress,9.22,No,1.11,Brittany Jackson,COMPLIANT
+888599c8-8d95-41fe-8011-4bb7e45e1273,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:43,Corrosion,Low,Resolved,46.16,No,45.81,Melissa Elliott,COMPLIANT
+b336b6e8-2851-4a20-a3ef-daa3c2222265,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:30,Corrosion,High,Resolved,23.25,Yes,15.42,David Silva,BREACHED
+fb8019d1-c253-488d-b8df-3a092beb0316,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:37,Valve Malfunction,High,In Progress,16.17,Yes,6.55,Carrie Robinson,BREACHED
+01665cbd-480d-47dc-8318-8f27f381cd0a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:04,Pressure Drop,High,Resolved,16.98,Yes,9.07,Jose Warren,BREACHED
+9a5a2430-1e58-411b-a6e5-965a3d4f99e3,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:57,Equipment Failure,High,In Progress,11.25,Yes,5.27,Suzanne White,BREACHED
+d33f3c0b-f07c-487a-9b2a-797ef7c34897,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:47,Equipment Failure,Medium,Open,16.07,No,3.15,Kevin Jones,COMPLIANT
+9c93d904-078c-4abc-8ce3-87c0641720db,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:46,Corrosion,Low,In Progress,43.04,No,29.38,Nicholas Gardner,COMPLIANT
+6136bf3c-b8bf-471c-ae1f-4bf0ce7319bf,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:15,Pressure Drop,High,Open,9.54,Yes,4.98,Vickie Richardson,BREACHED
+2a7b1f8c-848e-44c7-853f-7be5ffb90fb8,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:40,Corrosion,Medium,In Progress,35.46,Yes,16.71,Jennifer Thomas,BREACHED
+238b6e54-8332-400c-beea-588533fb7676,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:56,Pressure Drop,High,Open,21.18,Yes,17.04,Karen Holmes,BREACHED
+d0f800ef-bba4-4938-9f97-8fd782d3711b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:37,Equipment Failure,Medium,Open,44.04,Yes,10.8,Megan Perkins,BREACHED
+8631d1d0-97dc-484c-8521-8e2ce7c79c1b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:14,Corrosion,Low,Resolved,47.7,No,1.75,Melissa Payne,COMPLIANT
+b7d87afd-f5cf-4d61-b612-ee1def6b8052,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:42,Leak,Critical,Open,9.14,Yes,7.45,Patrick Collins,BREACHED
+c4b3545d-95ff-4400-9402-17589d2c5deb,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:14,Valve Malfunction,Low,Resolved,7.89,No,2.76,Jason Miller,COMPLIANT
+d91638a5-74e3-49b2-a783-1f943ca777ca,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:32,Pressure Drop,Medium,Open,40.24,Yes,38.15,Zachary Colon,BREACHED
+6572a56d-5e0b-4db2-9361-97c45d09ab3b,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:43,Power Outage,Critical,Resolved,2.33,No,1.31,Shannon Robertson,COMPLIANT
+40e4b356-ec34-41b8-8dfa-bc424521cc7f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:20,Corrosion,Medium,Resolved,33.54,Yes,22.59,Austin Cooper,BREACHED
+833d8a9f-a373-4e91-ab90-5fae8fe38258,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:35,Corrosion,High,In Progress,20.91,Yes,1.18,Brian Richards,BREACHED
+8e032837-3d53-40c7-8ca2-c62d41771905,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:07,Valve Malfunction,High,Open,4.42,No,0.71,Mr. Tyler Mendez,COMPLIANT
+ca68971b-f188-4d69-b868-33b8dd6ba4ce,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:05,Leak,High,In Progress,6.29,No,2.47,Tony Bass,COMPLIANT
+270424eb-d14f-43b4-94db-bc343641dc2a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:08,Corrosion,High,In Progress,19.57,Yes,7.83,Tammy Lee,BREACHED
+e6539e50-ca31-43da-998d-1f41d13bb226,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:07,Pressure Drop,Medium,In Progress,40.28,Yes,1.53,Wanda Holland,BREACHED
+cca2d5e9-dfb1-4328-8071-d47ff9bd7f8a,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:54,Valve Malfunction,Medium,Resolved,33.87,Yes,3.95,Anna May,BREACHED
+101a422f-c7aa-4104-8662-a6fcb7381a26,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:18,Valve Malfunction,High,Resolved,19.44,Yes,8.32,Jonathan Murphy,BREACHED
+7cc05ecb-cbc7-4489-936c-2cbe1f999a83,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:13,Equipment Failure,Critical,Resolved,9.33,Yes,3.97,Kimberly Walters MD,BREACHED
+a0224acf-380f-4dc9-8306-d628f4aeef22,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:29,Valve Malfunction,Low,Open,13.78,No,9.81,Cassandra Walker,COMPLIANT
+798a1d50-098d-438b-b562-d68a6f84556a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:11,Pressure Drop,High,Resolved,6.26,No,3.78,Vincent Black,COMPLIANT
+bbedd33d-72d5-450d-aac0-f809bcca474e,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:30,Equipment Failure,Medium,Resolved,31.18,Yes,28.12,Scott Cruz,BREACHED
+1f431551-7f06-41d2-8a44-1565fd76b39f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:16,Valve Malfunction,Low,Open,59.28,Yes,49.62,Evelyn King,BREACHED
+fda362df-25cc-499f-82a9-6f66fd7b44dc,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:25,Leak,Critical,Resolved,1.17,No,0.62,Claire Mooney,COMPLIANT
+501319e6-0ee2-4aaa-bfcb-8abc8551e89b,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:36,Pressure Drop,High,Resolved,2.73,No,2.53,Julia Brown,COMPLIANT
+583a5d74-2268-4cd1-abde-0f96bdd898a7,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:32,Leak,Critical,In Progress,9.77,Yes,0.95,Sharon Watkins,BREACHED
+74207559-ec67-4fde-b276-0015db48bb2f,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:17,Valve Malfunction,Medium,Open,20.6,No,19.1,James Reed,COMPLIANT
+2d592e06-a381-470e-8173-d639e5e5568f,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:51,Pressure Drop,Medium,In Progress,18.39,No,15.67,Samantha Davis,COMPLIANT
+fc210c22-605d-4e0c-a8c3-aa5076471b74,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:07,Pressure Drop,Low,Resolved,37.07,No,2.21,Timothy Walker,COMPLIANT
+088f9704-469f-48f2-9fa6-f7cfe81bc9e7,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:32,Pressure Drop,Medium,Open,37.79,Yes,18.16,Patrick Martinez,BREACHED
+eab03978-4748-43f2-a616-b3c50da17b22,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:04,Pressure Drop,Medium,Resolved,1.55,No,0.96,Brenda Perkins,COMPLIANT
+08f859bc-2825-47a3-82ca-55ca5c6a10b8,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:10:07,Equipment Failure,Low,In Progress,23.45,No,20.73,Alvin Smith,COMPLIANT
+259b36d4-764f-4ddc-b0ac-a4232ce035d5,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:54,Power Outage,Low,Resolved,47.95,No,28.49,Joshua Snyder,COMPLIANT
+56742950-941a-4bef-8bac-addc40751ac8,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:25,Corrosion,Low,Resolved,13.76,No,8.98,Mark Conley,COMPLIANT
+d5c5d5b0-f3ac-4ee9-9a90-d20c95054e10,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:19,Equipment Failure,Medium,In Progress,45.94,Yes,45.31,George Weaver,BREACHED
+ef180eaf-5a9a-41d4-8f1c-d9d86af8aa95,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:35,Equipment Failure,Critical,Open,3.37,No,2.98,Brooke Brown,COMPLIANT
+5ff53c71-3f81-4fb5-a830-c88442b76a1e,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:20,Corrosion,Critical,In Progress,11.34,Yes,3.42,Victor Terry,BREACHED
+3d6e96d2-2e44-494c-ae7f-48c92cfafda3,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:10,Valve Malfunction,Medium,In Progress,31.57,Yes,4.71,Brandy Velez,BREACHED
+94bb6d3f-db19-4ea4-bf4b-5ab91090df86,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:12,Equipment Failure,Low,Open,71.36,Yes,31.43,Dakota Grant,BREACHED
+4a3de796-eec5-4194-b715-d9ec6dbc7538,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:06,Equipment Failure,Low,Open,58.46,Yes,45.62,Dennis Krause,BREACHED
+076744d7-f062-46cc-abe7-238eb8cec7c3,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:23,Corrosion,High,Resolved,10.27,Yes,9.8,Elizabeth Mullins,BREACHED
+088487dc-4617-4310-9a7c-1166aa424007,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:38,Valve Malfunction,Critical,Resolved,8.65,Yes,2.97,Lisa Buckley,BREACHED
+ae23276b-dabc-46ba-98bf-cabaf5c718f6,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:04,Valve Malfunction,Critical,Open,7.92,Yes,7.71,Mark Bryan,BREACHED
+72687143-631e-4e25-b2a3-8a9e1be3653d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:01,Leak,Medium,In Progress,2.25,No,0.57,Leonard Flynn,COMPLIANT
+798f3d9e-1b0b-4718-9031-9ea4ca70e367,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:10,Pressure Drop,Low,In Progress,65.1,Yes,54.68,Robert Carroll,BREACHED
+8e902aa5-0b05-4489-8d5a-4e3f8cf1e186,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:38,Equipment Failure,Critical,Resolved,10.82,Yes,5.78,Michael Bonilla,BREACHED
+f01d27b8-8b51-4ef2-a1e3-8f0668269333,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:04,Corrosion,High,In Progress,3.06,No,1.4,Michael Gray,COMPLIANT
+7d827080-0dbf-400a-9a0d-addf17b94a82,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:45,Pressure Drop,Critical,Open,5.22,Yes,1.03,Mr. Casey Griffin,BREACHED
+ae8623e6-38e2-43de-8ae9-cc6b4508600e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:13,Power Outage,High,In Progress,14.16,Yes,11.25,Natalie Kennedy,BREACHED
+e3ae6b5e-abd5-4bdf-a453-7cca41dd3001,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:38,Equipment Failure,Low,In Progress,48.29,Yes,17.12,Jeffrey Mcdaniel,BREACHED
+344482d5-5d84-4581-9b70-7de4b67fcd31,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:39,Leak,Critical,In Progress,2.37,No,1.61,Karl Shea,COMPLIANT
+b09eb644-0352-4c86-8656-94291b6f97ab,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:23,Power Outage,Low,In Progress,61.34,Yes,48.04,Shawna French,BREACHED
+3149c45e-1c35-4023-be41-caa087c92992,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:15,Corrosion,Low,Open,21.79,No,3.61,Joshua Edwards,COMPLIANT
+e544b07f-a45a-420a-a980-77c98d9f0482,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:06,Pressure Drop,Low,Open,47.15,No,12.05,Michael Jones,COMPLIANT
+3c2ebbde-eb8f-438c-8111-dcdad1188497,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:03,Power Outage,Low,In Progress,20.26,No,6.54,Brett Bishop,COMPLIANT
+4805f371-351b-432c-b3e9-c358527a8204,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:50,Pressure Drop,Medium,Resolved,19.3,No,9.27,Joseph Wells,COMPLIANT
+85ad0827-d33e-412c-b453-0136a18ef94f,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:01,Valve Malfunction,Critical,Open,11.05,Yes,8.94,Monica Manning,BREACHED
+8cc19459-edbc-4afa-a71f-d51c256fec1c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:10,Pressure Drop,Low,In Progress,54.48,Yes,30.55,Tina Morrow,BREACHED
+33955d43-2913-46d1-9ce7-0c99d36e259e,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:18,Equipment Failure,High,Open,15.6,Yes,2.72,Thomas Gibson,BREACHED
+716fdeba-45a3-4949-a9b4-31c4450b7502,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:26,Pressure Drop,Critical,In Progress,5.5,Yes,4.96,Jodi Ferguson,BREACHED
+bcd64ed1-a0a4-4e2d-89a1-1cd8ee6dd377,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:54,Pressure Drop,Critical,Open,1.12,No,0.74,Timothy Turner,COMPLIANT
+6fdac045-f16f-4f9a-824b-581a9988819d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:22,Valve Malfunction,High,Open,16.28,Yes,13.36,Rachel Irwin,BREACHED
+b4cd0219-78da-4837-907a-d949bb3ced3e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:23,Power Outage,High,In Progress,8.58,Yes,6.87,Rita Salazar,BREACHED
+f945d5b1-f32f-44df-9e32-6fb21c6fad6b,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:06,Power Outage,High,Open,5.91,No,3.6,Richard Chambers,COMPLIANT
+efafbed7-a69a-4497-a1f6-279276c586bf,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:22,Valve Malfunction,Low,Open,46.22,No,26.94,Crystal Brown,COMPLIANT
+5281e839-8bac-4d11-80b2-e65ec03168b6,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:18,Pressure Drop,High,Open,8.33,Yes,6.24,Bryan Lewis,BREACHED
+b786ec9b-b34a-4d1a-8781-dcd87659be69,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:10,Valve Malfunction,High,Open,11.82,Yes,11.67,Mark Gomez,BREACHED
+130836ce-5c15-4cac-898b-cbd05744ffc5,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:01,Leak,Medium,In Progress,2.34,No,0.98,Karen Allen,COMPLIANT
+85b86676-698e-42d2-9c59-e933adf078f2,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:31,Power Outage,High,Open,6.69,No,4.8,Rhonda Scott,COMPLIANT
+5999491c-3ed7-4962-a61b-088a7052ffab,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:40,Leak,Low,Open,2.37,No,0.69,Anna Brooks,COMPLIANT
+8e87a097-994a-41bf-b00f-d241fa154040,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:51,Corrosion,Medium,Open,46.14,Yes,37.98,Beth Henderson,BREACHED
+fbfc6c7a-1bcc-4209-bfc4-e5f08459f8f8,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:47,Leak,Critical,In Progress,1.6,No,0.71,Arthur Pitts,COMPLIANT
+b34d04c8-276c-41a9-9246-427c238ebbfd,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:06,Power Outage,Critical,Resolved,7.37,Yes,6.44,Zachary Mcdonald,BREACHED
+01f1b251-40c3-4677-ad1e-a26897d54f8d,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:13,Corrosion,Critical,In Progress,5.94,Yes,0.58,Ricky Walker,BREACHED
+4a5ec12f-9dda-4fce-a689-b382088cd97d,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:21,Power Outage,Medium,Open,45.29,Yes,15.48,Kelly Best,BREACHED
+ec2ae48b-7e91-48a9-a01d-665c6d5315b3,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:51,Equipment Failure,High,Open,23.86,Yes,1.24,Richard Young,BREACHED
+28ea5b25-a712-40e5-9c5e-59e7485bd07a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:23,Power Outage,Medium,Open,31.93,Yes,5.02,Julie Wang,BREACHED
+7bfba224-75b8-401e-925f-f41d80c77e34,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:45,Valve Malfunction,Low,In Progress,43.35,No,10.41,Barbara Mcclure,COMPLIANT
+bef90a28-3666-4fc4-9c53-d60a14f71db7,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:55,Power Outage,Critical,Resolved,4.15,Yes,3.78,Zachary Erickson,BREACHED
+241b3efe-d4d9-4353-b178-13a6c5de9a11,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:45,Power Outage,Low,Resolved,67.85,Yes,49.03,Michael Hill,BREACHED
+092983dc-70d8-430e-8efc-48a7c4195e26,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:35,Leak,Low,Resolved,1.23,No,1.1,Ashley Jarvis,COMPLIANT
+53ea3924-827b-405b-b86c-6d07d047daa0,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:00,Pressure Drop,Low,Resolved,60.11,Yes,38.3,Kayla Green,BREACHED
+abcb3319-9efe-4677-b2ce-50586fa34589,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:42,Equipment Failure,Medium,In Progress,16.77,No,7.53,Katrina Miller,COMPLIANT
+fa8e4fb9-0f78-4657-806e-ac1613560bc4,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:51,Power Outage,Medium,Open,23.66,No,3.37,Jessica Ramirez,COMPLIANT
+936a9f14-f46a-4a13-b570-6d8aaafdcd04,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:48,Corrosion,Low,Resolved,67.65,Yes,18.2,Melissa Bailey,BREACHED
+016d0bb8-1408-413c-8f02-25b1e38ec0d5,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:27,Equipment Failure,Critical,Open,3.26,No,2.99,Rebecca Rivera,COMPLIANT
+59abc78c-7691-4d55-9fe2-338266490d17,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:21,Power Outage,Critical,In Progress,7.19,Yes,2.99,David Hall,BREACHED
+820258c0-e4c9-445b-b74b-6225826f5268,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:33,Corrosion,Medium,Resolved,28.81,Yes,21.64,Jennifer Pena,BREACHED
+ca63dc93-1279-437a-9b85-915e8c78b090,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:18,Pressure Drop,Critical,Resolved,11.9,Yes,8.97,Tiffany Boyd,BREACHED
+62e95ab0-a77e-42d5-a5af-2894125f45a0,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:09,Valve Malfunction,Medium,Open,16.68,No,6.98,Desiree Stewart DDS,COMPLIANT
+d16898b8-a112-4adb-bdc1-20f55efda7bc,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:58,Leak,High,Open,9.33,Yes,8.93,Andrew Collins,BREACHED
+53f2490a-ea6d-4a73-96da-1d29bef0ba70,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:38,Valve Malfunction,Critical,In Progress,8.48,Yes,2.01,Michael Mcclain,BREACHED
+e42a7f46-58f8-4a4d-acda-a36f6998ccd6,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:23,Equipment Failure,Critical,Resolved,3.68,No,1.1,Sarah Williams,COMPLIANT
+5ec29aaf-a50f-401a-a793-caf7da8095a7,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:03,Leak,Critical,Open,8.83,Yes,1.49,Bill Jones,BREACHED
+e23ce435-f6e1-40ec-a512-dc33adc1f65d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:02,Leak,High,Open,7.94,No,7.73,Carla Smith,COMPLIANT
+afd31726-0e40-4cc5-addf-0d31102874bf,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:19,Pressure Drop,Medium,Resolved,9.46,No,1.6,Amanda Castillo,COMPLIANT
+06211954-519b-4108-aa00-268a0e95c30e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:41,Pressure Drop,High,Resolved,15.69,Yes,6.37,Amanda Braun,BREACHED
+a7559c4f-507a-415c-9af7-addc437569a1,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:50,Corrosion,Low,Open,3.08,No,1.99,Dustin Holt,COMPLIANT
+bf48d237-44ee-46ac-9008-f6e6172f530c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:04,Valve Malfunction,Critical,Resolved,9.36,Yes,7.28,Edward Hatfield,BREACHED
+9ea0d19f-4789-45f5-a075-a6534e619417,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:51,Equipment Failure,High,Open,2.86,No,2.33,Kristen Chapman,COMPLIANT
+eb2daac5-c7c0-4916-9e3d-38a2dfb46879,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:10:05,Power Outage,Medium,In Progress,37.07,Yes,28.91,Thomas Nelson,BREACHED
+a3ac0ce8-1b76-44b2-891b-b6e4e7f98eac,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:59,Equipment Failure,Medium,In Progress,4.32,No,2.95,Amanda Allison,COMPLIANT
+a76af409-4295-49f0-87e1-1d1cbd417af7,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:23,Power Outage,Low,Open,25.08,No,23.62,Gregory Dixon,COMPLIANT
+c8720488-e718-4ad6-86fb-2b1169180c16,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:44,Pressure Drop,Critical,Resolved,4.05,Yes,2.33,Daniel Patterson,BREACHED
+3082766a-c2cf-44da-83fa-833ef8d67c10,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:38,Valve Malfunction,High,Open,15.46,Yes,14.31,Luis Williams,BREACHED
+17b417ec-1021-4064-bb18-0926dc6225d9,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:49,Equipment Failure,High,Resolved,5.25,No,1.51,Wanda Orozco,COMPLIANT
+6f0e97ae-2445-4a48-b817-778508a71afa,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:45,Corrosion,Medium,Resolved,12.89,No,6.86,Stephen Clark,COMPLIANT
+fe75537b-64f6-44d9-8d71-b4f1a8566be4,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:42,Pressure Drop,Medium,Open,36.64,Yes,6.49,Kathleen Pena,BREACHED
+3e9a8c25-94f1-4584-89b5-b44757986377,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:09,Equipment Failure,High,Open,7.63,No,2.38,Christopher Tran,COMPLIANT
+a75495e9-d344-4523-9674-3822bbdc2d91,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:08,Pressure Drop,Low,Resolved,2.74,No,1.55,Juan Cordova,COMPLIANT
+d38b24b4-c49c-45e1-aef5-fe1bb6b060b6,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:45,Power Outage,Critical,Resolved,10.85,Yes,7.37,Steven Terry,BREACHED
+5aeb9e39-9556-4936-93e7-e7755759b8c2,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:15,Leak,Medium,Open,8.27,No,3.21,Kimberly Morgan,COMPLIANT
+44c6f4b9-639b-4de4-aedf-a8c82928885b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:15,Power Outage,Medium,In Progress,14.99,No,7.07,Amy Ashley,COMPLIANT
+b410556a-2a7a-4af9-a9f3-32866e145e7f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:49,Valve Malfunction,Medium,Resolved,13.83,No,1.71,Julie Paul,COMPLIANT
+e8f76c76-cd99-467a-94ad-6d98267e91b0,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:14,Corrosion,Low,Open,58.29,Yes,14.54,Christine White,BREACHED
+e087c0a1-5804-407a-9032-57e5b8c9d911,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:28,Equipment Failure,Low,Open,51.04,Yes,24.9,Danielle Gibson,BREACHED
+ad37e7a0-1d83-4b4d-86a6-0ca47f65b40d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:21,Pressure Drop,Low,In Progress,12.21,No,6.88,Daniel Young,COMPLIANT
+77aa5cd9-7a0d-4a13-b93e-2b6ae4dede21,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:04,Valve Malfunction,Critical,In Progress,3.41,No,0.91,Alexander Potter,COMPLIANT
+6c7928d3-334c-4bb0-82d3-02e11dd25f04,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:35,Leak,Low,In Progress,63.33,Yes,61.92,Jessica King,BREACHED
+ac26b0fe-9e78-4a27-a519-eead8ce38f23,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:29,Valve Malfunction,Medium,In Progress,14.5,No,10.69,Julia Hunter,COMPLIANT
+adeffe73-7aab-432f-bc2d-4cbdb89d2f94,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:59,Valve Malfunction,High,Resolved,3.03,No,2.77,Donna Haynes,COMPLIANT
+f251d36e-2b4b-412a-a0cc-51a842441067,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:19,Equipment Failure,Medium,In Progress,31.36,Yes,10.99,Andrea Moore,BREACHED
+0aef4b36-413a-4537-9e52-1a376b09a135,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:45,Power Outage,High,Open,13.04,Yes,8.74,Patricia Palmer,BREACHED
+b6d4250c-63e4-4d08-afdd-74add910ea2e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:46,Pressure Drop,Low,Open,53.73,Yes,27.97,Timothy Pearson,BREACHED
+a1ebef4d-4354-4913-bfb9-6eb18772934f,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:19,Equipment Failure,Low,Open,1.41,No,1.07,Kim Gamble,COMPLIANT
+ca43c2b7-4610-42d3-8e4e-e509635b4685,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:29,Pressure Drop,High,Resolved,4.38,No,0.9,Julie Barnes,COMPLIANT
+6a836364-0685-464b-9dcc-47a9e26250d3,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:48,Equipment Failure,Medium,Resolved,42.75,Yes,19.33,Erica Norris,BREACHED
+d49198f0-76cd-4271-9270-7951792ec9eb,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:54,Pressure Drop,Critical,Open,10.0,Yes,3.47,Kristi Hendrix,BREACHED
+b4fdeb40-9a41-465d-bfb3-7da5b0b81013,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:28,Valve Malfunction,Medium,Open,14.64,No,4.7,Angela Martin,COMPLIANT
+d09f4e87-e4a9-4cb8-ab3c-d2a817cb6f24,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:11,Valve Malfunction,Low,In Progress,7.3,No,6.81,Kimberly Scott,COMPLIANT
+eb1b3ee7-7be9-4ad6-8bd5-4d7222390b0d,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:38,Valve Malfunction,Critical,Resolved,6.17,Yes,1.32,Tiffany Griffith,BREACHED
+2c1305d6-1bb0-47b6-a5ad-1b51677a7f14,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:13,Valve Malfunction,Critical,Resolved,4.45,Yes,2.67,Richard Carr,BREACHED
+2d3c6e55-2cdf-4407-99a5-a712e1006f0c,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:03,Equipment Failure,Low,In Progress,54.51,Yes,22.25,John Nicholson,BREACHED
+95bed77d-ed48-4af6-a8a9-2766c7ee19b3,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:04,Equipment Failure,Low,Resolved,67.67,Yes,50.35,Jeffrey Johnson,BREACHED
+45414141-15b9-4a1b-9c90-a05cdbe8ebc0,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:45,Power Outage,Critical,In Progress,8.74,Yes,2.99,Douglas Morrison,BREACHED
+59098db1-58c1-4fca-825f-36d962c08143,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:50,Leak,Low,In Progress,23.23,No,5.87,Daryl King,COMPLIANT
+eae9e203-402c-410d-8c80-2d2f4b189ce2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:42,Power Outage,Critical,In Progress,8.38,Yes,3.79,Robert Barber,BREACHED
+720cb754-9021-44d6-b545-a190f4dee8b5,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:16,Power Outage,Low,In Progress,22.26,No,3.14,John Baxter,COMPLIANT
+da894f48-c65d-42ae-915e-1a0cd5b06cbe,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:51,Leak,Critical,Open,8.83,Yes,0.71,Bethany Allen,BREACHED
+878fd177-c03a-4dd3-b0c2-5e88714b6357,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:14,Leak,Low,In Progress,21.89,No,9.11,Ryan Williams,COMPLIANT
+2e91580f-8e41-46b0-b488-b2a9deee4a29,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:09,Corrosion,High,Resolved,22.87,Yes,6.21,Michael Larsen,BREACHED
+065d8c53-0b2d-47ae-b2b3-a9c0e8a72777,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:41,Pressure Drop,Critical,In Progress,4.07,Yes,1.29,Amanda Smith,BREACHED
+3a300927-06ba-443f-893e-8e16275e4620,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:44,Power Outage,Critical,In Progress,1.62,No,1.61,Brian King,COMPLIANT
+eb435607-36d0-421e-8919-7aca09bdb4e5,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:23,Power Outage,High,Open,7.14,No,5.36,Christopher Smith,COMPLIANT
+f0ef8746-4b2d-4f1c-8fe6-934284143483,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:02,Equipment Failure,Low,Resolved,53.54,Yes,8.58,Kenneth Colon,BREACHED
+ddda3802-c45a-4e1f-b3d4-c5ec0331f4b2,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:27,Leak,Low,Resolved,41.6,No,37.86,Mr. William Gregory,COMPLIANT
+5282ee4f-3a38-4ac8-a9da-94b16172c52b,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:47,Leak,Low,Resolved,71.39,Yes,66.32,Lee Davis,BREACHED
+ae8214d1-88fe-40ae-bba9-448ab43e6791,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:20,Pressure Drop,Critical,Resolved,3.99,No,2.05,Jesse Porter,COMPLIANT
+65ad0ec8-ae4e-4257-a90f-2f3af747916a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:23,Power Outage,Critical,Resolved,6.02,Yes,2.44,Karen Marsh,BREACHED
+d4552f75-f869-4932-a411-e4d69a7ecbab,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:11,Pressure Drop,Medium,Resolved,34.5,Yes,6.23,Joshua Erickson Jr.,BREACHED
+9c8898a1-4d04-4202-8764-ee24cfbc9892,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:38,Corrosion,Critical,In Progress,1.94,No,0.68,Heather Hunter,COMPLIANT
+b2513c3c-08cd-47d4-8a1d-52a68b563903,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:32,Leak,Critical,Resolved,3.14,No,1.88,Jacob Parsons,COMPLIANT
+b16e0c4e-63ee-4942-922d-b478b5ebed42,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:50,Power Outage,Medium,Open,24.61,Yes,3.27,Erica Daugherty,BREACHED
+6da087ee-89de-449a-9595-b359f3180028,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:51,Valve Malfunction,High,Open,14.25,Yes,14.14,Jennifer Dominguez,BREACHED
+8bf3c15c-ccc1-4a1b-b592-ca3825bacd6b,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:15,Equipment Failure,High,Resolved,11.66,Yes,7.53,Eduardo Murphy,BREACHED
+b0f1f858-2c9c-4b0f-95e3-dc638fa9ea20,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:57,Leak,Low,In Progress,39.79,No,8.01,Jeanne Mcdonald,COMPLIANT
+ab379bd5-60da-408a-9141-e9acc674c679,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:30,Valve Malfunction,Low,Open,33.49,No,3.18,David Hooper,COMPLIANT
+20a7fa2f-2330-4e95-8308-7692108a82c9,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:51,Corrosion,Low,In Progress,66.98,Yes,39.79,Casey Gardner,BREACHED
+bbd17362-3906-445d-adcb-9c289c5802ce,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:06,Corrosion,Medium,In Progress,27.36,Yes,18.25,Kristen Crane,BREACHED
+033d3d7a-a160-496a-8120-d2653400201f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:29,Valve Malfunction,Low,Resolved,38.98,No,6.45,Darren Thomas,COMPLIANT
+1afeb8da-5952-474a-8efe-ebbf01ba7f31,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:35,Pressure Drop,Low,Resolved,70.57,Yes,58.63,Mario Smith,BREACHED
+ebf50575-f679-4f19-bbf3-d419d763c977,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:59,Leak,Medium,Open,18.58,No,1.96,Malik Richardson,COMPLIANT
+6f4b5061-502c-4bd7-9155-58576994b88b,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:41,Equipment Failure,Critical,Resolved,7.83,Yes,3.97,Brett Castro,BREACHED
+7aa7068a-1f4c-4012-a55a-e1e15d2534a0,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:11,Power Outage,Low,Open,45.43,No,39.74,Aaron Duncan,COMPLIANT
+a143baf8-81ba-404c-b424-8c1674d7e2ed,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:58,Power Outage,Low,Resolved,34.39,No,32.5,Philip Myers,COMPLIANT
+51df6bce-0ec3-4941-bc26-74d692b06864,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:39,Power Outage,Low,In Progress,34.7,No,25.07,Michael Bates,COMPLIANT
+e84e6c8c-9122-4077-af93-60a239288063,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:50,Leak,Low,Open,68.85,Yes,34.79,Bryce Moore,BREACHED
+3a4577f7-cbd9-4cd6-8b41-9dcfdf140f88,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:03,Pressure Drop,High,In Progress,19.57,Yes,1.25,Maria Parker,BREACHED
+8309d40d-978c-4ef7-834d-24d4c802381c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:16,Leak,High,Resolved,9.33,Yes,8.07,Catherine Ross,BREACHED
+c260fa5b-d3d6-4f35-bd90-cd9a810487d5,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:09,Leak,Critical,In Progress,1.17,No,0.62,John Evans,COMPLIANT
+1c42f98a-b40d-47c7-9197-5f4f1a5f8700,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:10:07,Leak,Low,Resolved,10.37,No,9.07,Todd King,COMPLIANT
+7250f0c5-9a25-4ad9-a9e7-f5a5c1dd848c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:50,Pressure Drop,Critical,Open,6.03,Yes,4.05,Michael Carroll,BREACHED
+c2937cd5-9a0b-4774-b102-6c3221974d1e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:49,Corrosion,Medium,Resolved,6.52,No,5.19,Adam Payne MD,COMPLIANT
+f7dee258-dfe3-48b4-816c-8401d3ad44c0,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:11,Equipment Failure,High,In Progress,19.62,Yes,5.42,William Wilcox,BREACHED
+b80d35e5-4aa2-4f9c-a44a-3252b36f8eab,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:45,Equipment Failure,Medium,Open,35.17,Yes,7.3,Thomas Graham,BREACHED
+5014889c-14ad-4ae7-9215-45b2ccd0b318,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:52,Leak,Low,Open,59.86,Yes,42.93,Jessica Michael,BREACHED
+4e213887-de77-48bd-ac0f-46fecf6bfbf0,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:26,Pressure Drop,Low,Resolved,62.3,Yes,12.25,Gina Thompson,BREACHED
+4ef91d39-d876-488b-83e3-8941e2277486,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:07,Leak,Low,In Progress,29.16,No,5.39,John Mcguire,COMPLIANT
+b9f42ad3-adea-4fb2-8d58-2dac7255f4df,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:16,Corrosion,Low,Open,51.33,Yes,44.03,Courtney Lawson,BREACHED
+186383f8-f786-4691-9c4b-d7a22f219821,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:28,Equipment Failure,Medium,Open,31.78,Yes,18.82,Wanda Moore,BREACHED
+f51a2d69-7160-4882-a5d0-6cf6a48cd8bb,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:49,Corrosion,Critical,In Progress,8.5,Yes,7.3,Mark Flynn,BREACHED
+24757957-3fa3-4c92-88cf-1b798724ecac,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:52,Valve Malfunction,Medium,Open,38.42,Yes,8.72,David Barker,BREACHED
+0c68ae4f-0725-415d-877d-aa0bd3fbebf3,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:21,Pressure Drop,High,Resolved,23.41,Yes,15.0,Michael Brooks,BREACHED
+4d8d619d-000c-4189-ae14-3701d65961ff,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:18,Pressure Drop,Low,In Progress,33.81,No,3.25,Erika Taylor,COMPLIANT
+439dae61-eb8d-4b0a-8aaf-85993292305e,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:56,Leak,Medium,In Progress,45.64,Yes,16.32,Nicholas Phillips,BREACHED
+28cca7e0-4353-48c9-9609-cc61c9b10052,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:32,Corrosion,Critical,Open,3.6,No,1.88,Miss Andrea Dunlap,COMPLIANT
+fa2974d3-7fb1-49a9-9d12-b60af31546c5,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:05,Equipment Failure,High,Resolved,17.73,Yes,7.06,Victor Hicks,BREACHED
+abec5a9d-74a3-4b75-b940-515b565d375d,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:04,Valve Malfunction,Low,In Progress,22.0,No,12.98,Julia Briggs,COMPLIANT
+529d3dba-00e2-49b7-9049-77d1e44a5c73,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:51,Power Outage,Critical,Resolved,3.75,No,0.66,Molly George,COMPLIANT
+89be1275-a46b-48eb-a9f1-6d94d1968bb0,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:00,Corrosion,Low,In Progress,27.14,No,22.67,Jay Williams,COMPLIANT
+37f847df-a664-496e-80c2-af7958fd3283,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:08,Leak,Low,Open,59.64,Yes,5.5,Lorraine Reynolds,BREACHED
+adbbaac1-6b81-43e6-96ff-0a1321ecd2d9,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:36,Valve Malfunction,Critical,In Progress,4.43,Yes,1.09,Jerry Yu,BREACHED
+b944b08c-8c1e-4443-8887-07c3120cf084,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:02,Pressure Drop,Medium,In Progress,21.1,No,14.59,Timothy Johnson,COMPLIANT
+b2c848e7-7afa-475a-a806-0aed0e20937c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:10,Leak,High,Resolved,12.45,Yes,1.28,David Phillips,BREACHED
+1a89c50c-d68a-42a9-ab89-e73ce57413a7,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:10:05,Leak,High,Open,23.37,Yes,18.64,Ashley Brown,BREACHED
+c3031ea9-7671-4574-bbe4-ba3d9461b240,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:38,Leak,Low,Resolved,18.33,No,4.08,Lisa Green,COMPLIANT
+edd681db-fd62-44b0-baf7-6dcb31ac08ee,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:01,Power Outage,High,In Progress,11.23,Yes,10.11,Michael Beltran,BREACHED
+5cc43eab-462c-4b27-8f3b-767cafdd3b6c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:28,Corrosion,Low,Resolved,57.55,Yes,57.05,Kristen Knight,BREACHED
+8b3b8308-7dde-45fb-ac9f-cf4ae5417aab,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:27,Valve Malfunction,Medium,Open,37.7,Yes,17.82,Oscar Williams,BREACHED
+f2ab96ec-aec5-42e6-b4b9-491ef0de2511,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:10:02,Corrosion,Critical,Open,1.51,No,0.62,Christian Miller,COMPLIANT
+c5341503-5978-4b82-b9fb-df6750242abb,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:25,Valve Malfunction,Low,Resolved,41.24,No,24.81,Michelle Craig,COMPLIANT
+bc14d85e-3c05-4b81-8763-71406406e7b1,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:23,Leak,Medium,In Progress,39.07,Yes,26.42,Karen Hinton,BREACHED
+1817113c-da6b-42f7-b218-6c6146c3dc6f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:09,Valve Malfunction,Low,Resolved,43.6,No,27.44,Jason Romero,COMPLIANT
+dd5990f4-ee7d-42f5-a86c-9fde1d486157,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:54,Power Outage,Critical,Open,3.06,No,1.35,Mrs. Terri Green DDS,COMPLIANT
+b5061e40-95ec-4e6e-9583-87b06bfaebfa,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:19,Power Outage,High,In Progress,1.58,No,1.33,William Hughes,COMPLIANT
+39f15198-8c21-4f6e-86b1-8d9eb2a0d77a,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:15,Leak,Medium,Resolved,29.76,Yes,17.75,Chloe Moore,BREACHED
+9d106301-3e23-4079-9320-a63e6c61ba5f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:09,Power Outage,Low,Open,6.31,No,1.04,Jacqueline Cortez,COMPLIANT
+e35243cb-2b01-43a9-8d92-310fc0e97a92,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:11,Corrosion,Low,Open,26.2,No,16.38,Dana Cabrera,COMPLIANT
+fd441a58-b8c2-4580-ab4e-91d88f0d2d67,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:12,Valve Malfunction,Low,In Progress,42.67,No,40.63,Rachel Estrada,COMPLIANT
+10e9ac96-d43a-4070-bd90-208bb98d6054,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:18,Equipment Failure,High,In Progress,22.49,Yes,2.38,Patrick Heath,BREACHED
+48c59e9d-6b48-4a37-833a-7eebf5035708,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:10,Power Outage,Low,Open,6.18,No,1.64,Kristin Barry,COMPLIANT
+3e857807-a99b-4583-8d65-c97bc9fd01f9,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:26,Leak,High,In Progress,16.81,Yes,9.47,Deanna Porter,BREACHED
+39d351c4-a544-49be-8298-83b404e20785,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:12,Pressure Drop,Medium,Resolved,17.13,No,16.2,Susan Callahan,COMPLIANT
+a8744d68-55fa-42b0-a4f0-2c3455cd40c9,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:20,Leak,High,Open,18.43,Yes,3.4,Jennifer Hamilton,BREACHED
+b14104db-fef0-4343-88fc-83bd274ae242,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:54,Power Outage,Low,In Progress,65.5,Yes,60.44,Brittany Bird,BREACHED
+94af7ab6-87a4-4d11-97bf-019f5d3d3eac,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:58,Valve Malfunction,Medium,Resolved,38.81,Yes,14.48,Michelle Stewart,BREACHED
+9c19e53b-d572-4233-91cc-f20233c4c92d,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:25,Pressure Drop,Critical,In Progress,11.98,Yes,1.8,Elizabeth Chavez,BREACHED
+cc29037a-fcde-4638-aec4-dbee4e246e7c,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:19,Equipment Failure,Medium,Open,3.26,No,3.05,Ashley Turner,COMPLIANT
+b92da451-b8b0-4739-8fb2-0f6487c56994,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:29,Valve Malfunction,Low,In Progress,58.47,Yes,52.22,Mary Hoffman,BREACHED
+1351157a-9edf-4c5e-8745-7ff94226d94a,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:28,Pressure Drop,Low,In Progress,67.91,Yes,26.2,Gregory Ferguson,BREACHED
+ddea7ddf-5b07-4168-8c6f-1e1e8350a663,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:31,Power Outage,Critical,In Progress,2.04,No,1.46,Kevin Dennis,COMPLIANT
+48460772-1e9e-45c9-81e1-efd4abbaab08,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:23,Equipment Failure,Low,In Progress,57.21,Yes,35.65,Joseph Harris,BREACHED
+f6eed94c-6bfd-43c3-b89d-e63d1ec207b8,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:26,Power Outage,Medium,Resolved,12.23,No,9.17,Phillip Greene,COMPLIANT
+ffffa4b1-b96d-4fa3-add1-6fc20f172241,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:39,Leak,Low,Open,63.59,Yes,28.64,David Harvey,BREACHED
+5ab6a5dc-8743-4565-8fac-d453c5ecbb12,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:23,Valve Malfunction,Low,Open,14.44,No,5.96,Karen Rodriguez,COMPLIANT
+6d9626cf-b34e-4b07-a051-401d26e8e10f,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:31,Valve Malfunction,High,In Progress,6.05,No,5.59,Christopher Perez,COMPLIANT
+a93d748b-55a0-459e-94af-ff003aa1f3a7,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:47,Equipment Failure,Medium,In Progress,18.05,No,11.21,David Grant,COMPLIANT
+71b90762-7a4e-4973-88e3-95a5c4a0d753,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:12,Equipment Failure,Critical,Resolved,9.08,Yes,7.06,Jocelyn Hamilton,BREACHED
+79c95626-d04d-45b9-9237-099a17ba728d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:06,Valve Malfunction,Critical,Open,9.35,Yes,7.8,Ian Chan,BREACHED
+6fd40051-3785-47fb-a190-429f1185942f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:10,Corrosion,Medium,Resolved,1.13,No,0.6,Valerie Matthews,COMPLIANT
+5c5db12f-f142-46bc-82e3-10bc31abbbec,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:21,Power Outage,Medium,In Progress,16.84,No,16.56,Kimberly Green,COMPLIANT
+9f5ed9d8-5ee3-4dfa-9f66-7655ecaaf3c8,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:12,Power Outage,Critical,Resolved,5.17,Yes,3.92,Justin Jimenez,BREACHED
+504a0285-96a1-4103-8a51-efee96891107,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:09,Leak,High,Resolved,12.07,Yes,4.41,Allen French,BREACHED
+bf0b1fa8-030a-4f41-9033-49b5e695efb0,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:01,Leak,Medium,In Progress,40.31,Yes,37.08,Lindsey Lambert,BREACHED
+05235521-3983-4e04-99b9-0a3417bb6ebd,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:28,Corrosion,High,Open,14.3,Yes,10.58,Timothy Robertson,BREACHED
+e3f02f38-8dd7-4328-8a7a-000dfb29ab96,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:55,Leak,Low,Open,23.73,No,6.48,Jennifer Boyer,COMPLIANT
+25e7f969-088c-491a-b4f9-1c7dee6129b2,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:51,Pressure Drop,Critical,Resolved,2.17,No,2.16,Edward Johnson,COMPLIANT
+8defb7da-87b0-4784-a2ae-d1dc0576782a,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:10,Equipment Failure,Critical,Resolved,5.66,Yes,4.72,Robert Ford,BREACHED
+9fe613da-fbfe-4003-8536-e83acac27700,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:21,Valve Malfunction,Critical,In Progress,10.49,Yes,1.53,Nicole Brown,BREACHED
+6981ea0d-49c7-4681-96b7-45b9b1794c11,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:43,Leak,Low,Resolved,59.07,Yes,47.39,Leslie Mayo,BREACHED
+01336aea-7a9f-45fc-85cb-eb66f66c9999,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:57,Equipment Failure,Low,Open,56.85,Yes,11.51,William Arias,BREACHED
+4d1cc1ad-6626-479d-b309-1bb66b03597d,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:48,Valve Malfunction,Low,Resolved,60.11,Yes,41.72,John Gonzalez,BREACHED
+0c1aae15-078e-43c5-a92f-f32861517944,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:24,Power Outage,High,Resolved,19.39,Yes,0.98,Erica Ruiz,BREACHED
+14277c6d-9cd1-442b-aca8-2421f66a0e2a,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:25,Power Outage,Medium,Resolved,19.91,No,16.74,Michele Norton,COMPLIANT
+cd8ca0b7-33c2-4d30-bac2-98a94fecea75,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:21,Valve Malfunction,Critical,Open,4.55,Yes,2.38,Lisa Joseph,BREACHED
+5fb9dc49-8a59-45ae-8dc4-acf262f4a1cd,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:41,Pressure Drop,High,Resolved,1.57,No,1.25,Megan Garcia,COMPLIANT
+aa31bf6d-8973-47f6-9020-6fe3bdc659ff,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:16,Equipment Failure,Low,Resolved,35.43,No,34.41,Michael Long,COMPLIANT
+764fa739-b5d5-4af5-b8e4-71f859c2eb55,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:14,Valve Malfunction,High,Resolved,6.05,No,2.39,Theresa Gonzalez,COMPLIANT
+968ce0c0-5a79-4f1a-93e2-4ee2890eae5d,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:23,Pressure Drop,Medium,In Progress,16.16,No,7.1,Nicholas Thompson,COMPLIANT
+e8f2df4d-f65b-468e-8529-b98a784a69f9,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:25,Leak,Critical,Open,3.58,No,1.1,Christopher Brandt,COMPLIANT
+aade6dca-ae99-4a4c-b4ad-8be32f4f478c,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:34,Valve Malfunction,High,Resolved,7.96,No,2.47,Christopher Holland,COMPLIANT
+e4bff117-0723-4e90-a283-8969726e4246,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:43,Power Outage,Critical,Resolved,2.19,No,1.11,Amy Rogers,COMPLIANT
+b6c02979-9b47-4312-837e-a7a0ba474cf9,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:04,Corrosion,Critical,Resolved,6.84,Yes,5.22,Madison Collins,BREACHED
+57cc9bbd-45f9-4230-b540-909e669cc93e,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:51,Leak,Low,In Progress,63.84,Yes,55.65,Patricia Thompson,BREACHED
+9c057ef8-9474-4a96-9bcd-d1b3bb4bcc57,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:49,Power Outage,Medium,Open,23.22,No,10.25,Benjamin Ferguson,COMPLIANT
+860864e1-be15-4a8a-a68a-ac128f411377,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:57,Power Outage,Medium,In Progress,14.82,No,11.01,Kristy Lewis,COMPLIANT
+7a12b735-397a-4ed4-95f7-fe7993077424,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:39,Valve Malfunction,High,In Progress,16.67,Yes,4.97,Dana Davis,BREACHED
+0df9c904-73f4-4b58-beb5-a1afe4fa8f0c,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:23,Equipment Failure,Low,In Progress,36.34,No,3.12,Maria Alexander,COMPLIANT
+c9286064-2fb5-4a2f-916c-02754dc29a4b,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:20,Corrosion,Low,Open,57.84,Yes,29.56,Lisa Wong,BREACHED
+abead469-dec6-4db1-965e-cd4c64b3ae1a,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:10:04,Power Outage,Medium,Open,23.61,No,20.61,Lauren Jones,COMPLIANT
+ab538867-552e-48fb-836d-d93be2f33b11,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:31,Equipment Failure,Critical,Open,7.24,Yes,2.19,Christopher Schneider,BREACHED
+283a081e-b548-4c2d-9bbd-ae21f8874224,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:32,Pressure Drop,Critical,Open,3.05,No,3.0,Sonia Butler,COMPLIANT
+bda4e801-e22e-4445-9611-dcbdf23619aa,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:13,Leak,Critical,Resolved,10.6,Yes,8.04,Kenneth Burnett,BREACHED
+548fe42e-0f02-4bb4-8ad7-615f6bc7c7c9,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:45,Leak,Critical,In Progress,8.76,Yes,1.67,Todd Mccoy,BREACHED
+3ad601a6-7ed9-48b1-92ed-422f7a517b39,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:24,Equipment Failure,Low,Resolved,67.07,Yes,61.23,Erin Alvarez,BREACHED
+5d4f0736-0770-432d-8590-05f48e6a8c9c,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:34,Power Outage,Critical,In Progress,10.25,Yes,8.89,James Galvan,BREACHED
+9af88e24-ba3c-4699-a4be-3763badd60a4,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:05,Power Outage,Critical,Open,3.02,No,3.0,Tara Rodgers,COMPLIANT
+ca0a063e-2dd6-45d3-9745-3046951f59d7,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:57,Leak,Medium,Resolved,38.94,Yes,33.45,Barbara Brewer,BREACHED
+039eef8d-7cdc-4e95-813c-35e525e5a4d3,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:44,Power Outage,Critical,Resolved,11.0,Yes,1.49,Gary Gomez,BREACHED
+d18ee943-8813-433e-955b-0ee840f68c9a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:23,Equipment Failure,Low,Open,67.12,Yes,48.24,Elizabeth Elliott,BREACHED
+be34edb9-ea84-4974-8178-902633c41064,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:07,Power Outage,Critical,Resolved,9.36,Yes,5.91,Heather Robinson,BREACHED
+33fb6989-7e8e-4693-8fba-a2481efff08f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:10:00,Power Outage,High,In Progress,18.56,Yes,10.36,Evan King,BREACHED
+ef01bdf1-7239-41c1-b6fb-7353d43826f3,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:34,Valve Malfunction,Low,In Progress,23.47,No,5.6,James Bell,COMPLIANT
+e05a8603-a909-432a-a05b-8705d3bc05e8,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:29,Corrosion,Medium,Resolved,37.86,Yes,24.52,Michael Smith,BREACHED
+a40c732d-c549-41e2-a07f-cbb8331b7259,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:10:08,Equipment Failure,Medium,Open,20.94,No,3.71,Michael Travis,COMPLIANT
+4d407742-3108-45b3-a60b-02801fbfc756,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:50,Leak,Low,Open,54.93,Yes,27.13,Loretta Webb MD,BREACHED
+8b8ca20c-49f0-41c9-ac5e-a98526d9330b,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:16,Power Outage,Medium,In Progress,4.0,No,3.23,Hannah Jackson,COMPLIANT
+77e93899-4959-45dc-b64a-5873966dcc32,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:16,Power Outage,Medium,Open,33.05,Yes,10.06,William Jones,BREACHED
+1d82fa3e-7fb4-4691-9b41-7f46cf3f4d03,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:47,Pressure Drop,Critical,Resolved,3.74,No,0.98,Leonard Morris,COMPLIANT
+84b86eed-9976-4b32-a909-256ed3a2941d,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:03,Corrosion,Critical,In Progress,6.0,Yes,2.48,Tracy Henderson,BREACHED
+c6c39195-1c80-437a-a3fb-95c4daa8a798,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:49,Valve Malfunction,Medium,Resolved,32.33,Yes,25.59,Brad Lane,BREACHED
+64e28d01-c3d0-40ce-8ca8-e3aadc37dbaa,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:31,Leak,Low,In Progress,35.69,No,5.92,Anthony Hale,COMPLIANT
+aef1f31f-e333-44bc-9d7b-86997f40b631,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:29,Valve Malfunction,High,In Progress,3.73,No,1.04,Christine Howard,COMPLIANT
+eb8e0142-4d60-456e-988b-1755a5b4bb2d,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:44,Corrosion,Critical,In Progress,6.11,Yes,4.59,Jamie Jacobs,BREACHED
+46096441-5082-485e-aa4d-b14318455713,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:29,Valve Malfunction,Medium,Resolved,36.14,Yes,30.55,Larry Collins,BREACHED
+081987e9-b389-4c98-ae32-9643e7c3a98e,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:48,Corrosion,High,In Progress,7.24,No,6.68,Susan Walker,COMPLIANT
+55530e2e-eb7f-49fe-b4ac-9b76734074ce,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:13,Corrosion,Critical,In Progress,5.13,Yes,4.67,Jose Weber,BREACHED
+a832d3e9-6c36-4b8b-86f1-354a4a9275c8,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:47,Valve Malfunction,Critical,Open,3.41,No,2.05,Sarah Jackson,COMPLIANT
+d05e62c5-7c3a-439b-b40d-9d1f004066ca,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:42,Valve Malfunction,Critical,In Progress,11.44,Yes,8.88,Evan Leon,BREACHED
+0c2b242e-c43f-4f08-831c-8d6d290025af,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:59,Leak,Medium,In Progress,40.17,Yes,37.23,Lori Wise,BREACHED
+e2239227-d64f-4629-a5b6-91aede474a0a,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:48,Power Outage,Medium,In Progress,1.77,No,1.64,Cindy Green,COMPLIANT
+5fd35ba7-1bb1-44cc-b3d8-83eb9c428804,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:00,Power Outage,High,Resolved,15.71,Yes,14.14,Thomas Rhodes,BREACHED
+2d161c47-758d-4c0a-9493-c3f220e8493f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:02,Leak,Low,In Progress,67.33,Yes,49.15,Martin Khan,BREACHED
+5c2b76d1-8766-4577-811b-c5d7cbb7fb2e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:10,Leak,Critical,Resolved,4.45,Yes,4.14,Leslie Adams,BREACHED
+83c07f5b-0234-45be-b69c-c5f27c64cbbf,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:14,Pressure Drop,Critical,In Progress,10.37,Yes,7.29,Laura Mccoy,BREACHED
+6552294e-0414-409c-b745-205e513529d2,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:45,Corrosion,Medium,Open,8.49,No,7.47,Suzanne Sandoval,COMPLIANT
+9f6ea4d3-c511-4623-85ca-1a6359bc2208,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:17,Leak,Low,In Progress,61.53,Yes,59.75,Michelle Roach,BREACHED
+187d3bb7-6ab6-4de8-9247-eb229e15098c,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:53,Pressure Drop,Critical,In Progress,3.99,No,2.19,Darryl Floyd,COMPLIANT
+35a2404f-4a28-4483-a0ec-e382cbcdcdb5,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:39,Equipment Failure,Low,Open,63.39,Yes,33.9,Justin Hernandez,BREACHED
+ab5880cc-7d02-4658-9309-798945d50147,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:54,Valve Malfunction,Low,Resolved,57.9,Yes,32.38,Kayla Green,BREACHED
+910f8021-3a94-4131-93c9-34b5a93abc64,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:39,Corrosion,Medium,Resolved,20.22,No,11.06,Christopher Lowery,COMPLIANT
+47ebfc48-f503-42a7-98f7-f34f3707fc5d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:20,Corrosion,Medium,Open,17.07,No,11.53,Carol Hanson,COMPLIANT
+af038d02-c38a-4650-8cc6-fac56b2a303e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:46,Equipment Failure,Low,Open,36.12,No,5.85,Fernando Ewing,COMPLIANT
+0e262a23-9585-4413-8a63-2fcb96a74ad6,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:59,Valve Malfunction,Critical,Resolved,10.39,Yes,8.99,James Hamilton,BREACHED
+5de361aa-46c2-4134-b61f-094fd7f307db,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:01,Pressure Drop,Low,In Progress,1.39,No,0.76,Bryan Arias,COMPLIANT
+c4957a7f-bd39-421a-85a8-dec2a36d2bbf,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:10,Pressure Drop,Critical,Open,1.81,No,0.99,Robert Obrien,COMPLIANT
+cbd8cd6c-42d9-40a7-a658-5b8bf38b4453,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:45,Leak,Low,In Progress,59.36,Yes,0.64,Meredith Hernandez,BREACHED
+254d0c94-02f6-4f7c-b417-0c0b0d918940,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:47,Valve Malfunction,Medium,In Progress,19.64,No,2.4,Doris Ingram,COMPLIANT
+15eaa77b-47e9-45c4-b80c-3cda6c21d41d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:18,Pressure Drop,Medium,Open,2.59,No,0.56,David Mitchell,COMPLIANT
+fd4dbe1b-490b-4df4-a80c-7711431db42d,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:52,Pressure Drop,Low,Open,57.1,Yes,23.69,Kelly Williams,BREACHED
+08c1d6a5-65ab-40d0-9972-36e55e1af59a,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:23,Corrosion,Low,In Progress,63.6,Yes,31.95,John Thompson,BREACHED
+cd06af78-6ed7-4223-a2bf-a4627393716b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:12,Leak,Medium,Resolved,11.49,No,1.22,Douglas Vargas,COMPLIANT
+ecb1a530-04eb-4e63-91b6-92e6c552702b,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:42,Equipment Failure,High,Resolved,12.79,Yes,8.6,Joshua Hughes,BREACHED
+7f440d68-29b4-43c5-9a7f-44ad20490239,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:45,Pressure Drop,Low,In Progress,14.62,No,13.83,Thomas Church MD,COMPLIANT
+6e65f4c6-583d-4dc2-a180-02cb5f21553d,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:13,Power Outage,High,In Progress,7.94,No,2.99,Greg Smith,COMPLIANT
+156e038f-ee85-4388-ab0a-1280b04f4970,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:51,Pressure Drop,Low,Resolved,27.68,No,24.56,Christine Sanchez,COMPLIANT
+de60caf2-16dd-4e60-afd8-710a7aed4e4e,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:40,Power Outage,Medium,Resolved,2.34,No,0.86,Kelsey Warren,COMPLIANT
+f282c47f-891a-48db-b322-0b64df04949a,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:47,Corrosion,Critical,In Progress,5.64,Yes,5.56,Christopher Fuentes,BREACHED
+7618f4ac-ce6a-47cf-ad24-e4cfc62750ba,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:27,Equipment Failure,Low,Resolved,17.84,No,10.35,Erin Vargas,COMPLIANT
+daf289b4-98d8-4730-8220-34f983d9b152,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:00,Corrosion,Low,Resolved,54.6,Yes,47.75,Anna Bradley,BREACHED
+db87a5f5-3a1b-4abb-8799-b4e52d8ea294,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:43,Corrosion,Low,Open,13.15,No,8.6,Michael Richards,COMPLIANT
+8e74480d-1cb1-432c-bc96-1016347371ff,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:20,Leak,Low,Open,62.53,Yes,2.04,Nathaniel Henderson,BREACHED
+72cb3cd5-50c4-4565-8399-4d055c1cc403,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:35,Valve Malfunction,Medium,Resolved,9.55,No,7.5,Robert Moore,COMPLIANT
+127bcdae-43f2-4a64-beec-f6c09f8eda50,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:22,Equipment Failure,Low,In Progress,65.26,Yes,33.19,Jessica Lambert,BREACHED
+adc0ac14-70b6-4345-bdcb-19a1e3dbe2f3,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:36,Leak,Medium,Open,18.65,No,12.86,Frank Shaw,COMPLIANT
+1c646b70-cd20-44eb-bb98-639b50c48023,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:37,Valve Malfunction,Medium,In Progress,15.49,No,14.95,Cassandra Lopez,COMPLIANT
+ac72bc42-9c52-4771-8a3c-a742bec57209,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:42,Pressure Drop,Critical,In Progress,10.88,Yes,8.75,Henry Duran,BREACHED
+ff16fd12-fe84-4858-ab15-547695491795,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:04,Leak,Low,In Progress,7.19,No,4.24,Dawn Parker,COMPLIANT
+e24b6267-8fa1-4219-9fda-c6e70778a430,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:19,Pressure Drop,Critical,Open,1.59,No,0.68,Vincent Lawrence,COMPLIANT
+c1ae282c-9846-4f60-860d-9863fe4e158a,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:38,Corrosion,Low,Resolved,28.25,No,7.82,Jonathan White,COMPLIANT
+ffcd8a5c-91d5-47c6-ba4c-5f950c987d34,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:23,Equipment Failure,Low,In Progress,53.32,Yes,4.5,Toni Sanchez,BREACHED
+4a7246ff-472b-4ea1-8772-a08e56d8b147,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:59,Equipment Failure,Critical,Open,4.47,Yes,2.78,Douglas Brown,BREACHED
+e62d1faf-2028-4c54-97b6-4dd5b5ddd4c4,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:33,Corrosion,Low,Open,42.74,No,35.13,Elizabeth Ellis,COMPLIANT
+b5b4ca9e-b1f8-4166-9c0c-38713967de25,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:24,Valve Malfunction,Low,Resolved,70.4,Yes,40.6,Heather Duran,BREACHED
+01c6e744-a183-4372-b37b-1fb895b08f59,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:31,Valve Malfunction,Critical,Open,9.11,Yes,3.65,James Hanson,BREACHED
+49a24d07-678a-4509-801a-0d3a4fc8d9ac,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:26,Equipment Failure,Low,Open,38.36,No,3.47,Rachel Johnson,COMPLIANT
+ae7a0b60-c06c-4cdf-ae72-92dc02235ac8,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:40,Power Outage,Low,Resolved,66.92,Yes,11.13,James Beck,BREACHED
+550e609c-40e5-4c76-b472-6b685b61b4fd,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:44,Valve Malfunction,Low,Resolved,18.84,No,8.37,Raymond Gordon,COMPLIANT
+2e9fd0d5-7860-49ba-9d5f-bb29a0db03c5,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:29,Equipment Failure,Medium,Resolved,38.59,Yes,36.65,Sarah Contreras,BREACHED
+ae4ee5b2-29e1-4024-9846-7bd77d63321e,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:50,Corrosion,Low,In Progress,61.21,Yes,7.18,Mary White,BREACHED
+b9eea6d2-5d2f-48a0-9503-7025c0260ab8,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:20,Valve Malfunction,Medium,Open,15.76,No,1.81,Tina Davenport,COMPLIANT
+0b275712-f410-4dba-ba8d-17456f2157bc,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:15,Corrosion,Low,Resolved,3.05,No,2.26,Deanna Cook,COMPLIANT
+5c0f0754-a53f-48f1-8996-b7c8f506de6e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:34,Pressure Drop,Medium,Resolved,38.33,Yes,32.75,Benjamin Navarro,BREACHED
+151213d0-1808-40fd-90b9-21f61bda325e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:44,Corrosion,High,In Progress,8.32,Yes,1.02,Megan Johnson,BREACHED
+1348375a-7b47-49ea-8420-bd63c66de056,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:15,Pressure Drop,Medium,In Progress,4.37,No,3.11,Johnathan Holland,COMPLIANT
+ffee1b92-06c1-4ce6-be36-f30d33b93a39,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:58,Corrosion,Critical,Resolved,3.28,No,1.92,Jessica Grant,COMPLIANT
+fe92fa1c-10e7-4e30-91f1-f042f51ed00d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:42,Equipment Failure,Low,Open,57.2,Yes,18.72,Ricky Owens,BREACHED
+b0b8abcf-ef70-49e2-9dc1-f38a9ee6f5c6,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:36,Corrosion,Critical,Resolved,11.61,Yes,10.36,Colin Sanford,BREACHED
+651d8cd9-b0c0-43e4-bf36-bab9899d407f,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:50,Valve Malfunction,Low,Resolved,53.38,Yes,44.13,Charlene Gonzales,BREACHED
+e56a0f94-8588-4bba-875d-8d8ef5d4a8a5,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:58,Equipment Failure,Medium,Resolved,29.48,Yes,16.07,Cassidy Schmidt,BREACHED
+adec687c-e7ee-4173-8cfd-f46cdc4370a7,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:24,Valve Malfunction,Medium,In Progress,47.28,Yes,23.76,Gary Garner,BREACHED
+72d64d07-155a-4f47-a809-9674f18afebe,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:22,Corrosion,Critical,Resolved,3.77,No,1.87,Brian Tran,COMPLIANT
+e468a26e-3f8e-4ebf-821f-4fec4cd06954,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:40,Valve Malfunction,High,Open,21.08,Yes,16.59,Carla Porter,BREACHED
+8c3a60a6-7d54-4104-b3f1-b5cd0e361fe4,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:36,Corrosion,Medium,Open,35.7,Yes,3.71,Clinton Smith,BREACHED
+a7707c18-e311-4771-a266-c81ec3e37448,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:27,Pressure Drop,Critical,Open,2.71,No,1.3,Tyler Scott,COMPLIANT
+e7fcc2fc-ddfc-443b-aaec-94c25bdfd08d,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:02,Leak,Medium,Open,32.83,Yes,27.51,Kelli Young,BREACHED
+a60ff960-6e71-43f0-96a9-2c5aee027394,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:41,Power Outage,Critical,Open,11.75,Yes,3.2,Maria Silva,BREACHED
+12ebf20f-da44-4a84-8fd7-d6a43824332f,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:32,Valve Malfunction,High,In Progress,6.75,No,3.55,Lisa Dougherty,COMPLIANT
+64ffdb8b-2604-49e7-977f-04c6227bc0b9,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:26,Pressure Drop,High,Resolved,10.09,Yes,2.51,Peter Powers,BREACHED
+e4665f14-c9ce-4de8-893e-d6ed58f439f6,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:43,Power Outage,Medium,Resolved,47.25,Yes,3.07,Christy Sanford,BREACHED
+da8b0be9-98d9-4e96-bfff-a9c6a83569b2,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:45,Valve Malfunction,Low,In Progress,22.56,No,17.12,Katelyn Murillo,COMPLIANT
+adee5288-6064-4cc0-a5b7-5371cf350f09,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:10,Equipment Failure,Low,Open,55.23,Yes,16.04,Juan Deleon,BREACHED
+149dbda1-be1c-4bc0-ac90-9d12761a7fed,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:07,Equipment Failure,High,Resolved,11.2,Yes,2.4,Michael Fisher MD,BREACHED
+0e3ae8c2-d1a7-4626-8696-ef28c2107f8c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:12,Valve Malfunction,Critical,Open,3.12,No,1.41,Tina Boyd,COMPLIANT
+a8a27ea0-37be-4551-af2b-7776b1aff6e4,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:08,Power Outage,Medium,Open,30.78,Yes,9.71,Christopher Pacheco,BREACHED
+9d89593b-f063-4f8a-a186-1a49411875a2,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:07,Leak,Critical,Open,2.01,No,0.51,Jennifer Gonzalez,COMPLIANT
+0775e3e6-3105-4ca9-a68c-52447af74f95,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:59,Power Outage,Critical,Resolved,6.41,Yes,0.77,Stephanie Riley,BREACHED
+47f54688-6eda-4164-82f4-58ec86516d74,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:36,Corrosion,Medium,Open,22.61,No,19.79,Barbara Figueroa,COMPLIANT
+198bf749-906a-4f74-9376-93e2e09f6bf2,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:01,Leak,Critical,In Progress,6.98,Yes,0.69,Yolanda Riley,BREACHED
+0c604390-8550-44ea-9371-f9cb58a22a5b,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:46,Valve Malfunction,High,Open,11.88,Yes,2.26,Sarah Lopez,BREACHED
+faa51389-0e9b-45d4-840f-899535d6144b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:32,Power Outage,Critical,In Progress,5.54,Yes,0.68,Adam Flores,BREACHED
+fb9b1726-ef93-4b27-ab6e-daf38ef1e309,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:10,Leak,Critical,Open,8.52,Yes,8.06,Holly Wells,BREACHED
+e4685dd5-03e7-4544-a142-b0e20f257eb0,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:03,Pressure Drop,Low,Open,8.77,No,5.62,Charles Scott,COMPLIANT
+fa468c49-1111-4ecf-803a-bec92572667a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:55,Corrosion,Low,Resolved,51.36,Yes,27.04,Samantha Thompson,BREACHED
+02a0a687-97a7-414b-ab57-416ca9ace528,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:27,Corrosion,Critical,Open,2.26,No,1.29,Micheal Rice,COMPLIANT
+5f689cb3-e604-4daf-b5c2-f7fe25aa8fe8,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:42,Equipment Failure,Critical,In Progress,8.99,Yes,7.15,Jonathan Smith,BREACHED
+fe0f99e9-28e4-49f6-a0b0-5b51a18cf462,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:58,Valve Malfunction,Medium,Open,31.73,Yes,28.14,Sarah Davis,BREACHED
+640dd8d6-a5cc-48b9-920f-91920c39fb66,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:15,Equipment Failure,Critical,Resolved,5.27,Yes,1.75,Nicole Lopez,BREACHED
+48973a56-e7de-4e0c-96cc-cca9d3f3d39c,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:53,Equipment Failure,Critical,In Progress,11.83,Yes,2.17,Lisa Morris,BREACHED
+20d79234-4102-4f64-9cb6-49296ec22d8f,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:35,Corrosion,Medium,Resolved,6.27,No,2.55,Jaime Ramirez,COMPLIANT
+02f6e5bd-9abe-40d2-b11c-c2e284cb742d,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:06,Pressure Drop,High,In Progress,11.72,Yes,11.33,Katherine Frank,BREACHED
+470fd9c4-fb3f-4a99-ac75-fe2e4b2fc754,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:19,Valve Malfunction,High,Resolved,14.89,Yes,5.36,Alicia Colon,BREACHED
+61803608-b2f8-48b2-9cb9-97c47fbad45e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:24,Leak,High,Resolved,9.22,Yes,1.41,Casey Austin,BREACHED
+dde5f1e9-b5b9-416a-b7db-31151bf11277,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:13,Valve Malfunction,Low,Open,4.53,No,2.56,Terry Baker,COMPLIANT
+876669a6-e343-408c-a554-262c07fc4b8d,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:33,Pressure Drop,Low,In Progress,23.83,No,20.05,Alyssa Powell,COMPLIANT
+4f79d114-3d20-4df8-b483-57d076ce841c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:49,Pressure Drop,Critical,Resolved,9.14,Yes,4.94,Sarah Johnson,BREACHED
+624194ff-22e4-4d8e-9703-87e286b113d9,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:08,Pressure Drop,Low,Resolved,59.87,Yes,49.98,Amanda Sims,BREACHED
+3e2bebdf-38e3-46a8-8893-ddf4322a6313,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:09,Valve Malfunction,High,Open,7.26,No,2.83,Daniel Chavez,COMPLIANT
+39d045d7-5460-445c-9a33-1c633e5b2156,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:28,Leak,Critical,Resolved,4.92,Yes,1.31,John Lam,BREACHED
+22deb741-9093-4f32-a3b7-e4e9d8405e66,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:22,Valve Malfunction,High,Open,6.6,No,6.2,Daniel Bryant,COMPLIANT
+7336b314-3ad6-4c92-a8f4-ec012bde54af,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:10:03,Power Outage,Critical,Open,7.9,Yes,7.34,Jeffery Herrera,BREACHED
+c163f502-7785-490c-a61f-717487fdc995,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:00,Valve Malfunction,Medium,Open,18.86,No,6.1,Darlene Hobbs,COMPLIANT
+0ecbcba8-078c-4506-84a2-b52f9aafa418,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:32,Corrosion,Low,Open,27.55,No,18.91,Sarah Green,COMPLIANT
+3d05751c-85b5-448f-8260-9fbee2f6f8db,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:26,Power Outage,Medium,Resolved,14.83,No,4.12,Robert Jordan,COMPLIANT
+edad667b-d3aa-4065-b4a9-86d4a2faa9d4,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:29,Leak,High,Open,18.18,Yes,10.55,Amanda Nelson,BREACHED
+16ee87b4-6bd4-492e-814e-6198ca67b545,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:15,Pressure Drop,High,Open,2.52,No,2.5,Michelle Foster,COMPLIANT
+2ba80bca-8d2a-48b6-a3ed-c55f7840f0a4,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:35,Corrosion,Critical,In Progress,4.56,Yes,2.79,Jaime Sharp,BREACHED
+5c3d0804-2b00-4182-b6cf-fe4fe9ec02c1,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:56,Leak,Critical,Open,10.86,Yes,4.54,Timothy Bernard,BREACHED
+f499d57c-b656-4ebe-8dff-a430968f31f2,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:58,Equipment Failure,Low,Resolved,61.59,Yes,46.84,Joe Good,BREACHED
+4d65e168-e8db-4be2-9196-e0f94fe9f467,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:23,Pressure Drop,Low,Open,20.79,No,6.9,Dennis Greene,COMPLIANT
+82b7ec5d-181d-4739-a317-7a8ce4822ea8,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:28,Power Outage,Medium,Open,15.92,No,12.3,Kimberly Ball,COMPLIANT
+70634a0e-6276-4b52-8492-d6f75a8b504a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:11,Equipment Failure,Medium,In Progress,45.63,Yes,1.84,Ernest Mclean,BREACHED
+9d6d4977-82a4-4b3d-944c-61d387210d28,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:14,Valve Malfunction,Medium,Resolved,24.12,Yes,15.48,Heidi Ramos,BREACHED
+eed7fda2-8d81-48c7-bc0b-2f311d3ef31f,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:52,Power Outage,Medium,In Progress,28.07,Yes,22.76,Calvin Little,BREACHED
+01ae3ee5-4eb7-4170-aaa8-cfdb9311ed02,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:31,Corrosion,High,In Progress,15.14,Yes,9.45,Derrick Keller,BREACHED
+c1e1f110-f9f9-4045-a208-63b9a812a541,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:42,Pressure Drop,High,Open,6.4,No,5.6,Tonya Jones,COMPLIANT
+78ddc476-78eb-4564-a93b-7b74ab543b95,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:58,Leak,Low,Resolved,54.48,Yes,11.52,Lisa Munoz,BREACHED
+48e09667-f620-4220-8acd-ca7581bd8f87,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:07,Power Outage,High,In Progress,18.05,Yes,5.9,Savannah Mullen,BREACHED
+f89607a2-8ede-4aa5-9e58-4742fed6b44d,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:23,Pressure Drop,Low,Resolved,34.43,No,27.44,Brian Lin,COMPLIANT
+0121b213-7d48-4074-9d28-c3048db7c93b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:56,Corrosion,Medium,Resolved,22.5,No,22.05,Michael Herrera,COMPLIANT
+6d7f24e0-04b1-4d0b-891c-8043f4bc4eae,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:27,Equipment Failure,Low,Resolved,55.33,Yes,15.16,Rachel Wright,BREACHED
+f43d5541-8dce-4110-8b11-1818138fcfa8,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:27,Leak,Critical,Resolved,3.24,No,1.36,Alicia Hall,COMPLIANT
+4f942b7e-2fc0-48e5-babc-c6f292422e97,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:29,Valve Malfunction,Critical,In Progress,10.77,Yes,9.34,Daniel Perez,BREACHED
+429d5292-ab24-4361-8be6-fb57c48f800f,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:14,Corrosion,Low,Resolved,58.45,Yes,32.16,Anne Combs,BREACHED
+ef8abb53-2638-4562-ac3a-8ef0d0bbe307,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:06,Power Outage,High,In Progress,14.06,Yes,7.94,Gary Harris,BREACHED
+0ac5e37d-a442-48c5-8723-98a3d593f482,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:22,Pressure Drop,Critical,Open,6.54,Yes,4.29,James Webb,BREACHED
+bfd0d711-d931-4717-82a6-cf48bfe238a7,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:00,Equipment Failure,Medium,Resolved,46.19,Yes,21.77,Patrick Espinoza,BREACHED
+15d7f0db-4ba6-4bda-8fb7-c98870e05f42,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:44,Equipment Failure,Low,In Progress,47.39,No,31.1,Timothy Hill,COMPLIANT
+da86d052-b8d9-4622-85c2-5c9b61649da4,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:23,Equipment Failure,Medium,In Progress,13.74,No,9.95,Peggy Rasmussen,COMPLIANT
+b8e62c72-63f7-480a-9ece-c73a72c82e96,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:52,Equipment Failure,High,Open,2.01,No,1.41,Andrea Huff,COMPLIANT
+3daed390-afa3-449d-8ba5-93676294a873,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:24,Power Outage,Medium,Resolved,20.53,No,6.42,Robert Romero,COMPLIANT
+a2c75df3-e718-4c5f-b7b8-a1dbfc118cf8,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:33,Leak,Medium,In Progress,37.16,Yes,16.56,Jason Wilson,BREACHED
+61b02d4f-7384-4dde-a82b-021021600741,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:15,Equipment Failure,Medium,In Progress,6.53,No,4.67,Steven Henry,COMPLIANT
+0354a89d-e3bc-47f6-99b5-d17164a2465f,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:45,Equipment Failure,Medium,Open,38.14,Yes,13.41,Roger Gonzales,BREACHED
+09b5135b-1f79-48a6-94da-408b73b498b4,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:25,Power Outage,Medium,Open,45.75,Yes,24.53,Ashley Mcdaniel,BREACHED
+b9a9b5ed-c9f3-458a-a483-f5227dd16e18,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:19,Corrosion,Medium,In Progress,34.14,Yes,7.31,Gregory Underwood,BREACHED
+6ad95427-4393-42ce-803c-7df9f884d611,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:24,Leak,Critical,In Progress,4.35,Yes,3.84,Misty Williams,BREACHED
+bce186c4-174c-4a51-bc9b-e3a395000839,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:39,Equipment Failure,Medium,In Progress,10.92,No,1.51,Anthony Washington,COMPLIANT
+636ff68c-b610-478b-a035-5656cc4d1121,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:13,Pressure Drop,High,Open,3.67,No,1.98,Catherine Norman,COMPLIANT
+b4e7f439-d1cb-4f32-9dd7-0ed711f4da57,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:01,Power Outage,High,In Progress,23.3,Yes,15.16,Jason Pham,BREACHED
+03d2ac77-70bd-43e8-acac-47de15c39828,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:33,Valve Malfunction,Low,In Progress,64.75,Yes,42.79,Elizabeth Banks,BREACHED
+53917822-fa3a-4e1f-8afe-9fd4a953d597,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:38,Equipment Failure,Low,Open,57.57,Yes,31.48,Aaron Burke,BREACHED
+5d13f9d4-1f79-4ed0-9db7-ec1f2f5c4cf8,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:29,Power Outage,High,Resolved,17.46,Yes,4.66,Scott Taylor,BREACHED
+4937d6bc-7181-4332-836f-e6a172b051ae,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:06,Valve Malfunction,Critical,Resolved,6.82,Yes,2.1,Tracy Henderson,BREACHED
+dc83f1ee-0bf0-4e79-9cd2-1c204efa3012,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:00,Power Outage,High,In Progress,1.39,No,1.24,Megan Yates,COMPLIANT
+3fdcea48-dce9-45f4-9e5a-20fda9a6d60e,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:26,Leak,Low,In Progress,32.09,No,15.16,Mark Smith,COMPLIANT
+0364f70d-2d34-4b60-863e-5df3d3f4b770,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:56,Pressure Drop,Critical,In Progress,4.4,Yes,4.36,Michelle Boyd,BREACHED
+b7b1c4de-0644-4e50-a3f1-c2390ab5ff25,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:37,Power Outage,Critical,In Progress,8.33,Yes,6.03,Cheryl Gutierrez,BREACHED
+5b38a1ac-1dda-4aa3-ab86-a41e8dcc8345,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:54,Equipment Failure,Medium,Resolved,24.38,Yes,5.7,Justin Gordon,BREACHED
+e9c1ad69-9a9c-4208-8ccd-91789e354874,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:24,Corrosion,Medium,Open,41.89,Yes,28.27,David Jimenez,BREACHED
+eeafcf04-9743-4c56-a378-1e329fd0d30a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:48,Corrosion,High,Open,3.27,No,1.3,Tina Johnson,COMPLIANT
+3e319d62-d9cf-43cc-a416-a8973c0c096d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:48,Power Outage,High,In Progress,10.37,Yes,4.13,Derrick Daniels,BREACHED
+08a3b336-afe5-4510-8b24-498ef4669e3b,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:24,Equipment Failure,Low,Open,47.45,No,20.14,Lauren Decker,COMPLIANT
+7a08b7e2-7d92-4d8e-8f17-a4ae462364c0,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:21,Pressure Drop,Critical,Resolved,7.37,Yes,3.75,Melissa Wilson,BREACHED
+148f456c-9e58-45bd-be87-1017e51a0b84,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:21,Equipment Failure,High,Open,10.86,Yes,4.24,Eric Kirk,BREACHED
+10e3716b-92df-4f09-9f80-14319ddb353e,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:50,Power Outage,Low,In Progress,27.95,No,12.29,Caitlin Anderson,COMPLIANT
+a46a46f8-d052-42ea-b143-d4db55c7c91a,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:46,Pressure Drop,High,In Progress,13.89,Yes,9.28,Michael Parks,BREACHED
+3858b825-01a7-4ea5-bde1-05b4d6eeef99,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:51,Valve Malfunction,Critical,Open,9.6,Yes,4.65,Michael Barr,BREACHED
+623c5078-87f2-45b1-8ee2-0e27a4e854c0,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:01,Pressure Drop,Critical,In Progress,7.34,Yes,2.66,Patrick Estrada,BREACHED
+7255deb8-5475-4bef-b5bd-f3f05091e0d3,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:07,Valve Malfunction,Medium,In Progress,13.1,No,9.45,Lucas Adkins,COMPLIANT
+41662e9a-1f8e-45b3-9da1-6cf4527f6668,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:06,Equipment Failure,Medium,Resolved,8.54,No,3.44,Alicia Wilson,COMPLIANT
+55d10d66-c9b4-414f-9b19-7c4c6f95b2fc,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:50,Valve Malfunction,Low,Resolved,53.5,Yes,46.23,Lisa Daniels,BREACHED
+410b2771-c445-436f-b513-901691b4fe8c,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:51,Power Outage,Critical,In Progress,9.03,Yes,5.76,Jonathan Hopkins,BREACHED
+2123196a-a958-44dc-90e8-025d5d4832b8,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:32,Valve Malfunction,High,Resolved,14.1,Yes,2.57,Amy Ray,BREACHED
+85f96442-c7c3-4b22-b5dc-347c188adbb9,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:29,Leak,Medium,In Progress,30.9,Yes,2.79,Joseph White,BREACHED
+ea3b1480-f82a-49a7-b768-c206771dbb2a,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:36,Equipment Failure,Critical,In Progress,2.16,No,1.18,Nicole Medina,COMPLIANT
+8d1835b2-5147-4087-b560-508329d97134,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:35,Valve Malfunction,Medium,In Progress,45.87,Yes,5.32,David Lopez,BREACHED
+382da210-c59f-4ce3-849e-0a387b155096,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:18,Pressure Drop,Medium,Resolved,33.1,Yes,12.51,Michael Cameron,BREACHED
+839c085b-6158-4110-9dd6-518bbcb85ab8,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:42,Leak,High,In Progress,8.15,Yes,2.04,Shawna Wilson,BREACHED
+1625cbd1-841e-4045-ae17-bfa7a406249e,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:52,Equipment Failure,Medium,In Progress,11.21,No,8.37,Corey Walton,COMPLIANT
+6d5981b0-e40f-4379-b04c-081bc565f936,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:11,Leak,Low,Resolved,50.36,Yes,7.95,Brooke Cabrera,BREACHED
+37cac52b-322f-46f6-930b-21c0085f363f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:15,Power Outage,Low,In Progress,35.49,No,18.95,Edward Hernandez,COMPLIANT
+4ea2a386-bf57-4f1e-88bd-aba447401045,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:40,Pressure Drop,High,In Progress,4.44,No,1.54,Chelsea Wright,COMPLIANT
+61375cd5-bb52-4da9-a8c4-19166663300e,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:50,Valve Malfunction,High,Resolved,6.43,No,3.13,Allison Lee,COMPLIANT
+fa8c2a50-3381-4ab3-8aee-7b50b94522af,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:07,Corrosion,Critical,Open,8.3,Yes,6.22,Lindsay Johnson,BREACHED
+5b263dde-3347-455d-8cf9-7f95ed555715,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:58,Corrosion,Medium,In Progress,34.46,Yes,30.5,Dr. Jason Davis,BREACHED
+6f0747c4-a0cd-4062-902b-342a813930f6,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:27,Corrosion,Low,Open,15.59,No,1.65,Yolanda Stephens,COMPLIANT
+c37d5e98-635f-4c55-b965-362e614ba5bf,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:25,Power Outage,Low,In Progress,39.47,No,32.7,Victoria Davis,COMPLIANT
+450b3196-3251-4c09-985b-a3d2a51e7529,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:27,Corrosion,Low,Resolved,41.91,No,39.22,Cynthia Roach,COMPLIANT
+099ed825-ad29-4468-981e-d4b6f0358629,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:56,Power Outage,Low,Open,5.46,No,1.47,Robert Rogers,COMPLIANT
+5d59509d-93b2-4f54-82fc-8c7f67c267d7,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:51,Leak,Critical,Resolved,5.16,Yes,0.52,Marc Phillips,BREACHED
+76bd5bfa-a4c7-4ef1-af3f-fa84a663abe6,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:07,Valve Malfunction,Medium,In Progress,25.47,Yes,13.61,Suzanne Rasmussen,BREACHED
+ecc0e462-ce17-44a8-865f-5dfce4374421,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:59,Equipment Failure,Medium,Open,3.89,No,3.7,Mark Thornton,COMPLIANT
+ba09d5e9-8802-42e5-97a9-e0f08c24aa1f,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:14,Valve Malfunction,High,Resolved,22.22,Yes,16.72,Timothy Ruiz,BREACHED
+0eeb54df-09a2-4026-a186-baa43f6a1916,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:33,Corrosion,Critical,Resolved,3.37,No,1.13,John Allen,COMPLIANT
+c12f3391-898a-4b0a-b7fa-0b25b87b6526,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:58,Leak,High,Resolved,14.07,Yes,12.44,April Moreno,BREACHED
+5727fc01-fb85-4db4-816e-6e1e51089ca2,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:26,Pressure Drop,High,Resolved,11.48,Yes,8.57,Michael Miller,BREACHED
+13a3b976-b932-4974-a416-e4cf44a1136e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:01,Equipment Failure,Medium,Open,9.77,No,2.71,Darren Moreno,COMPLIANT
+27e4112a-d9be-4f8e-a72a-a52828c5732d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:52,Equipment Failure,Medium,Open,31.82,Yes,30.83,Jenna Padilla,BREACHED
+b9618f00-9254-4153-a388-fb9a84546bde,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:13,Pressure Drop,High,Open,9.33,Yes,8.07,Thomas Rice,BREACHED
+b92d2236-ec55-4fef-9029-825b1dd356e8,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:10,Equipment Failure,High,Resolved,12.4,Yes,8.99,Brian Garcia,BREACHED
+44b96c28-f273-44e8-bef1-f6c355b2750c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:43,Pressure Drop,Low,Resolved,25.15,No,18.6,Megan Shields,COMPLIANT
+fe85ec3d-4af7-49b6-8dbe-a44f30f61908,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:10,Equipment Failure,Medium,Resolved,10.56,No,4.68,Ana Johnson,COMPLIANT
+dfa3ebf3-b9f2-42cd-94e8-10f4383c0168,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:44,Power Outage,High,In Progress,20.06,Yes,15.33,Christina Watson,BREACHED
+e78467d2-b167-46bd-a22a-e8322813fdef,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:30,Power Outage,Critical,Open,8.42,Yes,6.6,Alexander Mitchell,BREACHED
+0d53425a-dc9a-406c-978f-cb9d5b0764e3,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:56,Corrosion,Medium,Resolved,37.85,Yes,0.7,Desiree Mitchell,BREACHED
+7ba202ce-03c7-454b-b49d-44692ffb40fb,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:09,Equipment Failure,Critical,Open,5.0,Yes,3.06,Jared Hernandez,BREACHED
+f722e959-5033-476d-aa63-a1a8c6451c77,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:24,Valve Malfunction,Low,In Progress,71.37,Yes,40.69,Rachel Lewis,BREACHED
+19521319-e51d-4d06-af07-354d042015cf,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:06,Corrosion,High,Open,21.3,Yes,14.0,Angela Holder,BREACHED
+9ae58dae-306c-4d5f-bcab-baca05b03b02,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:06,Pressure Drop,Medium,Open,43.58,Yes,21.55,Lisa Davis,BREACHED
+6030db62-fde4-4ae0-b672-55ee60866133,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:30,Corrosion,Medium,In Progress,17.35,No,4.97,Ronald Williams,COMPLIANT
+17afe8bd-18e8-48b1-96c4-c69614253c7b,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:25,Corrosion,Medium,Resolved,22.29,No,9.32,Philip Benson,COMPLIANT
+fd7a56cf-099c-4128-a48d-d6ad7e8b877a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:18,Corrosion,Medium,Open,30.76,Yes,30.55,Jose Trujillo,BREACHED
+f0addba9-dd2c-4166-8b87-97409bfb59e3,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:02,Pressure Drop,Medium,Resolved,20.38,No,8.3,Jose Galloway,COMPLIANT
+5391611d-ed12-4b67-97c6-35c071f85011,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:16,Valve Malfunction,High,In Progress,20.62,Yes,5.13,Jeffrey Joseph,BREACHED
+1f275fb2-f7a9-4e70-ae12-48095ed7aa87,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:17,Equipment Failure,Medium,Resolved,20.26,No,0.63,Felicia Martin,COMPLIANT
+715e1c63-42d2-45d7-abc9-d356b2a8512c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:46,Leak,Low,Open,69.64,Yes,29.73,Edward Murphy,BREACHED
+85657d88-b187-438f-976f-cc8e7721332c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:46,Corrosion,Critical,Open,1.58,No,0.84,Renee Wong,COMPLIANT
+a2b07820-3a43-44ca-b6f5-a55d7ed1e0ea,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:10,Corrosion,Medium,Resolved,38.59,Yes,18.28,Jordan Johnson,BREACHED
+5f90a742-1434-4865-b28f-932754b2100f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:19,Valve Malfunction,High,Open,5.71,No,1.7,Tina Perry,COMPLIANT
+0421c70c-808a-4970-96a5-9fd955392ed0,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:34,Equipment Failure,High,Resolved,15.16,Yes,9.81,Colton Jones,BREACHED
+6e67e736-fcac-4323-940e-877f35e650a5,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:24,Equipment Failure,Low,In Progress,50.63,Yes,10.91,Jill Garcia,BREACHED
+6bedefa0-0e24-4dd2-9d87-437ef601ed5c,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:26,Corrosion,Medium,Open,20.23,No,7.07,Chad Porter,COMPLIANT
+61414f4b-b11f-4e72-9923-0a4185dd28b2,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:41,Corrosion,Medium,Resolved,4.09,No,3.5,Casey Boyd,COMPLIANT
+368a72a1-65ef-428e-b599-35fc14136710,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:36,Power Outage,Critical,Resolved,10.5,Yes,1.69,Angela Dominguez,BREACHED
+9c70df1e-4c9e-4b29-9c31-76313ddb03a1,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:17,Pressure Drop,Medium,Resolved,4.33,No,3.59,Anthony Jones,COMPLIANT
+fed6f777-36e6-4e14-86e0-da42965ca933,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:24,Equipment Failure,Medium,Resolved,3.26,No,2.55,Eric Johnson,COMPLIANT
+38c3496f-2307-4db2-9732-981ac53ce184,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:36,Corrosion,Critical,Open,9.3,Yes,7.95,Troy Murphy,BREACHED
+8c85a7e5-45c9-41fd-8534-a3e5a5805c24,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:08,Pressure Drop,Medium,Resolved,24.52,Yes,10.61,Alicia Jennings,BREACHED
+3429ea0e-822c-4838-a48e-771a4b472f70,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:26,Corrosion,Low,In Progress,3.28,No,1.5,William Douglas,COMPLIANT
+8353c557-73b7-4541-b912-e4d3fc3efa9e,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:58,Valve Malfunction,High,Open,9.06,Yes,7.38,Curtis Moore,BREACHED
+af2b9593-cb42-4cd7-8f7a-7e55ab441d16,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:23,Corrosion,High,Resolved,12.86,Yes,1.2,Jesse Norris,BREACHED
+470fde44-5d42-4e06-8917-6a2e89cb9cae,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:01,Leak,High,In Progress,3.68,No,2.28,Louis Mcbride,COMPLIANT
+e1cb349c-4b26-4d84-a42d-5ef7366989b6,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:51,Valve Malfunction,High,Resolved,4.34,No,0.68,Henry Archer,COMPLIANT
+4b6399fc-82f4-4ff9-a255-3880469928c9,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:29,Corrosion,Medium,Resolved,3.22,No,0.51,Kimberly Kelly,COMPLIANT
+27b13838-ed1f-4a53-80ae-2bdfb11b10c3,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:45,Leak,High,In Progress,14.86,Yes,12.03,Sean Decker,BREACHED

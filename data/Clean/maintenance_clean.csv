@@ -1,0 +1,876 @@
+maintenance_id,equipment_id,field,team,category,issued_date,resolved_date,maintenance_type,maintenance_duration_hours,maintenance_cost,status,operator
+89258b4f-785f-439b-9dfc-ccd3bbc0339c,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:39,2026-07-08 12:10:09.105452,Corrective,0.06,20189.49,Resolved,Michael Cox
+91d2758e-75f5-4ab1-abc3-ab2ac7cb30a9,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:36,2026-07-08 12:10:09.106472,Corrective,0.04,2326.2,In Progress,Marcus Kim
+ce9f8727-78d6-4e68-b202-4187921e49ed,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:06,2026-07-08 12:10:09.106472,Corrective,0.0,49316.15,Resolved,Jason Houston
+982b775c-acfc-4a32-8172-57f7e964a3d6,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:08,2026-07-08 12:10:09.107471,Preventive,0.05,26051.23,Resolved,Seth Williams
+c1dcb40c-b0d7-45f6-9395-d82b3644b62e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:09,2026-07-08 12:10:09.107471,Predictive,0.08,9079.36,Resolved,Alexandra Miller
+784d39c8-aa13-410f-a8a2-0ca25fb1c37d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:48,2026-07-08 12:10:09.107471,Preventive,0.09,46840.83,In Progress,Ashley Blankenship
+e63140e3-bd1b-4405-955e-c7cbe0bbd346,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:07,2026-07-08 12:10:09.108470,Predictive,0.07,18009.01,Open,Darlene Bell
+9842780a-9199-4ed6-90cd-8d96a0feb6af,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:04,2026-07-08 12:10:09.108470,Corrective,0.02,31983.02,In Progress,Carlos Russell
+e758bd96-ad44-46db-9f40-d1b04a29c611,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:39,2026-07-08 12:10:09.108470,Predictive,0.01,37276.55,Open,Heather Green
+06cd99dc-23d8-409a-8dff-e66c4c298168,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:22,2026-07-08 12:10:09.108470,Predictive,0.06,12943.76,Open,Stephen Barnes
+97759150-d8fc-4b76-abf7-56f03c8e3664,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:21,2026-07-08 12:10:09.109470,Predictive,0.01,13189.91,In Progress,Dawn Gillespie
+032bd820-4cdd-4997-8f39-7710f5f69cec,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:00,2026-07-08 12:10:09.109470,Predictive,0.05,5386.48,Open,Mr. Ronald Rowland
+121573d4-1910-43c6-a554-49cfc5e1d637,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:10,2026-07-08 12:10:09.109470,Corrective,0.08,48204.25,Open,Terry Santos
+ec24c5fa-3db2-43fd-91fe-0ab9409d8515,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:13,2026-07-08 12:10:09.110470,Preventive,0.03,46333.3,Open,James Foster
+1bb41463-ec39-4b2a-b6a9-303d45dca83e,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:10,2026-07-08 12:10:09.110470,Corrective,0.08,31405.31,Resolved,Robert Wright
+1e4626e2-4c4e-4bde-9022-971078e60947,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:48,2026-07-08 12:10:09.110470,Corrective,0.09,36308.15,Open,Michael Neal
+bb4a7009-ea24-496d-b61a-c11b7de13b87,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:06,2026-07-08 12:10:09.110470,Corrective,0.07,45244.79,Resolved,Abigail Perez
+8f37dae9-994d-40ab-b33a-0dc114a0b6a9,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:18,2026-07-08 12:10:09.111469,Predictive,0.01,44155.54,Open,Daniel Richardson
+1e93c7f0-647f-473e-a518-583768212e8e,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:26,2026-07-08 12:10:09.111469,Preventive,0.1,33259.26,In Progress,Ashley Jones
+33a34d60-54b0-458c-acbc-24a39378ea66,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:47,2026-07-08 12:10:09.111469,Corrective,0.07,21435.37,In Progress,Gerald Hansen DDS
+94385c68-0c38-4237-961f-1ea7b6841289,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:40,2026-07-08 12:10:09.111469,Corrective,0.09,42090.1,Open,Jason Knapp
+fc9df96c-f01d-4131-90b3-a5550e99dba2,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:34,2026-07-08 12:10:09.112468,Corrective,0.06,45268.05,Resolved,Larry Brown
+c9aa229f-4ba4-4463-b95c-c2d64fe0b03f,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:41,2026-07-08 12:10:09.112468,Preventive,0.06,10185.6,Resolved,Matthew Sanchez
+fd0699c4-f0e6-4081-8fbe-7c7445585e08,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:07,2026-07-08 12:10:09.112468,Preventive,0.02,46133.71,Resolved,Philip Spence
+89136b6d-7e47-447e-908c-371e0a4c607c,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:56,2026-07-08 12:10:09.112468,Predictive,0.04,38467.13,In Progress,Marvin Brown
+e86ca661-143b-4f00-9e55-4ef285427e26,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:29,2026-07-08 12:10:09.113468,Predictive,0.06,21511.72,Open,Jacob West
+f7922c2f-5c8a-4efc-ad36-54ef6cdfde84,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:16,2026-07-08 12:10:09.113468,Preventive,0.1,14363.69,Open,Tracey Moore
+4ba5dbd8-1b73-46e0-99f6-0dfb0012e55c,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:10,2026-07-08 12:10:09.113468,Preventive,0.02,6949.5,In Progress,Kelly Miller
+3aa4b5ec-7f97-42d5-9ff3-541c123fa0b6,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:46,2026-07-08 12:10:09.114467,Predictive,0.04,11297.79,In Progress,Allison Brown
+095de771-b5c1-42e0-b7f0-0e935fba51ee,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:09,2026-07-08 12:10:09.114467,Corrective,0.02,43231.9,Resolved,Michael Johnson
+8f4cef3c-f676-4eef-8057-2e61d877a504,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:52,2026-07-08 12:10:09.114467,Predictive,0.02,48896.11,Resolved,Michael Peterson
+b9184dab-424e-434a-bcd0-16d95ce83a64,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:16,2026-07-08 12:10:09.115467,Corrective,0.06,32064.97,In Progress,Ronald Wyatt
+f2fcd014-a68d-4046-ac50-c9a28572a745,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:21,2026-07-08 12:10:09.115467,Predictive,0.06,43965.21,In Progress,Katie Wiley
+59ea3738-c962-4294-8406-a579e3f31db1,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:19,2026-07-08 12:10:09.115467,Predictive,0.05,12063.95,Open,Joshua Olson
+2924d585-3dff-44e3-b13b-d12e0764e9e8,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:15,2026-07-08 12:10:09.116466,Predictive,0.02,10364.98,In Progress,Lawrence Scott
+100cd1a4-b306-4e71-bff4-7f0db8725218,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:27,2026-07-08 12:10:09.116466,Predictive,0.01,5178.46,Resolved,Daniel Gray
+9f50c876-3cde-42c5-8d24-4809a60a0499,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:39,2026-07-08 12:10:09.116466,Preventive,0.09,11427.52,In Progress,Tommy Macias
+940066ca-ee01-4ff7-8faf-a29cf8841dd7,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:01,2026-07-08 12:10:09.116466,Corrective,0.05,7334.17,Resolved,Shannon Wright
+e1c004ca-22f9-46c7-b8ea-876aa3d3ba5b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:08,2026-07-08 12:10:09.117465,Preventive,0.05,32114.85,Open,Diana Rodriguez
+6af585c5-f88c-4e38-a8b8-2ba271a466ba,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:39,2026-07-08 12:10:09.117465,Predictive,0.08,13095.76,In Progress,Thomas Hayes
+0aa0a319-89e5-419d-a114-1606f9cfb589,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:03,2026-07-08 12:10:09.117465,Preventive,0.07,38654.7,Open,Connie Stafford
+592ef450-755c-496c-9def-9f9dc7869741,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:50,2026-07-08 12:10:09.117465,Preventive,0.06,1057.86,In Progress,Amy Thompson
+82e70e89-326d-44c0-911f-f745ee45c86d,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:12,2026-07-08 12:10:09.117465,Corrective,0.07,49309.19,In Progress,Nathan Russo
+a70558fd-d518-4c19-9b39-a6e79b711031,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:53,2026-07-08 12:10:09.118465,Predictive,0.05,41873.8,Open,Diane Jones
+1125e930-41a3-4f21-8588-54e1528c5b98,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:06,2026-07-08 12:10:09.118465,Predictive,0.0,30803.08,Open,Linda Williams
+dbe553dd-0115-4fff-b75c-32b923f8db85,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:16,2026-07-08 12:10:09.118465,Corrective,0.05,30274.81,In Progress,Autumn Cross
+b84f2856-2486-4cf5-95b1-5a7cf2d928df,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:29,2026-07-08 12:10:09.119464,Preventive,0.06,9958.53,Open,Donald Yates
+5cb6a4d5-b718-4501-81a4-264aac4cbf8c,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:47,2026-07-08 12:10:09.119464,Predictive,0.01,23987.25,Resolved,Maxwell Wolf
+6f0d3fa8-3587-4404-b06a-d17ebac23f48,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:59,2026-07-08 12:10:09.119464,Predictive,0.04,19564.33,In Progress,Kaitlyn Goodwin
+ff2f8c5e-f811-4758-8896-0a5629417691,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:41,2026-07-08 12:10:09.120464,Corrective,0.06,14968.94,In Progress,Mark Johnson
+da761674-5619-49c4-87f1-852e3857fed6,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:09,2026-07-08 12:10:09.120464,Predictive,0.1,9515.71,Resolved,David Williams
+87723c0f-6a5c-476d-8e6e-8003f47419f3,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:29,2026-07-08 12:10:09.120464,Preventive,0.01,46930.91,Open,Jenna Ray
+c5206670-cd71-4a36-8f5d-c8e16c89c847,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:30,2026-07-08 12:10:09.121464,Corrective,0.04,29012.57,In Progress,James Rodriguez MD
+3223e113-d468-4ac3-b451-c9d0e2644e27,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:45,2026-07-08 12:10:09.121464,Predictive,0.06,26825.76,Open,Robert Adams
+35f28890-8589-4ccd-a82a-8203887d5e89,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:26,2026-07-08 12:10:09.121464,Corrective,0.06,47786.46,In Progress,Edward Curry
+69e73438-ccbd-4cb7-96f8-98acca02f9da,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:48,2026-07-08 12:10:09.121464,Predictive,0.09,5603.98,In Progress,Nicholas Martin
+1aa7b960-14cd-4490-9118-aa7890894f07,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:34,2026-07-08 12:10:09.122443,Predictive,0.04,41524.51,In Progress,Julia Torres
+8821783a-dd66-4810-8cdc-502c5d1aeac4,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:23,2026-07-08 12:10:09.123442,Preventive,0.01,35578.2,Open,Matthew Brown
+78b51ae1-cae9-457c-a280-d7039bcedd4c,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:28,2026-07-08 12:10:09.123442,Preventive,0.09,46475.06,In Progress,Rachael Gonzalez
+0e5a72c4-2431-460b-85e2-3e13deaf2cdf,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:24,2026-07-08 12:10:09.123442,Predictive,0.1,8821.67,In Progress,Maria Yang
+dce083b2-2c89-4bd5-aa1d-1f71a3a025e1,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:22,2026-07-08 12:10:09.124444,Corrective,0.03,32838.03,Resolved,Samantha Preston
+3c861f9b-0a04-4ef3-b18a-a8f4bad474b7,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:04,2026-07-08 12:10:09.124444,Corrective,0.08,33325.19,Open,Brenda Morales
+17bbeb95-2569-42fe-b5cc-24d5a8f1eb44,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:41,2026-07-08 12:10:09.124444,Predictive,0.04,38260.76,Open,James Dickson
+72c8dd2d-7629-49c7-a86f-77c1adcdf707,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:20,2026-07-08 12:10:09.125442,Corrective,0.03,7954.27,In Progress,Susan Jones
+d0963172-2deb-41a2-8043-7cbf54988473,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:26,2026-07-08 12:10:09.125442,Corrective,0.01,41657.66,Resolved,Ellen Herrera
+6e134f76-b875-43ec-a798-164919c679cf,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:38,2026-07-08 12:10:09.126442,Preventive,0.04,37380.12,In Progress,Richard Smith
+316e5188-0823-4a2e-b540-275fc85a1928,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:49,2026-07-08 12:10:09.126442,Preventive,0.04,36720.8,Open,Veronica Wood
+aeb6e760-56b2-4967-a6a5-cc1f72ee1ae4,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:42,2026-07-08 12:10:09.127440,Corrective,0.06,18929.49,Resolved,Christopher Garner
+89106a49-dd4d-4573-9360-c513581b1d9c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:33,2026-07-08 12:10:09.127440,Corrective,0.03,48355.28,Open,Derek Walsh
+1987f61e-d502-4383-aa3b-4a4b332d1aa0,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:06,2026-07-08 12:10:09.127440,Preventive,0.08,29532.72,Resolved,Mariah Marshall
+6e3ddeb5-e392-4ae5-a69e-0cfd1938fec8,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:58,2026-07-08 12:10:09.128439,Preventive,0.0,39608.97,In Progress,William Howe
+52721c6b-fe42-48d6-b55a-9446108d1de3,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:23,2026-07-08 12:10:09.128439,Corrective,0.1,11032.2,In Progress,John Williams
+cf154a05-ba3c-41a0-8794-009a74aeb662,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:30,2026-07-08 12:10:09.128439,Corrective,0.01,44044.13,Resolved,Elizabeth Meyer
+fdd63dc6-6813-4b72-956f-9d49b62940ff,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:37,2026-07-08 12:10:09.128439,Preventive,0.09,32512.83,Resolved,Cynthia Hamilton
+264cf1fc-a776-4fd4-bf40-941236b416ee,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:03,2026-07-08 12:10:09.129438,Preventive,0.05,42052.77,Open,Marissa Phillips
+d7e634f8-3539-4c1f-9b79-dd25a141377a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:48,2026-07-08 12:10:09.129438,Predictive,0.02,14070.62,In Progress,Angela Hanson
+dc6e7162-18fb-425c-ac3f-468317556ac1,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:55,2026-07-08 12:10:09.130438,Preventive,0.07,23158.0,In Progress,Melissa Sosa
+687c3a5c-8bff-4c0a-a45a-46f29b7ac7f4,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:37,2026-07-08 12:10:09.130438,Predictive,0.09,43117.89,Open,Lance Williams
+b299ff17-d6a9-4877-9ffb-b4a74be55c60,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:30,2026-07-08 12:10:09.130438,Preventive,0.04,10634.36,Resolved,Robert Mueller
+e8c7c693-b7b1-439c-8854-192b3be3d311,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:57,2026-07-08 12:10:09.130438,Preventive,0.09,47854.86,In Progress,Joseph Hill
+96d7f5c5-0c3a-4a95-af8b-c638c81878df,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:55,2026-07-08 12:10:09.131437,Predictive,0.02,46466.35,Resolved,Caitlin Reynolds
+7f8d4c1b-a474-4315-8551-986d797aead4,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:04,2026-07-08 12:10:09.131437,Preventive,0.02,11362.8,Open,Elijah Dalton
+fb113aab-fb38-4091-9de9-b0124d825ba2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:08,2026-07-08 12:10:09.131437,Predictive,0.08,30656.76,Open,Michelle Murillo
+9d457c9d-2435-4c7b-9eaf-b4410d2a5437,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:09,2026-07-08 12:10:09.131437,Preventive,0.1,47193.53,Open,Rhonda Ortiz
+611a3dbf-fb67-4460-80f5-f28ad415f887,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:04,2026-07-08 12:10:09.132436,Predictive,0.07,26676.3,Resolved,Michelle Cohen
+e7a7643a-c2c9-460f-8770-b2598a1e4909,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:08,2026-07-08 12:10:09.132436,Predictive,0.08,46792.32,Open,John Blevins
+2c4b36b5-6b3d-442d-87bf-d8279b515dc1,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:26,2026-07-08 12:10:09.132436,Corrective,0.08,37055.52,Resolved,Kevin Jones
+c8f4d017-7c20-4e10-b421-81438fa57864,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:45,2026-07-08 12:10:09.132436,Corrective,0.07,28330.4,Open,Victoria Rodriguez
+cf0c6339-1cb9-4a3a-acf1-601f620c1015,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:10,2026-07-08 12:10:09.133436,Preventive,0.07,49098.07,Resolved,Michelle Gregory
+b83ac04a-3247-4dcc-9843-9a3dd54a4818,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:54,2026-07-08 12:10:09.133436,Corrective,0.09,1820.76,In Progress,Cheryl Li
+ce50037f-3e92-4941-9907-9c8309c1d8fe,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:25,2026-07-08 12:10:09.133436,Corrective,0.03,17696.61,Open,Michael Briggs
+d978c67e-90b6-442c-972e-791688322a5c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:48,2026-07-08 12:10:09.133436,Corrective,0.01,5610.2,In Progress,Courtney Ingram
+53ca5926-0f65-42a2-90ff-173ea3d6611b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:01,2026-07-08 12:10:09.134435,Preventive,0.07,46172.81,In Progress,Emily Smith
+6a3261ac-7952-4b07-9ad4-cba78a95d166,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:14,2026-07-08 12:10:09.134435,Predictive,0.08,44566.93,Resolved,Brenda Cochran
+132cbb2f-6a4e-496a-b8b7-19ed174dd6f6,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:11,2026-07-08 12:10:09.134435,Predictive,0.1,16670.36,Resolved,Anthony Waller
+2121c916-a5de-46f6-8dc9-fc17ce7d0eb6,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:06,2026-07-08 12:10:09.134435,Predictive,0.07,39898.04,Open,Mark Hernandez
+7ef6e7ae-d665-49c0-a9a0-89468eba7b68,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:32,2026-07-08 12:10:09.134435,Preventive,0.08,35452.18,Open,Danielle Gray
+0f5b9853-7c7a-4cad-8633-75938d87ea6f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:20,2026-07-08 12:10:09.135434,Predictive,0.05,27588.8,Open,Jose Hinton
+ed1ac129-4332-4eb7-86eb-fd6654c9ddb3,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:41,2026-07-08 12:10:09.135434,Predictive,0.01,3641.25,Resolved,Suzanne Garcia
+0ba40234-82df-42b8-83d7-dc089ac459e5,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:39,2026-07-08 12:10:09.135434,Corrective,0.09,26678.51,In Progress,Christopher Colon
+8027e268-a1bf-4ad7-b465-d376a7b3c474,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:26,2026-07-08 12:10:09.135434,Corrective,0.06,9391.31,Resolved,Jordan Bryan
+fe6b64fd-529b-4fc8-ba26-2be643ce68fc,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:56,2026-07-08 12:10:09.136434,Preventive,0.0,22902.89,Resolved,Jane Osborne
+7d2c5b94-ba18-4837-86f4-16a7ab728959,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:10:06,2026-07-08 12:10:09.136434,Corrective,0.0,33428.44,In Progress,Ryan Larsen
+894a10fd-d1a6-40b5-8e91-6d5c14c5ff4c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:50,2026-07-08 12:10:09.136434,Preventive,0.09,34194.7,In Progress,Jose Smith
+6d631091-ecc7-4287-a9cd-0a10591dc07f,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:49,2026-07-08 12:10:09.137433,Corrective,0.06,29103.02,In Progress,Curtis Wilson
+6379c838-4fb8-4da5-8741-13931e619045,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:31,2026-07-08 12:10:09.137433,Predictive,0.06,18050.09,Open,Steven Cain
+4088af11-803f-40c2-aa72-bcca2bd933ed,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:06,2026-07-08 12:10:09.137433,Corrective,0.03,6525.0,Resolved,Tina Ward
+078b1d94-7b9a-4a3f-a36a-6ff556751d28,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:13,2026-07-08 12:10:09.138433,Predictive,0.07,13722.92,Open,Ebony Meyer
+49df0bfd-1fc9-4da5-9c29-e7ba826dd2e6,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:57,2026-07-08 12:10:09.138433,Preventive,0.04,48968.77,Open,Edward Hendricks
+8ec84284-b617-41ec-b816-7be20d7dccfc,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:44,2026-07-08 12:10:09.139432,Corrective,0.01,48146.5,Open,Samantha Martin
+5ea7082b-548e-480d-b4e7-ecdebf9f6d07,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:44,2026-07-08 12:10:09.139432,Predictive,0.02,44773.67,Open,Gerald Mckinney
+7cb959cb-2ad6-4809-8262-74bb1b2e7aad,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:52,2026-07-08 12:10:09.140433,Predictive,0.05,7351.5,In Progress,Robert Miller
+f4f06f8f-5815-4505-bc96-10abe340c5ba,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:11,2026-07-08 12:10:09.140433,Preventive,0.07,31879.77,Resolved,Nicholas Williams
+b66a482f-339a-4593-9f97-bf7f7799897f,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:38,2026-07-08 12:10:09.141453,Predictive,0.08,48477.3,Resolved,David Richardson
+7513584e-f810-4b21-ab74-2d76ebf9a334,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:03,2026-07-08 12:10:09.141453,Predictive,0.04,1711.26,Resolved,Cindy Arnold
+0e97e66d-ef2a-4099-9afc-861ee91b912b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:40,2026-07-08 12:10:09.142452,Preventive,0.04,46434.47,Open,Jason Kirk
+4e760d00-934f-4942-b04d-f37ccbd12d8d,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:36,2026-07-08 12:10:09.142452,Preventive,0.04,39536.36,Resolved,Michael Tucker
+8ef41260-be4a-4556-bd3b-fa2d92f4af27,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:18,2026-07-08 12:10:09.142452,Predictive,0.01,2913.98,Resolved,Adam Burke
+5f820b55-fded-46f8-a970-f3763730e512,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:14,2026-07-08 12:10:09.142452,Preventive,0.08,30907.22,Resolved,Matthew Clements
+1d72d5de-ee7a-4562-8367-f3a7cbc37392,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:29,2026-07-08 12:10:09.142452,Preventive,0.09,36094.73,In Progress,Mrs. Tiffany Koch MD
+6e12acc7-2fa0-48e6-8f07-3aff53306681,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:58,2026-07-08 12:10:09.143451,Predictive,0.09,23405.87,In Progress,Antonio Hopkins
+07507faa-dfc8-42ea-9b0b-0e1b0828d005,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:27,2026-07-08 12:10:09.143451,Corrective,0.06,18048.84,Open,Rodney Ellis
+3bc676b7-9473-4cc5-83d1-985917853326,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:01,2026-07-08 12:10:09.143451,Predictive,0.0,36108.96,In Progress,Danielle Powers
+ca87fb52-0807-47df-9aa1-67bba4ad587b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:54,2026-07-08 12:10:09.144450,Corrective,0.07,30787.01,In Progress,Shane Flowers
+c78da6d9-0a2b-45a5-941c-eeb533c4d83c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:47,2026-07-08 12:10:09.144450,Preventive,0.04,16184.99,In Progress,Trevor James
+bd5bc91d-034d-4dbb-bbac-0c713c4666a2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:18,2026-07-08 12:10:09.144450,Predictive,0.06,41979.57,Resolved,Scott Reynolds
+66415a02-a43e-4ebc-8e97-7e17aa4c46df,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:46,2026-07-08 12:10:09.144450,Preventive,0.07,18298.2,Open,Thomas Hodges
+ab28317c-9dcd-4881-9059-a43b294bbb42,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:27,2026-07-08 12:10:09.145450,Predictive,0.01,2795.21,Resolved,Ronald Harris
+7575dda9-af17-4275-82d5-536108db6ec2,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:38,2026-07-08 12:10:09.145450,Preventive,0.04,27989.15,Resolved,Dylan Pena
+020404ed-b404-4282-b349-183446a57f89,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:25,2026-07-08 12:10:09.145450,Corrective,0.05,4722.23,Resolved,Kimberly Johnson
+40644cf4-4df5-41f3-8e21-48152512b6ba,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:22,2026-07-08 12:10:09.145450,Predictive,0.06,31214.64,In Progress,Curtis Montgomery
+89362cdc-a6fe-4ad9-9539-dda523986555,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:40,2026-07-08 12:10:09.145450,Preventive,0.07,21194.76,Open,Melissa Perez
+ba110e6c-3adc-4d5d-a317-9e77c79ea1d5,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:52,2026-07-08 12:10:09.146451,Preventive,0.07,46818.84,In Progress,David Mccarthy
+e4d1cabb-6b1f-40fc-8f13-1619e92b4cc6,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:24,2026-07-08 12:10:09.146451,Corrective,0.08,14080.5,Resolved,Jessica Harrison
+f68844ed-138b-4402-ae48-8ac4476471d6,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:23,2026-07-08 12:10:09.146451,Predictive,0.01,43046.23,Resolved,Shawna Palmer
+e53a959b-c316-4132-82e7-3d691d66c040,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:14,2026-07-08 12:10:09.146451,Preventive,0.08,4150.09,In Progress,Roy Mccullough
+3d2d67ff-9c9f-4427-8ac9-089a651edbe5,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:08,2026-07-08 12:10:09.147448,Corrective,0.07,24202.74,Open,Dominic Smith
+b4cdb2b6-76b9-4c4c-a740-1d320da5941b,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:00,2026-07-08 12:10:09.147448,Preventive,0.05,15932.85,In Progress,Julia Miller
+7f9bf823-3c27-44d3-bc31-f5440cbe4b85,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:47,2026-07-08 12:10:09.147448,Corrective,0.09,5592.75,Resolved,Andrew Mendoza
+af78d30e-b296-4556-9022-9d3e5331b4b9,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:07,2026-07-08 12:10:09.148447,Corrective,0.03,48716.99,In Progress,Carly White
+4a41665c-0e80-43e6-b86a-37422b214799,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:53,2026-07-08 12:10:09.148447,Predictive,0.07,17595.8,In Progress,Michael Whitaker
+d06a2368-533f-4c7c-9c36-e24c0d5f0f93,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:06,2026-07-08 12:10:09.148447,Predictive,0.08,39852.89,In Progress,Nathan Watson
+1672ef87-39e9-4dcc-bb7f-db4406441a92,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:29,2026-07-08 12:10:09.149447,Predictive,0.08,36571.62,In Progress,Thomas Taylor
+40dd07ff-de3e-4bcf-9de8-a1fe740c485c,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:24,2026-07-08 12:10:09.149447,Corrective,0.03,46521.22,In Progress,Mark Short
+316646d2-1df4-489e-80cf-30e7909aee3d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:29,2026-07-08 12:10:09.149447,Predictive,0.08,29316.82,Open,Tracy Ramirez
+cce60588-ff66-4518-90ad-8d727aecf8d5,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:59,2026-07-08 12:10:09.149447,Corrective,0.04,7159.13,Open,Joshua Brandt
+7ae66ab4-6530-4979-98e5-d39050565dd0,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:39,2026-07-08 12:10:09.149447,Predictive,0.04,19075.55,In Progress,Emily Smith
+212601da-a731-4a9c-a9ba-b0ae8d3eb0de,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:02,2026-07-08 12:10:09.150446,Preventive,0.04,3098.34,Open,Rachel Figueroa
+4cb3bb33-9348-41cb-86d2-d580d27a701a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:33,2026-07-08 12:10:09.150446,Predictive,0.03,49446.51,Open,Janice Gates
+f34284f7-fbca-4016-8d82-6844e7f75fc9,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:38,2026-07-08 12:10:09.150446,Predictive,0.09,33812.08,Open,Jacob Trujillo
+59a8dc73-f969-469f-b6e9-e57448bf035b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:29,2026-07-08 12:10:09.150446,Preventive,0.06,37988.36,Resolved,Nathan Skinner
+b9b520df-7187-4bc1-ab89-b08b2c2f634d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:48,2026-07-08 12:10:09.151446,Preventive,0.01,33133.69,In Progress,Cindy Wilson
+fe764d6d-5a24-4988-8764-e6f81303c1bd,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:43,2026-07-08 12:10:09.151446,Preventive,0.09,21561.12,In Progress,Elizabeth Dickson
+3bff067a-c2a3-4959-b17e-e944218350d7,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:43,2026-07-08 12:10:09.151446,Corrective,0.06,28591.74,In Progress,Stephen Petty
+f5c8371c-ccbb-42ce-b953-ff12f59ef607,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:15,2026-07-08 12:10:09.151446,Preventive,0.02,21873.98,Resolved,Michael Mccarthy DVM
+45fb6dc7-b515-45c6-a087-6b4ff3f5efb5,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:00,2026-07-08 12:10:09.152446,Corrective,0.09,23136.25,In Progress,Jared Dawson
+f55b089d-6415-487b-a9a2-7583746b5935,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:12,2026-07-08 12:10:09.152446,Corrective,0.02,32945.5,In Progress,Kevin Meadows
+f71dc8f9-2539-4c6d-9593-449880fc1939,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:20,2026-07-08 12:10:09.152446,Predictive,0.08,5690.08,In Progress,Alison Griffin
+bc9ca2c3-6ced-4372-aa32-83a3bba76d64,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:26,2026-07-08 12:10:09.153446,Predictive,0.03,44375.29,Open,Gregory Young
+c1fcf444-342a-467c-8e29-f2315630bd80,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:04,2026-07-08 12:10:09.153446,Preventive,0.03,41040.92,In Progress,Gregory Gonzalez
+e0e8759e-1f4b-441e-82a7-be37186c7988,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:58,2026-07-08 12:10:09.153446,Predictive,0.09,2455.5,Resolved,Robert Fuller
+e6d18060-72af-440c-8dbd-171c933899ef,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:53,2026-07-08 12:10:09.153446,Corrective,0.09,4092.7,Resolved,Jennifer Hogan
+d15de987-eff8-4e81-8365-2fa21da683ee,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:16,2026-07-08 12:10:09.154445,Predictive,0.08,19814.12,Resolved,John Thompson
+9f21e61c-4a45-43fa-a871-631a953e3cf3,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:22,2026-07-08 12:10:09.154445,Preventive,0.06,8022.12,In Progress,John Yoder
+883bfdc7-3c88-403b-ae16-f24590c3b530,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:38,2026-07-08 12:10:09.155425,Preventive,0.04,21144.52,Open,Natasha Brown
+8cd31650-7764-4352-a8f4-60900258a573,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:45,2026-07-08 12:10:09.156422,Predictive,0.04,19000.68,Open,Matthew Ellis
+c57a0f2e-d706-40e3-8837-3652fc59c831,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:42,2026-07-08 12:10:09.157422,Predictive,0.09,46029.29,Resolved,Dominique Small
+3d6f6890-8bbf-4024-8d63-fc5e093b2447,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:33,2026-07-08 12:10:09.157422,Corrective,0.08,49102.65,Open,Susan Graham
+79bbcdf3-c2e1-41d1-8269-49f001336b99,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:17,2026-07-08 12:10:09.158424,Preventive,0.01,36010.55,Open,Joseph Valdez
+7631fb58-a9f9-49d0-8db2-bdc5ab28296c,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:24,2026-07-08 12:10:09.158424,Predictive,0.06,38724.6,Open,Jodi Smith
+8225a258-45d0-474a-997b-5088f29b842f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:26,2026-07-08 12:10:09.158424,Preventive,0.08,36066.42,In Progress,Jasmine Kent
+c6dd36d6-4169-4047-864f-4fe0108c6012,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:32,2026-07-08 12:10:09.158424,Predictive,0.04,29595.62,In Progress,James Perez
+89f3cfc0-9efb-4bae-82ea-d706ad192f82,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:59,2026-07-08 12:10:09.159422,Corrective,0.04,27881.45,Open,Steven Thompson
+52b4e360-85fd-422e-a3d5-5f7a1c4f5c8a,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:26,2026-07-08 12:10:09.159422,Corrective,0.05,49965.47,Resolved,Becky Cherry
+c4d03b37-bdc3-4501-9a4b-dac6fbbd3011,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:05,2026-07-08 12:10:09.159422,Preventive,0.05,9943.61,In Progress,Holly Patterson
+b77b55f8-5c7f-43c6-9399-4fb7e9cb1759,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:49,2026-07-08 12:10:09.160422,Preventive,0.01,36969.0,Open,Emily Keith
+285c6b2e-45d5-4a3a-917a-f1e37a406087,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:07,2026-07-08 12:10:09.160422,Predictive,0.0,22484.49,In Progress,Raymond Harris
+22f2567d-bff0-4ba5-be10-9b03dd304ca4,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:09,2026-07-08 12:10:09.161419,Preventive,0.03,42799.45,Open,David Blanchard
+db809b03-ad8f-4151-9bdb-84bd3acb575d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:07,2026-07-08 12:10:09.161419,Predictive,0.08,12007.87,Resolved,Brooke Sparks
+35614d58-bdc6-4d11-bace-bf3427cf9dd9,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:08,2026-07-08 12:10:09.161419,Predictive,0.02,42474.04,Open,Kenneth James
+2646a429-c788-41c7-b389-8ba49019105e,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:34,2026-07-08 12:10:09.162420,Preventive,0.01,1600.31,In Progress,Cathy Duke
+81e8ead0-d6cc-46a8-8343-c6efb6a413c4,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:36,2026-07-08 12:10:09.162420,Predictive,0.09,45273.7,Resolved,Rachel Chapman
+e92a99ba-d662-470a-9da9-04f8ff48f77f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:15,2026-07-08 12:10:09.162420,Predictive,0.08,11612.16,Open,Kimberly Aguilar
+af617584-fbb2-44d3-9950-db26940b2a1e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:29,2026-07-08 12:10:09.162420,Corrective,0.09,32831.83,Resolved,Misty Zimmerman
+2a47a8b8-0550-478c-abdc-94c8332ec84a,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:48,2026-07-08 12:10:09.163419,Corrective,0.07,39275.8,Open,Rhonda Benton DDS
+f887fd4c-11cb-4358-aaf9-ee1c7f599e9d,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:00,2026-07-08 12:10:09.163419,Corrective,0.0,12382.7,Resolved,Daniel Deleon
+f9c790b5-89e8-407e-99b3-30a3b9510fb4,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:12,2026-07-08 12:10:09.163419,Predictive,0.03,18273.15,Resolved,Bill Reynolds
+bc5beb93-9b55-4765-ac4a-b9e9bf27ce9e,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:08,2026-07-08 12:10:09.163419,Preventive,0.0,18968.01,Open,Suzanne Jones
+a33313a5-fae6-450b-a4ef-68042924624d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:28,2026-07-08 12:10:09.164418,Preventive,0.04,45611.86,Resolved,Kevin Fox
+0545d100-b350-43fe-8c14-78f072c3926e,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:51,2026-07-08 12:10:09.164418,Preventive,0.04,26527.82,In Progress,Christina Young
+b5fcfff1-92cf-4bb5-8de4-2d00552f8572,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:10:04,2026-07-08 12:10:09.164418,Preventive,0.0,5476.05,Open,Robert Melton
+c1606b34-7e72-4b32-8a87-35824532f405,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:14,2026-07-08 12:10:09.164418,Predictive,0.1,21175.49,Resolved,Timothy Burnett
+317dabc8-800e-432b-839d-7e14dd20c4ac,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:20,2026-07-08 12:10:09.165417,Corrective,0.03,22057.48,Resolved,Christine Watts
+92a77f4b-9d29-452b-a203-57550c5cd6ff,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:53,2026-07-08 12:10:09.165417,Preventive,0.04,33838.47,Open,Ashley Daniels
+29f44eb8-88aa-42f9-87bf-c4f138ba4147,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:10,2026-07-08 12:10:09.165417,Preventive,0.08,6332.08,In Progress,Danielle Velasquez
+c9f592f9-964b-408c-9c0b-81e1f9ebef94,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:41,2026-07-08 12:10:09.165417,Preventive,0.06,16188.56,Open,Jennifer Pena
+0b8d5a90-3586-40fe-815b-5f278720a92e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:45,2026-07-08 12:10:09.166417,Corrective,0.07,38739.96,Resolved,Mandy Preston
+52015d50-7fcb-4d9b-a6a3-968194ebc7c1,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:00,2026-07-08 12:10:09.166417,Corrective,0.02,29750.12,In Progress,Jeremy Harris
+6261acbc-1481-4833-94ac-6dcb4c1a8a38,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:46,2026-07-08 12:10:09.166417,Preventive,0.04,4880.85,In Progress,Hannah Jenkins
+70d412b2-8456-4959-afe4-1131cb8cc446,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:19,2026-07-08 12:10:09.166417,Predictive,0.03,17530.26,Resolved,Tina Turner
+8cd46a81-a030-42a6-bc7d-039331e3981e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:11,2026-07-08 12:10:09.167416,Predictive,0.03,3161.7,In Progress,Curtis Wright
+4bfcf858-a9a0-4c10-86ef-9357b864efe7,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:26,2026-07-08 12:10:09.167416,Corrective,0.03,37833.3,Open,Erica Thornton
+6a6393d3-e409-404d-bdc4-2141565557ca,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:21,2026-07-08 12:10:09.167416,Corrective,0.08,3816.83,Resolved,Kathryn Meyers
+1050c14a-b303-4439-a26e-5c9a2b3ed401,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:08,2026-07-08 12:10:09.167416,Predictive,0.03,35292.26,Open,Andre Cummings
+615173c1-a2e9-43dc-821b-7102a9715177,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:30,2026-07-08 12:10:09.168416,Preventive,0.08,4914.88,Resolved,Sydney Hamilton
+57d8b98a-1ff7-4fc0-bb1c-14bfcf1b579f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:46,2026-07-08 12:10:09.168416,Preventive,0.06,26372.42,Resolved,Andrea Morris
+f1bf8c28-9fde-45a8-97aa-0af58787d28c,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:01,2026-07-08 12:10:09.168416,Preventive,0.04,46535.65,In Progress,Tiffany Sandoval
+8af94c84-9d5d-4ce2-9aac-d58899735f90,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:44,2026-07-08 12:10:09.168416,Predictive,0.07,5648.19,Open,Mario Zuniga
+4242152e-6196-46f2-a9c6-4ee8a4a42ac8,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:41,2026-07-08 12:10:09.169415,Predictive,0.02,30254.32,In Progress,Carl Robertson
+d4a20ac6-d397-4ab7-8a25-fdc41983d3ee,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:15,2026-07-08 12:10:09.169415,Corrective,0.05,33673.55,Open,William Bryant
+9061f1bd-2764-472a-b8b7-29bca9a14b58,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:57,2026-07-08 12:10:09.169415,Corrective,0.0,35398.07,In Progress,Jay Watson
+fd70ab0f-08dd-4189-8388-efb68c4df938,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:47,2026-07-08 12:10:09.170415,Predictive,0.06,33369.16,Resolved,Christian Bartlett
+7a77996a-efa5-4747-af30-19a62361c03d,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:27,2026-07-08 12:10:09.170415,Predictive,0.03,31407.46,Open,Kimberly Bailey
+f05b5fb1-b8e8-4ebf-8b52-453ba7787d38,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:36,2026-07-08 12:10:09.170415,Corrective,0.04,34912.43,Resolved,Teresa Taylor
+3fb4df4a-36fe-48b8-b5ec-ed7ea671efeb,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:06,2026-07-08 12:10:09.171414,Corrective,0.02,12486.03,Open,Richard Martin
+86338e19-1cbd-426f-b668-4b1161ab096f,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:58,2026-07-08 12:10:09.171414,Predictive,0.05,6501.03,Resolved,Jacqueline Johnson
+7aa19fc2-6a55-48cf-a35c-09f896b63f0b,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:51,2026-07-08 12:10:09.172414,Corrective,0.07,19368.04,Resolved,Hector Collins
+463390cb-90f6-4e6e-9cbc-a046a3aab74e,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:52,2026-07-08 12:10:09.172414,Corrective,0.0,42710.41,Resolved,Alejandro Dalton
+f38e0bec-8413-4b6e-9344-06b485d78047,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:42,2026-07-08 12:10:09.173416,Predictive,0.09,46839.99,Open,Marissa Pennington
+a39c302e-6ffe-4433-883b-056302699058,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:31,2026-07-08 12:10:09.173416,Corrective,0.01,18180.16,Resolved,Joseph Massey
+21e99c3b-290b-4256-811e-15fb1687ec1f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:40,2026-07-08 12:10:09.173416,Corrective,0.02,18064.05,Open,Karen Nichols
+c8a070eb-b263-4861-8f30-5d0e09d49efb,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:31,2026-07-08 12:10:09.174433,Predictive,0.06,43395.74,In Progress,Alfred Browning
+5f24e09b-0bb5-4729-ba59-07ae4b8b0a70,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:45,2026-07-08 12:10:09.174433,Preventive,0.02,3215.42,In Progress,Jeremy Mora
+952a8869-ca03-48fb-ad9f-712d4ec97301,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:52,2026-07-08 12:10:09.174433,Predictive,0.09,29987.05,Resolved,Traci Campbell
+b90c5ffe-9ad7-4b66-9a76-e52794415833,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:50,2026-07-08 12:10:09.174433,Corrective,0.02,29997.85,Open,Teresa Walters
+cf0dfeb3-a41c-4ef9-9630-d657af903b13,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:00,2026-07-08 12:10:09.174433,Predictive,0.09,32770.27,Resolved,Michael Kelly
+791fbb71-4c11-49b0-a787-6e3f936931af,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:33,2026-07-08 12:10:09.175433,Predictive,0.08,40866.92,In Progress,Stacey Jordan
+98151fd8-be76-48be-9287-5505ec7d7976,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:02,2026-07-08 12:10:09.175433,Preventive,0.09,6148.93,In Progress,Matthew Mitchell DDS
+5aafadbf-e267-4116-ad9a-aff6783df95b,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:37,2026-07-08 12:10:09.175433,Predictive,0.01,46857.39,In Progress,Susan Noble
+ed55a74b-13fe-44a4-86ff-37936178790c,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:07,2026-07-08 12:10:09.176433,Predictive,0.05,2612.85,Open,James Diaz
+06f7886f-01d3-4859-bb57-fab21986375b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:26,2026-07-08 12:10:09.176433,Predictive,0.01,41016.75,In Progress,Jeremy Jacobson
+fbbdfbe8-9287-4b26-a30f-900a447c418a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:21,2026-07-08 12:10:09.176433,Corrective,0.1,27133.65,In Progress,Nicholas Frost
+bc7e1ac0-6732-47cd-a283-f1380209ad46,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:12,2026-07-08 12:10:09.177431,Predictive,0.03,16374.23,In Progress,Christopher Cruz
+215b2fda-6885-47a1-b017-9edb5537aacb,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:07,2026-07-08 12:10:09.177431,Corrective,0.08,39807.46,Resolved,Jennifer Hunt
+74e86fd2-2ecb-4cab-b725-a60802611ea1,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:48,2026-07-08 12:10:09.177431,Predictive,0.04,3169.35,Resolved,Christopher Ford
+1e5393d6-87c8-4b1d-9618-9368a2b4785b,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:10,2026-07-08 12:10:09.177431,Preventive,0.08,13726.98,Open,Kayla Hogan
+67003c4f-6567-4d77-ab41-5f3af4d90cf2,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:09,2026-07-08 12:10:09.177431,Corrective,0.05,45511.59,Resolved,Nicole Snyder
+bceb1f8b-7d38-4dd7-a75b-4d04d096e78f,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:54,2026-07-08 12:10:09.178431,Corrective,0.09,29319.29,In Progress,Christopher Lawrence
+5551076f-8ae6-455a-8e90-ca703f45e17a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:59,2026-07-08 12:10:09.178431,Predictive,0.09,19045.93,Open,Stacy Scott
+b72ce90b-9b10-4c08-9b8c-693419899711,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:32,2026-07-08 12:10:09.178431,Corrective,0.08,12943.88,In Progress,Brittney Davidson
+75dca9f2-15b1-46b0-97ff-eb6a8c2d78cc,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:26,2026-07-08 12:10:09.178431,Corrective,0.06,12821.07,Open,Jonathon Cohen
+718db8d4-572c-4140-9d99-a8971a0c70e5,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:15,2026-07-08 12:10:09.179431,Predictive,0.02,12788.38,In Progress,Miguel Chapman
+3f2d5195-66f1-469b-bf06-6883fbef1124,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:32,2026-07-08 12:10:09.179431,Preventive,0.06,3093.0,In Progress,Dana Page
+bc274576-c0cb-4838-8659-4adfcaea7275,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:40,2026-07-08 12:10:09.179431,Preventive,0.01,5082.32,Open,Kevin Gonzalez
+7bde866c-45da-47f1-8f25-e80ab8c61588,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:34,2026-07-08 12:10:09.179431,Predictive,0.04,12092.64,Resolved,Erika Gray
+23feff25-930c-4b21-99c9-4aaaf9c4b06b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:03,2026-07-08 12:10:09.180430,Corrective,0.09,17421.69,In Progress,Megan Jackson
+620e068e-37ea-4248-a449-8075c9e7179d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:56,2026-07-08 12:10:09.180430,Preventive,0.09,15425.83,Resolved,Michael Martin
+76a53b20-26eb-4c3e-97ad-6cd86ff73714,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:24,2026-07-08 12:10:09.180430,Preventive,0.01,1409.08,Open,Amy Weaver
+0d6ee7ad-5603-445d-b872-434e3cd11b5b,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:12,2026-07-08 12:10:09.180430,Predictive,0.02,43476.38,Open,Richard Dixon
+9f756990-539a-4722-b090-f213778d7517,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:31,2026-07-08 12:10:09.181429,Preventive,0.06,24929.22,In Progress,Kevin Bass
+070fcf5e-6e16-4c3f-bf63-e7daeb22f9dc,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:12,2026-07-08 12:10:09.181429,Corrective,0.02,24562.8,In Progress,Jennifer Santiago
+d6568f4e-7e86-4617-8b22-463be77de2b9,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:54,2026-07-08 12:10:09.181429,Predictive,0.07,30556.94,In Progress,Matthew Taylor
+a565171d-1910-426c-b899-fbcc951d5db2,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:44,2026-07-08 12:10:09.181429,Corrective,0.01,11441.25,Resolved,Tony Mitchell
+b260a9d5-3915-4b39-bf7f-adbd04d4c21f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:11,2026-07-08 12:10:09.182428,Preventive,0.07,1589.63,In Progress,Sharon Black
+bb51cbd2-8da2-421a-a8b0-95a8a390f798,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:25,2026-07-08 12:10:09.182428,Preventive,0.03,3420.87,Resolved,Crystal Warner
+9f963843-c4b2-4a90-a641-25caa2d62031,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:09,2026-07-08 12:10:09.182428,Preventive,0.08,36587.85,In Progress,Ruth Carey
+3979138a-61f2-42a3-ad4c-cfdd44b814d0,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:39,2026-07-08 12:10:09.182428,Corrective,0.03,45223.44,In Progress,Beth Davis
+29fe632e-ba9b-4806-80ef-d0f068441cec,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:07,2026-07-08 12:10:09.183428,Corrective,0.07,2622.57,Open,Jeff Hernandez
+77392717-1d9a-4943-a2c2-b52d3be210ad,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:15,2026-07-08 12:10:09.183428,Corrective,0.05,5413.77,Open,Rachel Scott
+44c09127-cf34-480d-afc5-cac3b312525d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:07,2026-07-08 12:10:09.183428,Preventive,0.03,29165.67,Open,Holly Cobb
+dc840d4e-47bb-4636-b097-7d630e959791,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:40,2026-07-08 12:10:09.183428,Predictive,0.06,47599.35,In Progress,Dustin Mcdonald
+0234123d-9fad-46f6-9d5f-d17009427d0c,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:30,2026-07-08 12:10:09.183428,Corrective,0.06,48516.02,Open,Deborah Ortiz
+22a0f8d7-4c75-4c69-a7fc-d97ce944592e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:29,2026-07-08 12:10:09.184428,Corrective,0.06,8701.6,In Progress,Patrick Park
+2269f42b-5356-4eaf-a8f5-3717ce643c08,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:09,2026-07-08 12:10:09.184428,Preventive,0.03,14845.27,Resolved,Ashlee Buckley
+29ea691d-d718-42ad-82f2-4ec72d86a3a1,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:01,2026-07-08 12:10:09.184428,Predictive,0.09,7791.14,Open,Scott Bell
+ba0dfe1e-3ab1-440e-81b6-cf063dd2081f,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:06,2026-07-08 12:10:09.185427,Predictive,0.03,38204.9,In Progress,Justin Ellis
+f5cf11f9-e817-4dbd-b29d-4bd0acda3c55,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:44,2026-07-08 12:10:09.185427,Predictive,0.01,3743.2,Open,Elizabeth King
+57b87ef2-8867-4c87-b129-530441959bd9,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:07,2026-07-08 12:10:09.185427,Predictive,0.08,28863.09,Resolved,Jessica Brown
+a805b359-9487-48c9-851a-75f80ea0cec9,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:10:07,2026-07-08 12:10:09.185427,Predictive,0.0,25671.53,In Progress,Alexander Luna
+7e93f825-bcfe-4eb3-a838-343776f22779,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:01,2026-07-08 12:10:09.186426,Corrective,0.09,42270.61,Resolved,Keith Taylor
+8b36e32b-4e23-4e6d-a9c2-91dbe669b71d,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:19,2026-07-08 12:10:09.186426,Corrective,0.01,42748.85,In Progress,Jacob Gonzales
+0eff140a-18d5-4290-9aa7-a453a1ef6526,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:32,2026-07-08 12:10:09.186426,Predictive,0.04,42551.38,Resolved,Jessica Miller
+419f8629-08c7-4352-b425-0c0ac23536f5,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:36,2026-07-08 12:10:09.187425,Preventive,0.06,22225.76,In Progress,Nathan Howard
+029501ea-c6d4-436d-8b46-2caeced9c9fc,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:10,2026-07-08 12:10:09.187425,Predictive,0.02,10248.58,In Progress,Kristin Lloyd
+1369fd86-eeec-44fb-af84-f66b82ccd67d,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:22,2026-07-08 12:10:09.187425,Predictive,0.01,10645.76,Open,Steven Thomas
+9e813799-fe58-42fa-9add-6f49a414bac8,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:47,2026-07-08 12:10:09.187425,Predictive,0.01,32661.83,In Progress,Paige Smith
+ef9dbf3d-8a5e-4082-aa46-b1d9521678a8,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:46,2026-07-08 12:10:09.188425,Corrective,0.01,37554.15,Open,Jacob Williamson
+b33d53df-22a6-4198-95ac-ae37e19dbfea,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:24,2026-07-08 12:10:09.188425,Corrective,0.06,16458.55,Open,Chad Fernandez
+23e926ad-fb0d-48d7-90fd-c23e5e70d63f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:03,2026-07-08 12:10:09.188425,Preventive,0.04,11948.16,Resolved,Ronald Parker
+18235f81-3ddc-4e2c-a669-5819299b639c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:48,2026-07-08 12:10:09.189404,Corrective,0.06,41298.62,Open,Robert White
+1e655bb5-26d6-408a-a89b-1220f0b4a997,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:19,2026-07-08 12:10:09.189404,Preventive,0.03,35320.43,Open,Stacey Case
+7ff42b8a-884c-4080-9034-1581d665e401,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:03,2026-07-08 12:10:09.190404,Corrective,0.04,1967.85,Open,Kimberly Graves
+a113fd82-eb64-497b-b404-1ea6512e470f,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:17,2026-07-08 12:10:09.190404,Predictive,0.08,27263.19,In Progress,Christine Jordan
+2b0efc5b-b8be-49aa-9e34-1081223e9f06,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:36,2026-07-08 12:10:09.190404,Preventive,0.08,9209.38,Resolved,Cassandra Hodge
+bca3d566-6e69-4b5a-af74-ffc71c8351cc,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:09,2026-07-08 12:10:09.190404,Corrective,0.08,27371.71,Resolved,Jason Lozano
+fcd7c142-76f9-4ff9-87b5-8e488a781fb4,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:46,2026-07-08 12:10:09.191403,Corrective,0.04,34936.17,In Progress,Matthew Johnson
+0249c6d1-0ff6-49ac-bf83-e8c66f99aad5,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:21,2026-07-08 12:10:09.191403,Predictive,0.03,31499.23,Resolved,Thomas Bush
+bcb4b69b-512f-4ac8-b16f-7ad4c3ec2ec0,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:09,2026-07-08 12:10:09.191403,Preventive,0.02,22042.7,In Progress,Matthew Martinez
+17d48cb8-ecd3-4ad0-ae6c-9d20516af89a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:35,2026-07-08 12:10:09.191403,Predictive,0.08,46303.63,Resolved,Jared Adams
+c4619b9d-cc18-4ea6-a022-f23af268b6ae,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:36,2026-07-08 12:10:09.192402,Predictive,0.08,37375.29,Open,Amy Aguilar
+1d521de0-cbfa-4276-885c-9ec49cdf8d3c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:55,2026-07-08 12:10:09.192402,Predictive,0.05,27326.65,In Progress,Mrs. Melanie Sandoval
+48cef7c3-9ef6-48da-9dd8-43e2a3c9a8f8,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:09,2026-07-08 12:10:09.192402,Preventive,0.07,46587.12,Open,Lauren Young
+6d0ef5c2-99ab-4658-849a-56e9f59f2284,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:46,2026-07-08 12:10:09.192402,Predictive,0.01,29539.27,Resolved,Amy Howell
+228232f2-dd7c-4177-ad56-98222f46f701,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:15,2026-07-08 12:10:09.193401,Predictive,0.02,20649.77,Resolved,Matthew Watson
+5c597852-7ebf-4a47-943a-764d294ab93a,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:16,2026-07-08 12:10:09.193401,Preventive,0.03,31882.52,Open,Christopher Turner
+20b42094-cef9-4f8f-83e1-5c53dca12523,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:44,2026-07-08 12:10:09.193401,Predictive,0.09,35757.22,Resolved,Tina James
+fcbe33c8-ec3d-4930-bbd2-37f6829f0d5a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:50,2026-07-08 12:10:09.193401,Preventive,0.06,22586.15,In Progress,Taylor Rogers
+059f936c-b6d6-4a6e-ae2e-5cd116853708,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:06,2026-07-08 12:10:09.194401,Corrective,0.07,21790.89,Resolved,James Richardson
+dc1bd0eb-9c4f-4c37-8491-1212f2974313,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:55,2026-07-08 12:10:09.194401,Corrective,0.07,43882.79,In Progress,Donald Gray
+b7fa19f2-3fc4-45ec-8d77-76226cd232ab,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:03,2026-07-08 12:10:09.194401,Corrective,0.09,37700.84,Resolved,Morgan Curry
+ea8dddc1-50eb-46f2-803e-3a532cc3b859,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:28,2026-07-08 12:10:09.195400,Predictive,0.03,40580.65,Resolved,Diana Murphy
+3fbc34e9-2273-4846-b77a-34c58a3329ad,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:52,2026-07-08 12:10:09.195400,Corrective,0.04,25699.55,Open,Dr. Dustin Barrera
+b13a6105-3503-470d-8e91-fd558585484e,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:17,2026-07-08 12:10:09.195400,Preventive,0.01,3292.91,Open,Christine Chang
+c3204e6b-c28b-46e6-9948-35c092d26042,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:00,2026-07-08 12:10:09.196399,Predictive,0.07,12803.97,Open,Patrick Smith
+975ca79f-11fc-472c-9e6b-6d10c4c1dfa5,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:22,2026-07-08 12:10:09.196399,Preventive,0.05,15288.86,In Progress,Brittany Le
+c9b18bbe-f67c-414f-bd9d-6962e0d2df57,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:34,2026-07-08 12:10:09.196399,Corrective,0.08,22892.47,In Progress,Christian Ramsey
+54b11887-7e83-4137-9927-71c43a9d3813,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:37,2026-07-08 12:10:09.196399,Preventive,0.04,42264.79,Open,Morgan Vaughan DDS
+48fec64d-33fa-49bc-b7f8-36638d5d50cd,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:36,2026-07-08 12:10:09.197399,Predictive,0.06,12421.31,Open,Matthew Watson
+255a24bf-7ba8-4470-9776-eac934aeadfd,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:04,2026-07-08 12:10:09.197399,Corrective,0.08,45867.3,Resolved,Garrett Castillo
+e73623a2-73d0-4ad8-b5e2-e7d76087e194,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:55,2026-07-08 12:10:09.197399,Predictive,0.04,37403.2,In Progress,Cody Bradford
+856d202c-649f-44ad-a22b-ae1f204f5ffd,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:43,2026-07-08 12:10:09.197399,Predictive,0.04,17036.87,In Progress,Susan Lopez
+acfc4c58-a879-4fbc-b206-738923799e7a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:22,2026-07-08 12:10:09.198398,Corrective,0.05,49301.56,Open,Michael Hahn
+7b67979f-3598-404e-9524-479f0bbdd457,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:04,2026-07-08 12:10:09.198398,Preventive,0.02,2298.27,Open,Benjamin Barrett
+26668305-9ac0-4ed7-9413-673d93f5a944,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:23,2026-07-08 12:10:09.198398,Corrective,0.08,42953.14,In Progress,Brittany Nicholson
+9b7c4e07-8227-4705-93d8-cc1825ca7fed,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:06,2026-07-08 12:10:09.198398,Predictive,0.07,5711.41,Resolved,Michelle Ortega
+4add32a9-5f6a-4832-bde1-00597119e254,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:13,2026-07-08 12:10:09.199398,Corrective,0.03,41765.36,Resolved,Amanda Johnson
+31f0489a-8533-4d67-bcce-20b29ee8dcd3,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:46,2026-07-08 12:10:09.199398,Preventive,0.09,40971.57,In Progress,Shannon Parker
+cfa31704-492c-40be-886e-daf5100e56a1,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:07,2026-07-08 12:10:09.200397,Corrective,0.08,29934.78,In Progress,Jessica Bennett
+49c15a35-d63a-4353-959f-f5c3b7cd8583,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:44,2026-07-08 12:10:09.200397,Predictive,0.02,23079.85,Resolved,Melinda Blanchard
+33e51c3d-063a-4c6f-83ef-3da425fb83ec,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:54,2026-07-08 12:10:09.200397,Predictive,0.02,27225.54,Resolved,Robert Brooks
+5236f53b-a02e-464a-b614-c5db5afc7564,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:30,2026-07-08 12:10:09.201397,Predictive,0.01,34002.49,Open,Steven Reyes
+413fbd94-6231-4a71-ba15-0df09cc3d606,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:02,2026-07-08 12:10:09.201397,Corrective,0.07,24570.08,Open,Rebecca Moss
+191071c7-d745-4afa-bc00-7260b86d4f2d,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:00,2026-07-08 12:10:09.201397,Predictive,0.0,2911.16,In Progress,Christine Morris
+14c7bd5e-60ce-4caf-a8cb-be125088205f,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:23,2026-07-08 12:10:09.202396,Corrective,0.06,12701.48,Resolved,Sean Dixon
+a7d762de-55e3-4963-8d25-bb2089b8500e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:47,2026-07-08 12:10:09.202396,Corrective,0.01,46964.04,Resolved,Kevin Baker
+f39f01d4-6080-4d12-a999-8895d53f910a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:26,2026-07-08 12:10:09.202396,Corrective,0.05,10608.19,In Progress,David King
+6755dcd0-9cce-4c7e-9317-a99833c2e75b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:07,2026-07-08 12:10:09.203395,Preventive,0.0,15990.86,Resolved,Angela Park
+a240bf59-b19f-429e-864c-555a2e69fa7e,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:06,2026-07-08 12:10:09.203395,Preventive,0.03,7583.97,Resolved,Chase Hahn
+321d1c81-df5e-4465-9bd7-bb2240d6288c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:08,2026-07-08 12:10:09.203395,Preventive,0.08,45922.71,Open,Ashley Garcia
+f3cc8e89-ee3e-4cdb-9571-de04d57e2929,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:19,2026-07-08 12:10:09.203395,Corrective,0.03,22996.39,Open,Mary Hubbard
+f645e17f-9bad-4ee5-8ba3-4ae359e86c27,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:26,2026-07-08 12:10:09.204395,Predictive,0.05,13790.07,Open,Corey Schultz
+89404a3f-d431-4b49-8e6a-e618d5d4dda1,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:12,2026-07-08 12:10:09.204395,Preventive,0.1,33155.68,Open,Anthony Perez
+3a67199f-c441-4b65-a891-65085b425b89,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:47,2026-07-08 12:10:09.204395,Preventive,0.01,44221.86,Open,Caroline Wilson
+fd60a9c8-4192-4325-be83-909cdd3815b3,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:52,2026-07-08 12:10:09.205394,Corrective,0.09,34621.95,Resolved,Carlos Ward
+ece6ae97-28d1-422b-9e26-246fddd560f3,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:07,2026-07-08 12:10:09.205394,Predictive,0.07,21400.93,Resolved,Anne Hart
+ad330eca-3726-40cd-87cb-0ef58ecc5fee,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:25,2026-07-08 12:10:09.205394,Predictive,0.08,39254.47,Open,Stephanie Wright
+3190e87c-d1c4-4e99-9347-06125569f3d1,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:36,2026-07-08 12:10:09.205394,Preventive,0.09,20677.83,Resolved,Amanda Morgan
+2a1f080a-9342-4273-8e16-d671eacfc387,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:44,2026-07-08 12:10:09.206394,Preventive,0.09,43881.41,Open,Tracey Long
+f488233e-c72f-4e3c-b289-d7cb7e3db5b0,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:59,2026-07-08 12:10:09.206394,Predictive,0.07,21832.37,Open,Gabrielle Lewis
+e5a72d0b-1061-4799-acfb-f30860eab59d,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:09,2026-07-08 12:10:09.206394,Predictive,0.07,23514.8,Resolved,Perry Green
+b85a52f0-78ff-4806-8202-0ec269b2a7e7,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:38,2026-07-08 12:10:09.206394,Preventive,0.04,15302.84,Open,Jillian Hood
+0d8c30cc-0499-4856-9b86-129e0d5dc335,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:00,2026-07-08 12:10:09.207393,Preventive,0.07,18448.46,Resolved,Sara Young
+4b7f3317-7ab0-4626-b1d1-84aa2dfec17d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:04,2026-07-08 12:10:09.207393,Predictive,0.08,19352.74,Resolved,Kevin Jackson DVM
+ad8f0225-b290-4b91-b052-4cabb24671a0,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:55,2026-07-08 12:10:09.207393,Corrective,0.05,25203.88,Open,William Davis
+94f6e7cc-1fcd-4dc1-a78d-ad030990377d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:01,2026-07-08 12:10:09.208393,Predictive,0.05,26500.55,In Progress,Dr. Bobby Garcia
+4fb5473f-5dea-4f21-a698-22f8f536aaf5,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:06,2026-07-08 12:10:09.208393,Preventive,0.05,45610.67,In Progress,Corey Cook
+69fc0411-5bea-48c1-ab3e-fb7f5faba0d6,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:07,2026-07-08 12:10:09.209392,Predictive,0.05,25015.2,Open,Kathleen Thomas
+1c17205f-b210-4672-83fe-c4892bb70633,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:01,2026-07-08 12:10:09.209392,Corrective,0.02,1285.17,In Progress,Angela Rogers
+3053c520-6b77-4e53-b1f6-85eea6a78665,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:29,2026-07-08 12:10:09.209392,Predictive,0.08,39430.65,Resolved,Ronald Ewing
+4338e233-8294-4743-85a8-26b687bd61dc,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:08,2026-07-08 12:10:09.209392,Predictive,0.05,17136.03,Resolved,Mr. Marc Gonzalez
+4bf54b1d-b883-469a-9fd4-77b1d0908779,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:04,2026-07-08 12:10:09.210392,Corrective,0.0,40975.82,In Progress,Darin Herman
+7526bf3c-1768-431c-94df-99c08f56a8e0,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:05,2026-07-08 12:10:09.210392,Preventive,0.08,48099.9,Open,Hunter Baker
+081d6bb7-1dbf-4874-ad30-301ce35634ce,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:25,2026-07-08 12:10:09.210392,Corrective,0.03,32008.4,Open,Connor Le
+7c61fc07-7015-4922-ab38-dcc57936c82a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:03,2026-07-08 12:10:09.210392,Corrective,0.09,44718.82,In Progress,Kevin Munoz
+bf9de7d7-2b3d-4e19-a4f7-d01f04b130c0,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:07,2026-07-08 12:10:09.211391,Preventive,0.02,29178.63,In Progress,James Grant
+b1efacb2-80b7-48d7-9b82-bc4b6b46a07d,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:41,2026-07-08 12:10:09.211391,Predictive,0.06,38527.89,In Progress,Paul Scott
+f0b1de67-36fa-4a72-b8d3-caaa143aeb38,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:37,2026-07-08 12:10:09.211391,Preventive,0.04,38584.71,Resolved,Nancy Nolan
+c85903e9-f1f2-4c48-be9a-719914413f5a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:00,2026-07-08 12:10:09.211391,Preventive,0.02,7203.78,In Progress,Catherine Carter
+08de3e66-830c-4f53-8e65-bf77a0988f76,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:05,2026-07-08 12:10:09.212390,Predictive,0.07,39919.81,Open,Albert Floyd
+7e3f12d6-dca3-4925-9d22-364b06909cdf,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:22,2026-07-08 12:10:09.212390,Corrective,0.01,45369.48,Resolved,Audrey Kelley
+06f41921-831d-4ff3-b9ec-cd8c9783d24d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:20,2026-07-08 12:10:09.212390,Predictive,0.05,7311.95,Resolved,Kylie Schultz
+bfe006de-fd4f-4efd-8477-0b4a0f092d28,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:50,2026-07-08 12:10:09.213390,Predictive,0.02,9052.35,Open,Teresa Smith
+780431f1-b0b8-4925-bc32-3df364d7dd70,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:03,2026-07-08 12:10:09.213390,Predictive,0.07,40014.64,Open,Elizabeth Pacheco
+dff63cc4-f4d3-4185-9a25-2cfc922a0289,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:34,2026-07-08 12:10:09.213390,Predictive,0.04,33845.26,Open,Kevin Harvey
+0ecf8107-3247-4b21-9ca8-2e56dba4689f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:28,2026-07-08 12:10:09.214389,Predictive,0.08,6416.38,Resolved,William Scott
+5eb28423-a5c2-44f7-b97d-480357f72590,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:10,2026-07-08 12:10:09.214389,Predictive,0.07,23169.31,Open,Paula Barnes
+7d7125b3-8c09-4384-b742-beeaa428d95d,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:35,2026-07-08 12:10:09.214389,Predictive,0.09,35511.82,In Progress,Dennis Ryan
+d2b6b829-fb54-4f22-8a93-d1ab222a9d10,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:55,2026-07-08 12:10:09.214389,Preventive,0.04,39892.58,In Progress,Amanda Yang
+6888e4c9-92d3-4c78-a6fc-555fedbe7546,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:37,2026-07-08 12:10:09.215389,Preventive,0.01,39306.44,Resolved,Erin Williams
+414f01a2-cbd2-4418-a691-42e64efdaf64,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:04,2026-07-08 12:10:09.215389,Preventive,0.0,36106.0,Resolved,Christina Maxwell
+48de9e72-2aa8-4e72-913d-7ae3ed57684a,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:27,2026-07-08 12:10:09.215389,Corrective,0.03,44247.55,Open,Shannon Martinez
+ce0f1a73-2787-408d-a750-83550e68c31a,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:25,2026-07-08 12:10:09.215389,Preventive,0.06,38183.31,Open,Melissa Stone
+ed74109e-fa48-4707-9aae-1a6dc040d74e,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:34,2026-07-08 12:10:09.216388,Corrective,0.03,8924.19,Resolved,Kayla Rogers
+6b7a1b9c-38f6-4c30-b158-4a0c52fc100d,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:05,2026-07-08 12:10:09.216388,Preventive,0.03,23926.87,Open,Christian Irwin
+d3bb3db5-93a9-47b2-9698-68fa067c542a,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:10,2026-07-08 12:10:09.216388,Corrective,0.02,20140.66,In Progress,Matthew Ford
+1f6dbeba-1ad8-459a-9d78-88c8660615a4,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:35,2026-07-08 12:10:09.217405,Preventive,0.09,48552.6,In Progress,Maria Hester
+ca89daf0-07f6-4cbc-95c5-c1cfefd9d65b,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:48,2026-07-08 12:10:09.217405,Predictive,0.01,5157.45,In Progress,Kathleen Castaneda
+060328e0-4f14-4cc0-a756-85e5c265668c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:13,2026-07-08 12:10:09.217405,Preventive,0.02,40419.88,Open,Garrett Myers
+149d116b-c05d-4ca4-b330-650113831d5e,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:38,2026-07-08 12:10:09.217405,Predictive,0.08,6203.91,Resolved,Danielle Ramirez
+cab55d7e-fb69-4950-9ae7-632c667eec73,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:10,2026-07-08 12:10:09.218408,Corrective,0.03,14216.32,Open,Frederick Conley
+2f853d8d-e6d7-4d28-babb-172676b9b4e1,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:44,2026-07-08 12:10:09.218408,Corrective,0.09,11119.59,Open,Jeremiah Pugh
+d23e8b97-2612-4fd8-8e92-5ddd6eaa72d5,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:26,2026-07-08 12:10:09.218408,Corrective,0.05,20874.74,Resolved,Richard Johnson
+1ea743e7-a424-43b2-9fa2-9f563a8313a9,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:40,2026-07-08 12:10:09.219407,Corrective,0.06,48336.1,Open,Natalie Wagner
+a93efbe0-ff28-4a03-81b0-32e5c89bd17e,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:16,2026-07-08 12:10:09.219407,Corrective,0.08,34724.49,In Progress,Mrs. Kara Jackson
+bd2d468d-28fe-4d83-a6ab-60967c1af31b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:51,2026-07-08 12:10:09.219407,Preventive,0.07,30435.75,Resolved,Kathleen Hall
+2386aba7-cd94-42ec-b202-bb3497a6e9b3,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:40,2026-07-08 12:10:09.219407,Predictive,0.01,38211.03,In Progress,Jennifer Wood
+1f682676-4030-4c16-a97c-5c575f34c838,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:40,2026-07-08 12:10:09.220406,Predictive,0.02,7016.34,Resolved,Danny Hicks
+ff806479-e7f4-41e3-a6cf-a27f77cd2607,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:49,2026-07-08 12:10:09.220406,Corrective,0.02,22994.32,Resolved,Jennifer Mccann
+7674c952-6b14-4ce7-b9d5-3408a258b3ef,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:42,2026-07-08 12:10:09.220406,Predictive,0.09,27314.12,Resolved,Lauren Clark
+674148c9-9a3d-43f8-b8f1-3caa8a1cf159,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:48,2026-07-08 12:10:09.220406,Preventive,0.09,33396.03,In Progress,Juan Carter
+070a6db4-b9c5-42c9-bc7e-4e14ed349fe1,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:56,2026-07-08 12:10:09.221406,Corrective,0.09,48889.18,Resolved,James Moore
+54d503cb-65b2-472d-85b9-d4d50090b737,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:01,2026-07-08 12:10:09.221406,Preventive,0.07,8339.24,Resolved,Karen Mullins
+7545baf1-0f26-49d6-93dc-dd2174c1ec8b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:23,2026-07-08 12:10:09.222382,Predictive,0.08,23084.09,In Progress,Matthew Farmer
+a89098d9-4630-4d8e-bdc5-0f6c6fd5e614,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:15,2026-07-08 12:10:09.222382,Preventive,0.08,10633.04,Open,Kristen Nelson
+9f4a737c-8d24-4238-9f6e-3ea8ed4ace38,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:33,2026-07-08 12:10:09.222382,Predictive,0.09,43802.42,Resolved,Joshua Coleman
+4211860c-0caa-4b03-ab60-4f4d8cc69674,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:53,2026-07-08 12:10:09.222382,Predictive,0.07,6613.77,Open,Amy Sanford
+215f2a33-419d-47ae-84d5-6f356ae55b52,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:32,2026-07-08 12:10:09.222382,Corrective,0.01,18690.09,Open,Thomas Ryan
+7b728069-22e2-45b5-9849-d895d37e3b1f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:21,2026-07-08 12:10:09.223405,Preventive,0.06,43885.21,Open,Stephanie Shea
+a18c00a6-2a35-40c9-bcb4-aff1c64c45c0,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:29,2026-07-08 12:10:09.223405,Corrective,0.01,12035.92,Resolved,Gregory Larson
+4719ca6e-f117-4171-adef-b0e895171f5b,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:01,2026-07-08 12:10:09.224404,Preventive,0.0,24241.66,Open,Rebecca Ray
+ac9f1b8f-16de-4c11-a5ab-8a07fc7361ac,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:33,2026-07-08 12:10:09.224404,Corrective,0.03,10024.78,In Progress,Teresa Bradshaw
+9ddbf7de-5687-4959-bf17-f7e3ee810b50,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:01,2026-07-08 12:10:09.224404,Predictive,0.05,35230.69,Resolved,Jerome Henderson
+6d517c50-7e54-4a9e-9094-9ac33db3ba8a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:11,2026-07-08 12:10:09.224404,Predictive,0.07,4574.93,In Progress,Rachel Rivera
+118eacdf-95be-465d-86b3-e4779db39c19,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:49,2026-07-08 12:10:09.225403,Predictive,0.07,8768.38,Resolved,Christopher Kelly
+7976ec3e-afc4-4121-8fcf-953c8e5455e8,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:47,2026-07-08 12:10:09.225403,Corrective,0.06,27515.65,In Progress,Lisa Hansen
+491c5940-c892-463c-9195-c32a308457b7,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:38,2026-07-08 12:10:09.225403,Predictive,0.01,38685.56,Open,Jonathan Chen
+c284abdf-b385-41c5-aeb1-30792109e976,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:21,2026-07-08 12:10:09.226403,Predictive,0.03,43676.47,In Progress,Matthew Herrera
+3c73d472-5494-4c9c-8ef7-1ae945e5eeae,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:27,2026-07-08 12:10:09.226403,Predictive,0.05,27561.45,Open,Karen Jackson
+1fedde88-6292-479b-9693-66c9a7ca9e00,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:55,2026-07-08 12:10:09.227402,Corrective,0.0,17757.03,Resolved,Kyle Ortega
+ea4196c3-f517-45bd-bb5b-bf6b5ba50eef,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:40,2026-07-08 12:10:09.227402,Predictive,0.09,49921.48,Resolved,John Parker
+cbc54647-7590-4f40-9207-88180a5d5647,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:15,2026-07-08 12:10:09.227402,Corrective,0.07,28785.35,Open,Shelby Thomas
+147dbb29-47b1-495b-b99b-29cc88b06939,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:22,2026-07-08 12:10:09.227402,Preventive,0.01,7728.5,In Progress,Edward Hayes III
+a91359f6-284b-4ed6-9014-3e113669df5e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:22,2026-07-08 12:10:09.228401,Preventive,0.05,14104.67,In Progress,Caroline Cohen
+4522398a-c7ac-44ba-91b6-e054a909abd4,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:20,2026-07-08 12:10:09.228401,Predictive,0.08,43186.17,In Progress,Christy Thompson
+3745ce6a-7abc-48a6-9b7a-528cc40a4619,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:02,2026-07-08 12:10:09.228401,Corrective,0.07,49911.95,Open,Adam Jones
+f794e838-2749-400c-ad92-56380dd7624b,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:07,2026-07-08 12:10:09.229401,Predictive,0.08,29837.07,Open,Danielle Rowland
+017f36b6-166a-452e-9c48-8c9f516b1baa,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:02,2026-07-08 12:10:09.229401,Corrective,0.07,25608.69,Open,Elizabeth Williamson
+ac4f653e-d234-4034-91c0-c5ec5a74c908,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:00,2026-07-08 12:10:09.229401,Predictive,0.05,46851.65,Open,Diana Briggs
+8fc1fc14-09bb-448d-af68-d6eee567b406,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:55,2026-07-08 12:10:09.230400,Preventive,0.09,47597.41,Resolved,John Wright
+8a8e03a1-8ab7-4ee7-b882-b073e0adc494,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:19,2026-07-08 12:10:09.230400,Corrective,0.05,19099.02,In Progress,Darlene Wallace
+36148b12-142c-4970-8ec0-b8dbd27e1e78,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:02,2026-07-08 12:10:09.230400,Corrective,0.05,31930.21,Resolved,Christina Hall
+7510b89d-727e-4da7-9f0a-5df2c7bf2c5d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:19,2026-07-08 12:10:09.230400,Preventive,0.05,29255.82,In Progress,Brian Thompson
+e7c09a25-13c0-4c69-bdb0-b7dd9563f2ed,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:58,2026-07-08 12:10:09.230400,Corrective,0.05,44057.01,In Progress,Jonathan Myers
+74077e7f-c043-42b7-9392-67a2c82941dd,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:23,2026-07-08 12:10:09.231400,Corrective,0.06,5232.74,In Progress,Francis Austin
+201398b1-d737-45d0-b71c-a8ced225eb7f,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:28,2026-07-08 12:10:09.231400,Corrective,0.03,22048.8,Open,Casey Lindsey
+fb0ca515-8565-4f6c-824f-8136a2a53160,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:09,2026-07-08 12:10:09.231400,Corrective,0.05,3067.03,Resolved,Michael Hale
+3faff79a-9aa7-4715-8013-7a7cee4d058e,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:17,2026-07-08 12:10:09.231400,Preventive,0.08,9369.15,Open,Melissa Mitchell
+1c0c6d15-e31d-4e91-9eff-733c065b7069,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:51,2026-07-08 12:10:09.232400,Preventive,0.06,38043.32,Resolved,Rebecca Gilmore
+925265fc-1821-41c9-a4fa-deb0e03deea3,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:48,2026-07-08 12:10:09.232400,Corrective,0.02,37464.9,Open,Melissa Smith
+b57367c8-5697-49d7-9912-4653eb8bd056,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:23,2026-07-08 12:10:09.232400,Preventive,0.03,37414.58,Resolved,Gabriela Wilson DVM
+4e395376-16c7-47a5-8e8f-03bb6d435ceb,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:46,2026-07-08 12:10:09.233399,Preventive,0.04,35956.29,Resolved,Monique Fischer
+a98fb6ee-65d6-44a9-b309-8cada76bc064,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:45,2026-07-08 12:10:09.233399,Preventive,0.01,36137.72,Open,Marissa Miller
+27a7cf9e-e7ff-45bc-947e-22a7442d481c,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:09,2026-07-08 12:10:09.233399,Corrective,0.03,26054.59,Resolved,Makayla Hardy
+240b674c-94c1-4d80-94d9-3086c825e5ab,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:42,2026-07-08 12:10:09.233399,Preventive,0.04,13300.69,In Progress,Cheryl Anderson
+b0a6e7c6-dfbb-4be6-a6ba-25948e85fbe9,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:40,2026-07-08 12:10:09.233399,Predictive,0.04,18810.15,Open,Michael Andrews
+8170e7a9-6bb7-489d-85c1-8319ab8116a2,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:28,2026-07-08 12:10:09.234398,Predictive,0.03,38603.06,Resolved,Morgan Melendez
+a2942e4b-4fb7-4446-85b9-d04dbef2bc46,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:39,2026-07-08 12:10:09.234398,Predictive,0.03,38227.27,In Progress,Patrick Bailey
+c1434fc0-f2a2-46fb-88ae-c3634a294628,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:22,2026-07-08 12:10:09.234398,Corrective,0.06,43262.68,Open,Mark Monroe
+69b943cb-d230-4d78-adf2-6eb18b51c4d4,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:55,2026-07-08 12:10:09.234398,Predictive,0.07,17742.91,Resolved,Derek Dennis
+9e78810b-c60c-4ffd-9a49-319f94e79707,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:46,2026-07-08 12:10:09.235397,Preventive,0.07,10106.21,In Progress,Kathleen Wallace
+eaed7c52-aa1f-4684-9416-4a2967baaccf,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:45,2026-07-08 12:10:09.235397,Preventive,0.07,6043.16,Open,Timothy Rocha
+ca8b5165-00ec-4a6d-beb1-84bd992e1efa,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:57,2026-07-08 12:10:09.235397,Preventive,0.09,44002.13,Resolved,Catherine Smith
+e1ae0073-6b96-40fa-b9ee-a818a5a52a23,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:45,2026-07-08 12:10:09.236397,Preventive,0.04,27244.76,Resolved,Brittany Lewis
+72a27892-8818-4cb4-a3a3-dbcaf2f66ca2,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:31,2026-07-08 12:10:09.236397,Predictive,0.04,2132.16,Resolved,Sandra Miller
+6cf0cdaf-f26a-410a-9b79-0dc0300c7755,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:52,2026-07-08 12:10:09.236397,Predictive,0.0,42544.87,Resolved,Alexandria Thomas
+2d02744b-0d41-4df9-bed6-40a84e50228c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:18,2026-07-08 12:10:09.237397,Preventive,0.1,24188.13,In Progress,Timothy Galvan
+a552ee67-00a9-4eb6-8c88-a8834313e06b,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:33,2026-07-08 12:10:09.237397,Preventive,0.04,25297.67,In Progress,Joy Mosley
+5d9aeda9-749d-42ca-9dff-f79483c7afc0,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:52,2026-07-08 12:10:09.237397,Predictive,0.09,24042.11,Open,Monica Newman
+5afbaf2b-2d4b-42bf-b47d-b6a0055c78b3,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:44,2026-07-08 12:10:09.238396,Predictive,0.01,1218.85,Resolved,Jacob Coleman
+1b94d6a9-1ac9-4e35-803f-ddfde6102d04,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:54,2026-07-08 12:10:09.238396,Corrective,0.09,18723.78,Open,Patrick Gutierrez
+c42e121e-9572-462c-979d-8b84180e68dd,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:48,2026-07-08 12:10:09.238396,Preventive,0.04,44685.87,Open,Robert Morris
+6c0c8766-0bbd-4183-a212-f0bd9dd90790,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:24,2026-07-08 12:10:09.238396,Preventive,0.05,3706.12,Resolved,Russell Wu
+c44b9f76-9a82-46bc-9b0b-c9a24f60850a,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:13,2026-07-08 12:10:09.239396,Predictive,0.03,27618.74,Resolved,Timothy Smith
+50ff5fe8-7151-4d8b-954b-97ecefd71d9b,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:32,2026-07-08 12:10:09.239396,Predictive,0.09,11399.17,Open,Billy Mills
+fafc51b9-5190-4afb-9966-b9cfea1f8c98,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:37,2026-07-08 12:10:09.239396,Predictive,0.04,11940.87,Open,Lisa Kim
+09a886e6-1ff0-44e5-9806-2a4f530d2d8e,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:55,2026-07-08 12:10:09.240395,Corrective,0.09,36563.05,In Progress,Raymond Woods
+c0363cc7-21ef-48d8-ae18-818c1a2c5c50,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:44,2026-07-08 12:10:09.240395,Predictive,0.02,23381.54,Open,John Jenkins
+e712a8b9-2d74-487d-a690-f28c73e869a4,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:45,2026-07-08 12:10:09.241394,Predictive,0.06,23528.34,In Progress,Emily Fitzgerald
+aa176976-dc97-4a3e-994c-aae31e602d82,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:39,2026-07-08 12:10:09.241394,Corrective,0.01,15449.45,Open,Taylor Leblanc
+ccd2f771-e3ca-4146-868a-c6e056bf22f4,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:20,2026-07-08 12:10:09.241394,Predictive,0.06,39675.06,Resolved,Richard Bennett
+3faa975f-574d-43ad-b4e3-bd434cdad1a6,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:28,2026-07-08 12:10:09.241394,Preventive,0.09,19455.51,In Progress,Joseph Dougherty
+b3762335-55ca-4396-ad74-198874f95c6e,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:01,2026-07-08 12:10:09.242394,Predictive,0.04,25412.68,In Progress,Mitchell Crawford
+f6b2312f-c17d-45b3-9358-bdbd27d6977a,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:08,2026-07-08 12:10:09.242394,Predictive,0.07,13522.42,In Progress,Ricky Fry
+eaf100c5-3e29-4306-8e24-d5d75d68f0ea,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:38,2026-07-08 12:10:09.242394,Predictive,0.06,8346.87,Resolved,Heidi Thompson
+ab44832e-2e9b-42cd-bcca-4d411c1a3a0c,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:12,2026-07-08 12:10:09.242394,Preventive,0.05,12515.29,In Progress,Douglas Buchanan
+434ee2d6-2309-438e-a4db-c73e76c3cc11,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:19,2026-07-08 12:10:09.242394,Predictive,0.05,29566.61,Open,Christopher Moyer
+26e53fc2-b8f6-45a0-82d2-b916a210a915,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:02,2026-07-08 12:10:09.243393,Predictive,0.09,43056.31,Resolved,Danny Tucker
+32230aab-b067-484e-a2ef-1142e6d063cb,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:31,2026-07-08 12:10:09.243393,Corrective,0.01,11820.22,Open,Barbara Daniels
+2521b0d3-33e3-478c-bae9-6185faa893b5,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:50,2026-07-08 12:10:09.243393,Preventive,0.07,5439.0,In Progress,Oscar Hernandez
+5c35293b-d43d-4ca6-81c9-8a5156015a19,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:12,2026-07-08 12:10:09.244393,Preventive,0.03,4650.51,In Progress,Allison Weber
+f9218834-b6e7-4c34-b540-c87a4909a705,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:45,2026-07-08 12:10:09.244393,Corrective,0.07,48873.99,Resolved,Michael Bauer
+649de1c4-ebe0-46db-b90c-fe7bdc32d666,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:10,2026-07-08 12:10:09.244393,Predictive,0.03,48694.32,Open,Mark Howell
+0318326e-1958-4d50-bf3a-f6004daa73b6,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:08,2026-07-08 12:10:09.244393,Preventive,0.08,9193.85,Resolved,Michelle Walker PhD
+16d4b238-e2d0-4271-8e01-4accdb3b2c46,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:16,2026-07-08 12:10:09.245393,Corrective,0.01,23144.36,In Progress,Julie Duran
+edb150db-7e85-4ac2-be4a-08a6971789ef,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:03,2026-07-08 12:10:09.245393,Corrective,0.09,33640.52,In Progress,Colleen Flores
+dedb3ca6-1804-47ba-afde-bc411a040313,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:38,2026-07-08 12:10:09.245393,Predictive,0.03,44904.52,Open,Mr. Joseph Hernandez
+3555e24b-475d-4ba6-b48d-330ab5d215d7,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:59,2026-07-08 12:10:09.246392,Preventive,0.04,26190.25,Open,Kevin Johnson
+04dab9f9-d3fc-4f3b-87cc-a7ede3e4e535,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:44,2026-07-08 12:10:09.246392,Predictive,0.09,33224.18,Resolved,Patricia Myers
+22b611f7-a3af-4819-8d3f-5f49ee23d87d,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:23,2026-07-08 12:10:09.246392,Preventive,0.01,46149.39,Open,Joanna Parker
+b26934a1-b2eb-48d1-bfa5-ea14949d3b86,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:54,2026-07-08 12:10:09.247391,Preventive,0.0,49168.05,In Progress,Bryan Smith
+80dee67b-96dd-4281-a8cb-dbb8124e4527,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:08,2026-07-08 12:10:09.247391,Predictive,0.03,38584.88,In Progress,Kelsey Harding
+aa01f40a-9830-45f1-94f1-eac21a519f11,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:58,2026-07-08 12:10:09.247391,Corrective,0.04,33685.12,Resolved,Mrs. Deborah Rich PhD
+9e055582-771f-4ad0-bb89-44327dff7f9e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:28,2026-07-08 12:10:09.247391,Preventive,0.04,3350.25,In Progress,George Schneider
+50561dc8-9af6-4994-9e37-b175edf47631,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:05,2026-07-08 12:10:09.248391,Preventive,0.05,5453.87,Open,Cynthia Brown
+173f372f-2f77-4986-8452-cd08a35a42bc,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:56,2026-07-08 12:10:09.248391,Predictive,0.05,10583.04,Resolved,Crystal Hicks
+4bfb2b7f-287e-463d-b506-16be32250388,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:21,2026-07-08 12:10:09.249369,Predictive,0.1,8577.4,Open,Robert Wilson
+17839cca-1641-4273-bed8-e8c1640729ea,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:47,2026-07-08 12:10:09.250368,Predictive,0.06,25544.37,Open,Mr. Omar Gray
+adc619e4-1082-40f2-8220-c4cd631a95b8,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:35,2026-07-08 12:10:09.250368,Corrective,0.08,21369.79,Open,Jennifer Adkins
+31031568-3e9e-4ae4-9f7b-d8348222b52e,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:09,2026-07-08 12:10:09.251389,Corrective,0.07,38219.17,In Progress,John Werner
+6a0343f1-0a42-4849-9579-3883d7c95fb2,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:50,2026-07-08 12:10:09.251389,Corrective,0.07,49506.61,Resolved,Denise Jones
+f5218c04-8332-4fa2-a104-2c00c5658200,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:09,2026-07-08 12:10:09.252388,Predictive,0.08,39838.86,In Progress,Lynn Lin
+dfce4777-6783-4cca-a41b-e3c7188f943a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:33,2026-07-08 12:10:09.252388,Corrective,0.03,8262.46,In Progress,Katrina Chan
+84f16c3b-8a89-4226-9cbf-8a624989c0de,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:12,2026-07-08 12:10:09.252388,Corrective,0.05,8534.26,In Progress,Michelle Osborne
+707d69ea-1dbf-4836-9b86-7e116cc1ece9,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:40,2026-07-08 12:10:09.252388,Corrective,0.04,20739.17,Open,Matthew Simpson
+c563bd10-ce5c-4e56-832d-de2b3a7e2dba,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:12,2026-07-08 12:10:09.253387,Predictive,0.05,28808.79,Open,Gregory Jones
+4ddb1d4c-d9da-4823-a91d-ddb8f17fe882,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:38,2026-07-08 12:10:09.253387,Preventive,0.03,42088.58,In Progress,Nathaniel Anthony
+d866e919-5ee0-4bde-86c2-a3478690e4d7,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:26,2026-07-08 12:10:09.253387,Predictive,0.03,25039.18,Resolved,Amy Richardson
+f17558cf-da56-4ea1-ae42-60af9cea2558,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:58,2026-07-08 12:10:09.253387,Corrective,0.09,20032.28,Open,Travis Goodman
+778f323e-f807-4495-a426-aadba963253f,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:03,2026-07-08 12:10:09.254387,Corrective,0.05,6338.84,Open,John Ward
+9b463b3d-0c5b-404a-8b9b-03e3c07eff01,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:02,2026-07-08 12:10:09.254387,Corrective,0.07,10652.59,In Progress,John Novak
+28ccdadc-3381-4bbe-9f88-c865339de3e4,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:03,2026-07-08 12:10:09.254387,Predictive,0.09,33971.07,In Progress,Melissa Gibson
+7713ae57-cbcc-48f0-a442-d644f1ea6d9e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:56,2026-07-08 12:10:09.254387,Predictive,0.0,13760.84,In Progress,Maria Smith
+5ebd1949-38ef-4ad3-959d-48a797d2a7f5,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:10,2026-07-08 12:10:09.255386,Preventive,0.07,5228.79,In Progress,Margaret Sullivan
+7a3f2d85-5eaa-422d-8e1f-75e67b33b80a,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:31,2026-07-08 12:10:09.255386,Preventive,0.08,49986.22,Resolved,Morgan Welch
+f7947aa1-0e0b-40bf-be41-0dae1390dc9c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:53,2026-07-08 12:10:09.255386,Predictive,0.09,16068.59,Open,Christian Alexander
+406ffada-c013-4d85-a490-4d882b461155,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:58,2026-07-08 12:10:09.255386,Predictive,0.07,2173.74,Resolved,Megan Mccarthy
+71484284-9f01-4bfd-b7e0-4aed8e65982b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:00,2026-07-08 12:10:09.256386,Predictive,0.02,16898.92,Open,James Beard
+84107a3c-2dea-46ff-b3d0-6b9a700336bf,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:31,2026-07-08 12:10:09.256386,Preventive,0.01,3470.22,In Progress,Robert Crawford
+c0e0a2c3-6096-413d-9990-f95d2cd18f3c,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:16,2026-07-08 12:10:09.256386,Preventive,0.06,29717.5,In Progress,Bruce Sherman
+4a1698b7-4335-46fd-ad0a-a4f3033bae97,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:59,2026-07-08 12:10:09.256386,Predictive,0.07,44152.29,Open,Randy Woods
+7d38a753-14e9-4506-9706-04198d5b8b2a,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:08,2026-07-08 12:10:09.257385,Preventive,0.08,24258.18,In Progress,Nancy Hernandez
+aa68fa26-8754-40e8-b004-3366f76940a5,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:30,2026-07-08 12:10:09.257385,Predictive,0.03,18729.87,Open,Ronald Lang
+fa5f2370-fcfb-4506-84d0-eda74ca44ca8,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:48,2026-07-08 12:10:09.257385,Predictive,0.07,31677.87,In Progress,Melissa Kaufman
+3c5ffe70-20aa-4e4d-9ed1-6830acfe0bbd,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:31,2026-07-08 12:10:09.258384,Preventive,0.08,48502.97,Resolved,Jimmy Peterson
+5b554620-2a27-4d3a-9663-b9ca7fd7bf8e,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:24,2026-07-08 12:10:09.258384,Preventive,0.03,46264.39,In Progress,Matthew Mendez
+1c5904d8-81fd-4822-912e-870e4d4dff1c,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:03,2026-07-08 12:10:09.258384,Predictive,0.02,29843.08,Resolved,Cathy Roberts
+84d7629b-979c-44b8-a0ae-3682ff171b9c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:16,2026-07-08 12:10:09.258384,Corrective,0.1,31052.13,In Progress,Cynthia Watkins
+43770a69-1899-4fc7-83eb-4262fcd2abf4,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:41,2026-07-08 12:10:09.259384,Preventive,0.02,46842.28,Resolved,Carrie Wolf
+aa0424b2-a5fb-464b-9cff-34a079a8da93,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:01,2026-07-08 12:10:09.259384,Preventive,0.04,14898.09,In Progress,Brittany Smith
+80830af9-bd66-4d86-8ea2-c9ae3437bfba,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:42,2026-07-08 12:10:09.259384,Predictive,0.01,27323.86,Open,Harold Anderson
+2404fe19-8fec-4fa0-aa4e-c485b59ed5a4,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:24,2026-07-08 12:10:09.259384,Predictive,0.08,7994.69,Resolved,Ashley Lee
+c4ef87d4-df89-4648-8ebd-d6a4e9345eb9,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:15,2026-07-08 12:10:09.260383,Preventive,0.05,47465.9,Resolved,Tony Chavez
+eb355130-9a9d-4737-887e-1cc4ed50fd0f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:08,2026-07-08 12:10:09.260383,Preventive,0.05,14943.3,Resolved,Cameron Costa
+5147cb8f-b7f6-4613-962b-67da46c98837,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:40,2026-07-08 12:10:09.260383,Predictive,0.07,46985.17,Open,Shannon Hunter
+91372fe6-0738-4863-b1cc-a26ac3f97e5e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:50,2026-07-08 12:10:09.261383,Preventive,0.07,42323.59,In Progress,Maria Gross
+58791035-53e2-4eaa-9c6d-b356606c13b6,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:30,2026-07-08 12:10:09.261383,Corrective,0.06,46469.65,Open,Lynn Gonzalez
+53232e30-ca03-4850-a6a1-8255e95e3054,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:10:02,2026-07-08 12:10:09.262382,Preventive,0.0,47404.42,Open,Mrs. Lori Hawkins
+8c0d8413-7a8d-4ae9-9329-40df3c476e07,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:24,2026-07-08 12:10:09.262382,Corrective,0.08,14530.76,Open,Michele Harmon
+62752362-d950-4277-a125-d4740e01c849,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:47,2026-07-08 12:10:09.262382,Preventive,0.04,39877.66,In Progress,Thomas Winters
+fe2a5187-2627-4be8-85a9-9f7d3d5ce6d6,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:43,2026-07-08 12:10:09.263381,Preventive,0.02,28915.23,Resolved,Amanda White
+b37e7367-d6cc-4838-a37a-dd988a0ce27b,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:56,2026-07-08 12:10:09.263381,Corrective,0.02,28586.97,Resolved,Karina Frazier
+cfcdbdf6-f33f-4f6f-9023-d469c7a016fe,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:50,2026-07-08 12:10:09.263381,Preventive,0.02,49124.31,Resolved,Valerie Farmer
+df47dd98-6b03-4676-a7c5-ade451e7586c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:07,2026-07-08 12:10:09.263381,Corrective,0.05,38827.92,In Progress,William Thornton
+dd01b721-3928-4c53-986c-5850bccd4c85,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:42,2026-07-08 12:10:09.264381,Predictive,0.07,45535.68,Resolved,Sara Villa
+924bb570-ffd4-4d00-baa3-ecc7808758ea,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:20,2026-07-08 12:10:09.264381,Predictive,0.01,18055.83,In Progress,Todd Garrett
+cae10e23-01ff-4c0f-8014-c7e0c2e8ac7c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:15,2026-07-08 12:10:09.264381,Corrective,0.02,40479.78,Resolved,Amanda Mccormick
+5ce0e693-c117-4e79-b29a-aac094a5734a,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:10:03,2026-07-08 12:10:09.264381,Corrective,0.0,7832.63,In Progress,Mark Glenn
+98750fc2-f3e7-436d-96a5-794613761823,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:18,2026-07-08 12:10:09.265381,Preventive,0.06,30305.13,Resolved,Judy Shannon
+1d106c76-82a0-4716-a52b-fe913d9d341f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:38,2026-07-08 12:10:09.265381,Preventive,0.04,31319.14,Resolved,Mr. Jacob Fisher
+36a0aaa0-78d5-4195-84dc-177c6e9ab4a8,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:06,2026-07-08 12:10:09.265381,Corrective,0.0,16098.14,Open,Amy Nash
+8b31b650-c809-4356-a79e-1da2d8a4dcdc,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:14,2026-07-08 12:10:09.266380,Predictive,0.1,37238.55,Open,John Tapia
+9e627f59-7c00-4d4f-adf9-570843519a39,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:22,2026-07-08 12:10:09.266380,Predictive,0.08,21229.08,In Progress,Mary Wilson
+a2d14d0b-e6c0-4cbc-9666-35d8eccb4038,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:04,2026-07-08 12:10:09.266380,Corrective,0.03,30587.47,In Progress,Lisa Valencia
+84827470-5a92-42ea-be65-b4686b5a30d2,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:53,2026-07-08 12:10:09.266380,Preventive,0.02,45029.41,Open,Tracy Stewart
+d95b64d5-b29d-41a8-9b3e-e2cfd6e7329f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:54,2026-07-08 12:10:09.267379,Predictive,0.09,5985.72,Open,Marc Humphrey
+6013b74a-2daf-48af-95a9-011d5d593cbf,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:28,2026-07-08 12:10:09.267379,Corrective,0.04,3104.39,In Progress,Christina Smith
+1a7da11e-0e96-48f2-afc9-32d06cd5f484,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:00,2026-07-08 12:10:09.267379,Predictive,0.07,7993.72,Resolved,Sandra Morris
+711cf178-38e8-4ecc-bfe8-c62e5ecf2932,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:55,2026-07-08 12:10:09.268379,Preventive,0.07,20010.66,Open,Matthew Woods
+facc687e-3adc-4b04-a249-9f8411f70651,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:47,2026-07-08 12:10:09.268379,Corrective,0.02,17585.22,Open,Denise Brown
+48eb132e-3a20-45ea-ad27-37ee4d783e26,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:27,2026-07-08 12:10:09.269378,Preventive,0.05,4142.91,Resolved,Mr. Kevin Parker
+15d90f80-d8e2-424c-8d14-10c38804a22f,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:52,2026-07-08 12:10:09.270378,Predictive,0.07,19676.76,In Progress,Beth Miller
+ab1b3480-0c6a-4630-886f-a7316e37aafc,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:01,2026-07-08 12:10:09.270378,Preventive,0.09,30331.18,Resolved,Wayne Lopez
+60470f8f-327d-4e2c-b6bd-bb5a9c512613,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:06,2026-07-08 12:10:09.270378,Predictive,0.02,47120.16,Resolved,Trevor Hawkins
+703a8797-0363-4438-b882-bce93eb6c8d2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:52,2026-07-08 12:10:09.270378,Corrective,0.04,15298.8,Resolved,Jill Murphy
+162c5c97-15da-465a-a7a4-f05b561b9873,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:49,2026-07-08 12:10:09.271377,Preventive,0.07,1735.65,Open,Heather Jacobs
+26bdf992-1c85-4126-8dce-ba313c8886d0,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:40,2026-07-08 12:10:09.271377,Predictive,0.06,15111.33,Open,Richard Davis
+8a199f89-782b-410a-9523-c3f532231634,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:45,2026-07-08 12:10:09.272354,Corrective,0.09,23521.03,Resolved,Douglas Burns
+a28a6afa-5d60-4ede-9f23-ae3146f1729d,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:41,2026-07-08 12:10:09.272354,Predictive,0.09,31384.15,Resolved,Jason Harris
+9ac16408-f0bc-4e83-a9c0-2630078de5d3,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:18,2026-07-08 12:10:09.273376,Preventive,0.08,39027.28,In Progress,Samantha Padilla
+fe3c0883-3863-4883-bacc-2f4ca0cd194f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:22,2026-07-08 12:10:09.273376,Corrective,0.06,13013.74,Resolved,Maria Wright
+0754b8c4-6e75-448b-960f-7532e7da7f18,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:55,2026-07-08 12:10:09.273376,Corrective,0.09,41504.9,In Progress,Karen Robbins
+83e920e0-ea86-458f-9ed9-c99c7ece3b12,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:05,2026-07-08 12:10:09.273376,Predictive,0.05,20995.38,In Progress,Beth Gonzalez
+49ac5593-b009-4739-b82d-5d93b5569c45,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:46,2026-07-08 12:10:09.274375,Preventive,0.07,34450.55,Resolved,Thomas Green
+4844d387-91fa-4651-94e7-8bbb02d0cbe5,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:48,2026-07-08 12:10:09.274375,Corrective,0.06,27221.85,Resolved,David Martinez
+a640f263-eb50-431f-b012-c910847a68c4,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:10,2026-07-08 12:10:09.274375,Predictive,0.07,44205.84,Open,Patrick Lopez
+23e85259-f2f0-4197-b2b4-0343e0cfe694,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:53,2026-07-08 12:10:09.274375,Preventive,0.07,23385.69,Open,Rachel Hernandez
+a82ddf9c-65bc-4685-be27-eb0a90f9615b,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:48,2026-07-08 12:10:09.274375,Corrective,0.04,18773.4,Open,Susan Perry
+9b6da72b-d520-49e8-a764-433acfd4f038,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:24,2026-07-08 12:10:09.275374,Preventive,0.1,4333.6,Open,Susan Gillespie
+e431747e-ef7b-49fe-a1dc-e921a776b43c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:50,2026-07-08 12:10:09.275374,Corrective,0.07,24094.34,In Progress,Rebecca White
+74f25ea7-4ae7-4bbb-bd2d-9adfa306309d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:54,2026-07-08 12:10:09.275374,Corrective,0.05,7294.31,Resolved,Edward Poole
+0b1e4643-10d2-466d-b8ba-c76abb7fd09e,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:08,2026-07-08 12:10:09.275374,Corrective,0.0,27716.76,Open,Sherry Horn
+90d412ed-f0c4-4cf2-8335-ca6af31810f8,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:16,2026-07-08 12:10:09.276374,Predictive,0.05,13491.99,Resolved,Francisco Wong
+beef77fc-7d85-4c8d-ac63-1fb58e78f82e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:15,2026-07-08 12:10:09.276374,Preventive,0.05,26223.33,Open,Lori Riley
+0dd9a5b9-04aa-4d0f-ae30-4440f08e2061,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:19,2026-07-08 12:10:09.276374,Corrective,0.03,28067.51,Open,Susan David
+1d2efc5f-b6e2-4b85-9691-59d8680afed3,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:54,2026-07-08 12:10:09.276374,Predictive,0.09,24320.57,Open,Alejandro Duncan
+bf7162a2-b79a-4031-bf85-4ef81c261d2c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:31,2026-07-08 12:10:09.277374,Preventive,0.06,27655.24,In Progress,Randall Watkins
+fb3573e2-9c1e-4518-8fb7-4bbbec07a79d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:06,2026-07-08 12:10:09.277374,Corrective,0.03,38342.32,Open,Robert Webb
+7d3657c0-5fd9-4ee3-acea-dcd922339808,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:55,2026-07-08 12:10:09.277374,Corrective,0.02,6391.82,Resolved,Brooke Cardenas
+27937f8d-0606-456a-b7a8-3de3274719de,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:04,2026-07-08 12:10:09.277374,Corrective,0.05,23810.09,Open,Carol Lyons
+86f7a624-e361-457b-baee-f059bea853b3,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:09,2026-07-08 12:10:09.278373,Corrective,0.07,10908.49,In Progress,Michelle Baldwin
+37b68751-112f-4983-a671-e21022dc615f,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:27,2026-07-08 12:10:09.278373,Predictive,0.05,40197.36,Open,Mark Adams
+d8570c27-6bcc-47bf-bad5-ae3f6649f966,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:32,2026-07-08 12:10:09.278373,Predictive,0.09,24069.12,In Progress,Sherry Rogers
+55e77537-ab92-416a-96ef-ef907bc17378,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:38,2026-07-08 12:10:09.279373,Predictive,0.09,41322.04,Resolved,Samuel Arnold
+de169dcc-08d5-4175-b9e4-66f8511189d7,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:49,2026-07-08 12:10:09.279373,Corrective,0.06,39142.65,In Progress,David Smith
+ffb1f00b-c8d0-4eee-a9e4-a2cbf3eb674c,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:48,2026-07-08 12:10:09.279373,Preventive,0.02,1969.53,Open,Robert Perez
+1ca622c0-3ad6-4db8-8a78-4ca431ca0c10,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:18,2026-07-08 12:10:09.279373,Corrective,0.08,16746.17,Resolved,Joshua Ellis
+181fd256-118c-4cd6-9387-fbe30087a8af,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:37,2026-07-08 12:10:09.280372,Predictive,0.01,17088.17,Resolved,Stephanie Doyle
+fda35057-c583-45a0-bdd3-9892a7705364,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:47,2026-07-08 12:10:09.280372,Predictive,0.09,16076.67,Open,Justin Miller
+8e992573-3847-4589-8bf2-c7a80225f7fe,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:21,2026-07-08 12:10:09.280372,Corrective,0.08,27096.29,Resolved,Thomas Morris
+de5bcfe3-92bc-4a2c-9284-4446363832dd,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:21,2026-07-08 12:10:09.280372,Predictive,0.03,4487.97,In Progress,Stephen White
+28cacc78-807f-4173-81eb-08d029506ce7,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:39,2026-07-08 12:10:09.281371,Corrective,0.03,23935.04,Resolved,Mary Herrera
+0f3d0560-092a-4a75-894c-d61101fe92d6,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:56,2026-07-08 12:10:09.281371,Predictive,0.07,37525.72,Resolved,Herbert Campbell
+b5fb8c96-6307-4425-bb09-17cc41e8cd65,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:07,2026-07-08 12:10:09.281371,Predictive,0.03,16887.95,In Progress,Keith Hickman
+0488d0e8-0544-4e9e-b958-ad35feeb5bae,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:22,2026-07-08 12:10:09.281371,Predictive,0.08,47170.69,Open,Paula Pratt
+014459ad-2b3a-4c4a-9ecc-f49be6235b70,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:22,2026-07-08 12:10:09.282371,Preventive,0.01,1833.18,Resolved,Shannon Alvarez MD
+9709ea7f-2aa2-478f-9ee7-479729ae8106,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:38,2026-07-08 12:10:09.282371,Predictive,0.04,2820.08,In Progress,James Christensen
+1fdb24eb-6723-4340-94b5-c9646697c014,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:10:08,2026-07-08 12:10:09.282371,Corrective,0.0,15714.32,Resolved,Steven Underwood
+29471d3a-1ae2-43ae-8d4a-5c4a44ec0d4a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:16,2026-07-08 12:10:09.283370,Preventive,0.08,1444.08,In Progress,Kyle Sellers
+3b39219c-ab33-4b02-9bff-eb5de4466cf2,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:42,2026-07-08 12:10:09.283370,Corrective,0.06,30312.87,Open,Lauren Hunt
+805da643-72cc-4738-8d0f-1f5a00ec8aac,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:03,2026-07-08 12:10:09.283370,Predictive,0.05,31696.64,In Progress,Lisa Woodard
+6b723c1a-0f4d-4150-afc2-f37c55c9cedc,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:50,2026-07-08 12:10:09.284369,Predictive,0.01,17437.93,Resolved,Aaron Larson
+4c41c1da-da1d-4580-9bf6-091a7ddef3cc,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:00,2026-07-08 12:10:09.284369,Predictive,0.09,45217.74,Open,Emily Bennett
+c7404d73-06aa-4d51-9068-bbc9bea3650b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:50,2026-07-08 12:10:09.284369,Corrective,0.09,18698.53,In Progress,Mark Small
+e8de29c4-4cf8-462e-af84-5c0addb25eda,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:44,2026-07-08 12:10:09.284369,Predictive,0.09,46403.55,Resolved,Stefanie Robinson
+0cb8e293-bf5c-4a66-94ec-0aab07946fc4,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:14,2026-07-08 12:10:09.285369,Preventive,0.02,2203.83,Resolved,Taylor Ritter
+c9cea40b-808c-4973-a384-7a53251358a8,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:00,2026-07-08 12:10:09.285369,Corrective,0.09,13718.4,Resolved,Daniel Clark
+ac382a5d-6949-45b3-9c9f-a7ec8691baef,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:53,2026-07-08 12:10:09.285369,Preventive,0.05,25418.29,Open,Amanda Drake
+adcfb8a0-114f-4607-8f2e-88a327390564,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:07,2026-07-08 12:10:09.285369,Preventive,0.08,40615.96,Resolved,Emily Bryan
+c238d5fc-3a9e-49e3-8bf9-ce8b0f66c88c,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:34,2026-07-08 12:10:09.286369,Predictive,0.01,31403.69,In Progress,Joseph Webb
+49995d37-c456-444c-a4d5-099221daccfd,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:42,2026-07-08 12:10:09.286369,Preventive,0.02,45303.94,Resolved,Adrian Olson
+68eb070e-a641-45e3-b8ca-6bc3cb1d4650,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:07,2026-07-08 12:10:09.286369,Predictive,0.05,15846.47,Open,Cassandra Garcia
+59c4d2e1-4672-4d32-a6a8-5aa0da51aebd,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:37,2026-07-08 12:10:09.286369,Corrective,0.01,17293.28,Open,Dr. Kristen Mitchell
+ed0a1eb1-4697-4dd3-93cb-6d9171efdcf7,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:36,2026-07-08 12:10:09.287368,Preventive,0.04,43678.86,Open,Brandi Robinson
+38eaf3f0-e044-48dc-88f0-1d9cb8164769,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:19,2026-07-08 12:10:09.287368,Predictive,0.05,40911.08,Resolved,James Buck
+ab8d729d-5dd0-4cb9-b8c2-40a3893ca200,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:16,2026-07-08 12:10:09.287368,Preventive,0.05,29608.71,Open,Donald Barnes
+e71fcc6d-219a-4faa-9079-35a89b4f41f8,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:37,2026-07-08 12:10:09.287368,Corrective,0.08,28827.98,Open,David Parrish
+5e0ea814-b2cb-4d3d-86bc-3fc5245ce6c9,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:26,2026-07-08 12:10:09.288368,Corrective,0.01,10322.73,Resolved,David King
+4ea7179f-b630-4ecd-a9c4-d7df11c4636d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:10,2026-07-08 12:10:09.288368,Predictive,0.03,32168.85,In Progress,Stacey Schroeder
+15c3dce6-98f9-4cdd-8a5f-c6b6ac8a0d16,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:05,2026-07-08 12:10:09.288368,Preventive,0.0,11171.21,In Progress,Carol Allen
+0beff0f6-5bc0-4519-b236-3624857d98a1,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:04,2026-07-08 12:10:09.288368,Preventive,0.0,46404.34,In Progress,Tyler Gonzalez
+96debfb8-335a-4b1f-a873-725f808f0837,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:06,2026-07-08 12:10:09.289367,Predictive,0.02,32715.73,In Progress,Evan Miller
+2487ce2d-5a54-4007-92a6-63f4cca08498,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:38,2026-07-08 12:10:09.289367,Predictive,0.06,31551.04,Open,Joshua Duncan
+cf3ebdc6-b7f7-4988-b28f-88857dce0eb0,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:36,2026-07-08 12:10:09.289367,Predictive,0.06,39822.96,Resolved,Tiffany Ortiz
+99e86c2e-f8bd-41c6-b5c9-2381dc505300,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:31,2026-07-08 12:10:09.289367,Predictive,0.09,32527.56,Open,Brandon Cisneros
+8532398e-b4af-45ec-8060-6447a82529b8,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:32,2026-07-08 12:10:09.290366,Preventive,0.04,35344.11,Open,David Thomas
+ad6057b4-4ad3-452f-ac29-3ef1ef652941,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:17,2026-07-08 12:10:09.290366,Predictive,0.1,3222.86,Open,Michael Morrow
+561f911e-a3ce-4227-b436-5e9132c0e052,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:37,2026-07-08 12:10:09.290366,Preventive,0.06,42350.93,Resolved,Pamela Ferguson
+c0add7cf-4e90-4c63-ac5f-c72f0a72af92,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:49,2026-07-08 12:10:09.290366,Corrective,0.07,22127.78,In Progress,Brandon Flores
+9cfa4cf9-fbc3-4cfd-b671-fac2900a85d1,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:35,2026-07-08 12:10:09.291366,Corrective,0.04,33510.17,Open,Joshua Herman
+5d9d788b-4086-4d8b-a4a0-4464eca3ab3c,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:06:24,2026-07-08 12:10:09.291366,Preventive,0.06,23098.25,In Progress,Jorge Wilkinson
+f49b9f44-ebe8-45b3-8a4f-5c48ab81b449,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:55,2026-07-08 12:10:09.291366,Preventive,0.07,36052.12,In Progress,Tony Burnett
+f944309c-182a-4748-9397-bc87689d976a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:52,2026-07-08 12:10:09.291366,Corrective,0.07,14220.07,Resolved,Cathy Cobb
+612ec0b1-e512-466e-a9ca-c18a5d2f226a,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:35,2026-07-08 12:10:09.292365,Corrective,0.08,2225.59,In Progress,John Williams
+4432bb5c-1845-4d5f-8714-64eef3e6ae2f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:14,2026-07-08 12:10:09.292365,Predictive,0.08,6261.62,In Progress,Thomas Munoz
+988bcb66-d27b-4f69-88c1-8e968fef67e4,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:49,2026-07-08 12:10:09.292365,Corrective,0.02,30051.18,Resolved,Michael Charles
+868e030e-be65-4555-95d6-8dfa22b165f3,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:41,2026-07-08 12:10:09.292365,Predictive,0.04,19332.51,In Progress,Timothy Gonzalez
+1331a585-4dde-4680-9eee-359dcb862679,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:10,2026-07-08 12:10:09.293364,Preventive,0.08,45966.12,Resolved,Robert Cole
+dd96566c-705c-447e-9531-7f24f61a97ac,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:26,2026-07-08 12:10:09.293364,Corrective,0.08,25502.58,In Progress,Jacob Taylor
+3d561f61-272e-478f-aef0-e4a95d2406cd,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:26,2026-07-08 12:10:09.293364,Predictive,0.08,20980.02,Open,David Hogan
+bed6662e-33e1-40c8-a08a-640ee1c2286b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:26,2026-07-08 12:10:09.293364,Corrective,0.1,13497.8,Open,Theresa Wilson
+d706e00b-745e-492d-93ab-691d409445dd,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:10,2026-07-08 12:10:09.294364,Corrective,0.08,26116.18,In Progress,Philip Adams
+26d35ae2-f759-404b-a406-3945c3c9e90b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:27,2026-07-08 12:10:09.294364,Predictive,0.03,40348.4,Resolved,Ashley Schwartz
+3c55ad24-536b-4d71-8d32-25785d870ca7,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:03,2026-07-08 12:10:09.294364,Corrective,0.07,3857.07,In Progress,Victor Johnson
+c158d60f-c128-4adb-9c2a-c2678dfd74d3,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:15,2026-07-08 12:10:09.295363,Corrective,0.05,41484.9,In Progress,Matthew Weeks
+8744f701-f0ac-42a1-b2c9-e623980d276f,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:32,2026-07-08 12:10:09.295363,Preventive,0.03,27129.29,Open,Nicole Johnson
+983edcd9-db89-479c-811e-98de499e1d12,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:54,2026-07-08 12:10:09.295363,Corrective,0.05,8351.63,Resolved,Dr. Norman Alvarez
+ec989187-105f-4abf-8a1c-ad80c133a8c5,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:25,2026-07-08 12:10:09.295363,Predictive,0.03,32105.02,Resolved,Blake Thompson
+6a9c25f6-f9f5-4859-8f08-64128b413e02,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:03,2026-07-08 12:10:09.296362,Corrective,0.04,34503.29,In Progress,Thomas Coleman
+aa797e0b-8d7d-4eb4-917e-617db87df22c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:40,2026-07-08 12:10:09.296362,Predictive,0.07,49191.97,Open,Sheila Dunn
+cd834138-6c1a-46ca-8c8b-8b295b7857ad,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:22,2026-07-08 12:10:09.296362,Predictive,0.05,1511.71,In Progress,Jason Mcgrath
+90b60f4c-5976-4992-8686-9bdee2121629,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:06,2026-07-08 12:10:09.296362,Corrective,0.07,40314.55,Resolved,Mrs. Amber Sullivan MD
+ef19953e-77af-4efd-abd5-23393736ecd6,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:17,2026-07-08 12:10:09.297362,Preventive,0.06,15869.8,In Progress,Lauren Wallace
+ecf6dd6e-cc07-46a2-a1a1-b17e3488b061,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:35,2026-07-08 12:10:09.297362,Predictive,0.03,42485.86,In Progress,Mark Petersen
+f7e6d468-1dc3-4773-9bd9-3cfe367884f8,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:48,2026-07-08 12:10:09.297362,Predictive,0.07,30328.93,In Progress,Jennifer Garner
+fde99339-62c6-4375-bfdf-474c4026a99f,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:52,2026-07-08 12:10:09.297362,Predictive,0.04,31081.89,Resolved,Cameron Haley
+0ae471b8-6010-4f1b-bc30-8da82855e9ae,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:13,2026-07-08 12:10:09.298362,Predictive,0.05,37507.79,Resolved,John Holland
+cc09c418-2e21-48e8-ac70-652bbf7ed248,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:13,2026-07-08 12:10:09.298362,Corrective,0.07,20729.97,In Progress,Heather Wilson
+71d3c9da-8b02-4c89-ae52-c491a8c00404,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:56,2026-07-08 12:10:09.298362,Preventive,0.05,42541.32,In Progress,Amber Welch
+09f3ff1c-a7e0-4769-b3cf-b7e9d16bea9e,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:18,2026-07-08 12:10:09.299361,Corrective,0.05,21396.37,Resolved,Timothy Richmond
+9f7627da-4a0c-4ce6-bf87-b3074a5b6d16,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:51,2026-07-08 12:10:09.299361,Preventive,0.02,7165.47,In Progress,Deborah Mitchell
+b7b6945a-345f-4d77-a453-39891f613c06,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:00,2026-07-08 12:10:09.299361,Preventive,0.07,39058.85,Open,Thomas Downs
+9a3093ad-664b-4b0f-8df3-fcc18a332fde,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:58,2026-07-08 12:10:09.299361,Preventive,0.09,25500.4,In Progress,Peter Alexander
+bde80788-cc55-43c3-9575-c17839e27409,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:55,2026-07-08 12:10:09.300360,Preventive,0.07,43289.4,Resolved,Kimberly Wiley
+1a3c8bd7-b820-4727-97b8-48013a4f950e,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:33,2026-07-08 12:10:09.300360,Preventive,0.04,38603.35,In Progress,Dawn Wilcox
+3e0f1750-ba8d-4466-8682-d244dd9170aa,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:03,2026-07-08 12:10:09.300360,Corrective,0.04,41287.43,Open,Chris Spencer
+06c20227-a783-414c-a525-ecc72d3c59e7,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:30,2026-07-08 12:10:09.300360,Preventive,0.03,13361.52,In Progress,Anthony Ball
+ca263607-4c33-43f9-b57e-90b50bb7dfca,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:05,2026-07-08 12:10:09.301359,Preventive,0.0,12022.8,Open,Jeanette Kirby
+a8b5289b-f7f3-407c-ab13-bd1e718e411c,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:29,2026-07-08 12:10:09.301359,Corrective,0.08,26657.63,In Progress,Adam Valdez
+7f0ca853-cb4a-4f04-b39a-a488d6f3b7bc,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:09,2026-07-08 12:10:09.301359,Predictive,0.08,37966.16,Resolved,Shelby Shields
+d2d80b72-a10a-4215-a3f9-f0d2cf8d86cc,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:44,2026-07-08 12:10:09.301359,Corrective,0.06,20554.02,Open,Kristin Brown
+99a798f4-edae-41bc-976d-2327f8b9fefc,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:11,2026-07-08 12:10:09.302359,Preventive,0.07,4954.53,Resolved,Clayton Garcia
+dace5798-a18e-43a3-86e9-141ee9936129,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:13,2026-07-08 12:10:09.302359,Preventive,0.08,21894.98,In Progress,Cameron Harris
+0af97488-3152-47fb-9659-a220c43cc84d,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:03,2026-07-08 12:10:09.302359,Corrective,0.02,24512.52,Resolved,Brian Little
+b57229d5-3622-4953-b175-ba8e2acf3407,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:58,2026-07-08 12:10:09.302359,Predictive,0.07,49452.82,Open,Rachael Schwartz
+fb94e9d8-6d18-417a-a223-a1b69ab21ae9,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:53,2026-07-08 12:10:09.303359,Predictive,0.02,42328.31,In Progress,Travis Murphy
+102122b9-2764-493a-ae1b-f3901cec610f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:02,2026-07-08 12:10:09.303359,Predictive,0.02,27646.9,Open,Luke Villarreal
+180ed9f2-25f1-4f1f-8307-fe50a95aaa8e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:31,2026-07-08 12:10:09.304358,Preventive,0.01,29526.62,Resolved,Gregory Kelly PhD
+842d5798-6fc8-46b8-af3d-bf95d2f48a22,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:34,2026-07-08 12:10:09.304358,Corrective,0.08,6243.29,Open,Kayla Allen
+b7d52fff-f235-4909-a6e3-75cf7fbaffe9,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:16,2026-07-08 12:10:09.304358,Predictive,0.1,43282.13,In Progress,Rodney Paul
+f46b9097-5ae0-4afe-b644-0a5fd45ae66a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:03,2026-07-08 12:10:09.304358,Preventive,0.04,46530.46,In Progress,John Anderson
+a9077de4-5f97-48bf-bc46-85534e0598bf,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:42,2026-07-08 12:10:09.305357,Preventive,0.02,34854.67,In Progress,Ann Lowery
+e9fdc0f8-5a91-4dd6-9632-c8a6d3ecfdff,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:39,2026-07-08 12:10:09.305357,Corrective,0.03,27399.39,Open,Mrs. Karen Bell
+d677af01-9fa3-4017-a3a6-e8b2aa2478e1,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:27,2026-07-08 12:10:09.305357,Predictive,0.1,9726.28,Open,Derrick Clark
+fe7d2094-505d-4958-b417-c8760551ba0a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:26,2026-07-08 12:10:09.306358,Predictive,0.03,27125.69,In Progress,Wanda Khan
+d76569a1-6b32-485f-8687-4462b9cada18,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:27,2026-07-08 12:10:09.306358,Corrective,0.1,11944.63,In Progress,Brandon Butler
+de739dec-0d25-4c67-b766-e5d92bd85b7b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:55,2026-07-08 12:10:09.306358,Corrective,0.04,3947.43,In Progress,Michael Curtis
+cf0a2216-63d7-4bfd-97c2-97b28075f0f7,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:15,2026-07-08 12:10:09.306358,Preventive,0.07,31444.87,In Progress,Wendy Russell
+b402a4c8-c20b-49e7-87f1-5e447a61bb16,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:31,2026-07-08 12:10:09.307356,Preventive,0.04,19660.85,Open,Daniel Lucero
+534678a8-09fb-4d7b-8d72-ce8c6fda034a,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:54,2026-07-08 12:10:09.307356,Predictive,0.07,1729.52,Open,Michael Clayton
+88cb270e-e742-4082-88cc-d4ed1adc6eb7,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:52,2026-07-08 12:10:09.307356,Preventive,0.0,3080.85,Resolved,Christopher Kelly
+2d948fca-64b9-4dda-8cc5-06fc74f7d86e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:40,2026-07-08 12:10:09.307356,Corrective,0.09,14801.77,Open,Christian Gross
+76bf53d8-bcf2-4d31-933e-0318dad57711,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:27,2026-07-08 12:10:09.308356,Corrective,0.1,27608.53,In Progress,Debra Allen
+ae0f4182-936d-4c72-ab29-d4614173c541,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:59,2026-07-08 12:10:09.308356,Corrective,0.0,43485.84,Resolved,Erika Cross
+0134ea69-39bf-4153-a633-40bda05905db,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:24,2026-07-08 12:10:09.308356,Predictive,0.06,7942.92,In Progress,Tina Castro
+b01a0ef3-48f6-4c0c-82d4-30d379796071,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:22,2026-07-08 12:10:09.308356,Preventive,0.01,4484.39,Resolved,Meghan Cook
+fe392f22-e31c-4966-bb94-d0e954f4ba55,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:33,2026-07-08 12:10:09.309355,Corrective,0.01,11415.92,In Progress,James Avery
+7c120435-42f6-464a-8ca3-0b7d11b81a24,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:36,2026-07-08 12:10:09.309355,Preventive,0.08,9526.62,Open,Kristopher Collier
+990a64db-e3ec-4448-8d5a-4c1f2ecdf9d8,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:50,2026-07-08 12:10:09.309355,Preventive,0.04,11317.42,In Progress,Mark Stevens
+1f273ddc-5996-46f1-baf6-5ebbacc17c48,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:32,2026-07-08 12:10:09.310355,Predictive,0.03,2376.58,Open,Timothy Simpson
+1c46f125-6a57-496c-9088-0fc658e65bcc,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:53,2026-07-08 12:10:09.310355,Predictive,0.02,14139.81,Resolved,Dominique Phillips
+7c848369-e414-4078-88dd-8cf2e1af8d78,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:31,2026-07-08 12:10:09.310355,Preventive,0.09,9717.7,Open,Cody Wilkinson
+5070b7ea-03af-4a13-b480-b98716e51227,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:03,2026-07-08 12:10:09.310355,Predictive,0.09,11511.1,Resolved,Amy Harmon
+b46d51f2-29b3-4207-9a21-52f37bfca3b3,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:26,2026-07-08 12:10:09.311355,Corrective,0.03,12351.82,In Progress,Jon Luna
+3323e5df-adba-4034-9455-f02eb33669ac,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:19,2026-07-08 12:10:09.311355,Predictive,0.08,44291.6,In Progress,Christopher Alvarado
+a6fe66b6-a668-421c-b7c8-0ac5999dcfab,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:26,2026-07-08 12:10:09.312353,Predictive,0.1,32566.82,In Progress,Nathaniel Howard
+2f254168-71b9-4e1b-8364-844205fc1dd5,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:28,2026-07-08 12:10:09.312353,Preventive,0.06,32428.81,In Progress,Stephen Valdez
+a025d1ec-2b90-4d29-a902-437c078b9916,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:21,2026-07-08 12:10:09.312353,Preventive,0.06,32091.42,Resolved,John Robinson
+a7e0110a-0236-4db3-85e1-ec0217c41b35,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:05,2026-07-08 12:10:09.312353,Preventive,0.03,33458.88,Open,Paula Thomas
+564b23ab-83fe-4187-800b-ea0dd6fa6842,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:41,2026-07-08 12:10:09.313353,Predictive,0.09,36446.26,In Progress,Margaret Hoffman
+4004187c-53fe-4a0c-b35a-3f0e7bc34b6d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:14,2026-07-08 12:10:09.313353,Predictive,0.1,49528.62,In Progress,Donald Cooper
+54613951-9584-4028-8f8c-fa3f4fe96f05,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:22,2026-07-08 12:10:09.313353,Corrective,0.1,6649.18,Open,Richard Park
+18678025-1807-4638-9fb7-23dc99797c1c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:43,2026-07-08 12:10:09.314352,Preventive,0.09,8703.96,Open,Steven Frank
+4178932e-c6f6-4ffd-be35-656d53389d3b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:06,2026-07-08 12:10:09.314352,Corrective,0.08,31933.61,In Progress,Karina Jones MD
+ba1799ad-796c-4248-9077-0f9da4a5aeac,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:14,2026-07-08 12:10:09.315352,Predictive,0.03,24058.63,Resolved,Brittany Jensen
+3a9c0e42-cbf4-40f3-b1f1-dc5d821ba0af,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:41,2026-07-08 12:10:09.315352,Corrective,0.04,13978.1,In Progress,Sheryl Williams
+71af426f-e5c7-4553-ae9e-eb1eeffb7f33,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:31,2026-07-08 12:10:09.315352,Preventive,0.04,33350.87,In Progress,Miranda Jackson
+42b18c4e-d262-49fc-ba01-3948dc4fafff,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:00,2026-07-08 12:10:09.315352,Corrective,0.05,9539.29,In Progress,Connor Obrien
+ea190b1b-7454-4e66-92d5-0d9931bc9374,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:47,2026-07-08 12:10:09.316339,Preventive,0.06,26991.17,Resolved,Andrew Gallegos
+ea7927f5-3f3e-4f3b-beb3-609dfc541d4b,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:40,2026-07-08 12:10:09.316339,Preventive,0.07,43498.24,Open,Natalie Gonzalez
+1258a7a3-a0d4-4889-9fd0-92a0e86bf241,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:49,2026-07-08 12:10:09.316339,Preventive,0.01,1518.04,In Progress,Stacy Benson
+d02978c6-ced4-4214-964b-d315ff41e3b8,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:35,2026-07-08 12:10:09.316339,Predictive,0.04,4634.95,Open,Andrew Schneider
+29f5a73b-86fb-43c0-a2a9-8c5c95419986,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:23,2026-07-08 12:10:09.317351,Preventive,0.03,28484.68,In Progress,Allison Nelson
+59cac0e0-0198-420a-8218-af41ff6dd9fa,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:40,2026-07-08 12:10:09.317351,Preventive,0.07,26819.73,Open,Sharon Hughes
+e0724c2d-bf8b-49d2-a254-470fb67ab705,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:56,2026-07-08 12:10:09.317351,Predictive,0.02,33294.46,Resolved,Victor Humphrey
+2adf5205-69d7-4dbf-9ba8-686f74215571,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:05,2026-07-08 12:10:09.317351,Corrective,0.02,22967.71,In Progress,Jackie Ellis DVM
+ff5755cf-eef9-44ba-9b2b-4ca2e1a3f7bd,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:00,2026-07-08 12:10:09.318350,Corrective,0.04,13672.9,Open,David Hunter
+2010e4b3-7170-4bf9-ab23-bc0ae211f44a,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:18,2026-07-08 12:10:09.318350,Preventive,0.05,34523.37,Open,Natalie Huffman
+69762242-5afd-4c48-8fd3-ad02f9e34ac2,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:27,2026-07-08 12:10:09.318350,Preventive,0.01,3871.98,In Progress,Ashley Brown
+0e6b05b1-35ee-4e4a-9dd5-b3ff5a87195c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:04,2026-07-08 12:10:09.318350,Predictive,0.0,16652.41,Resolved,Raymond Dominguez
+0e181890-5b35-42a0-82eb-12d825543eeb,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:41,2026-07-08 12:10:09.319350,Preventive,0.04,15696.82,Resolved,Rachael Hester
+9ddd3f99-3b8a-4671-8c0e-061580b521b3,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:15,2026-07-08 12:10:09.319350,Preventive,0.07,8886.21,Open,Nicholas Donaldson
+de4553d9-5786-4de3-9b0a-6266605d13f0,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:36,2026-07-08 12:10:09.319350,Corrective,0.06,9899.65,Open,Brandon Park
+171654ad-fd1e-4c58-81a1-ccf44754b913,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:20,2026-07-08 12:10:09.320349,Preventive,0.1,41132.83,Open,Mr. Vincent Green
+bb16ec18-1dc2-4827-8a15-b27fc4d04365,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:27,2026-07-08 12:10:09.320349,Preventive,0.01,16990.82,Resolved,Jordan Murray
+cda9c381-5b2a-4e15-818f-1aab1dd6628d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:54,2026-07-08 12:10:09.320349,Corrective,0.02,17603.68,Open,Ann Gutierrez
+72c40099-735b-47cf-9f2b-5fed3e382b28,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:13,2026-07-08 12:10:09.321348,Corrective,0.05,44506.24,Open,Christopher Harris
+01874e78-b427-41b3-ba48-113db1bbac73,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:29,2026-07-08 12:10:09.321348,Preventive,0.06,11530.66,In Progress,Jennifer Pineda
+e109adf9-7507-4285-837e-92619fce4434,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:58,2026-07-08 12:10:09.321348,Preventive,0.02,20112.26,Resolved,Sarah Suarez
+2b3d0ba2-a6cd-4296-bb56-e5f4b7d659fb,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:34,2026-07-08 12:10:09.321348,Corrective,0.09,9035.5,Resolved,Michael Gates
+a63d0d1e-0f38-4d98-9a7a-5f4811d136af,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:52,2026-07-08 12:10:09.322325,Corrective,0.04,45339.06,In Progress,Thomas Chase
+42b2b7b1-0126-4474-8ee4-e617fbdb817d,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:30,2026-07-08 12:10:09.322325,Predictive,0.06,42765.54,In Progress,Kathy Huang
+008de0c7-5659-460d-a435-e81123f0bd4c,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:42,2026-07-08 12:10:09.322325,Predictive,0.01,12895.34,In Progress,Jose Robinson
+d5a90ead-fd67-4ca8-be5d-80f31b40a31b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:56,2026-07-08 12:10:09.323348,Preventive,0.09,49011.98,In Progress,Jeffrey Johnson
+44429cdb-1b98-4240-bb47-1f1b8168ec52,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:30,2026-07-08 12:10:09.323348,Preventive,0.08,19663.9,Open,Kristy Benjamin
+a1de9249-772b-4254-bc87-6c85d96fdcb3,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:12,2026-07-08 12:10:09.324347,Corrective,0.03,36581.74,Open,Ashley Cherry
+ffb0bde7-ffa0-4d2c-97ea-137ef96897ec,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:05:37,2026-07-08 12:10:09.324347,Predictive,0.08,45592.64,Open,Arthur Petersen
+64de2a60-b113-4782-bac3-f3378e94d99d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:05,2026-07-08 12:10:09.324347,Predictive,0.03,18389.56,In Progress,Zachary Chandler
+1320ebb3-3c12-46d7-9000-10b2def96363,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:23,2026-07-08 12:10:09.324347,Preventive,0.05,24307.55,Resolved,Susan Oliver
+92466ed2-85b2-41c8-b666-96ffa3c9bda6,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:01,2026-07-08 12:10:09.325346,Predictive,0.0,29122.07,Resolved,Destiny Wilcox
+3c0e6da6-532a-4698-aa89-ca2ba7940632,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:10:09,2026-07-08 12:10:09.325346,Corrective,0.0,29489.96,In Progress,David Sims
+6386df36-d267-4681-bc1c-1784b2cf1cc2,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:28,2026-07-08 12:10:09.325346,Preventive,0.04,10382.98,Open,Meredith Mckinney
+aa0ff3af-5ac8-4332-a35b-c7c546f68d9e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:12,2026-07-08 12:10:09.325346,Preventive,0.05,6473.39,In Progress,Madeline Ayala
+9e68c7d7-0892-4779-850f-1e8b9b45a1ed,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:10:00,2026-07-08 12:10:09.326346,Predictive,0.0,8082.78,Open,Katherine Owens
+7cf74132-74cd-4bac-8a04-ec648da8b442,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:25,2026-07-08 12:10:09.326346,Predictive,0.03,27930.54,Resolved,Vanessa Walker
+f7a69abb-23a8-4fbb-9659-c78bad79cc2c,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:02,2026-07-08 12:10:09.327345,Preventive,0.05,24958.87,Open,Melissa Rogers
+1344c821-3068-4c86-9b41-5cd8d998f9bb,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:56,2026-07-08 12:10:09.327345,Preventive,0.09,25127.05,Open,Hannah Washington
+6511a71f-7828-4312-8bbe-d27cf618b02e,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:22,2026-07-08 12:10:09.327345,Corrective,0.05,42593.74,Open,Sue White
+d68fe7a0-c0ba-4c12-a4ac-b9f67c5eb747,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:34,2026-07-08 12:10:09.327345,Predictive,0.06,15987.49,In Progress,Anthony Hoffman
+794ac941-8fde-401b-94a2-81d6d1a16700,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:16,2026-07-08 12:10:09.328344,Preventive,0.1,13733.92,Open,Kimberly Wagner
+17423091-f123-4de9-a1eb-3ebd1fe3e5b9,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:06,2026-07-08 12:10:09.328344,Corrective,0.05,44942.01,Resolved,Adam Peterson
+8cf5d627-ab0a-4f55-80ac-ce20ecaa6ce1,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:17,2026-07-08 12:10:09.328344,Predictive,0.03,16343.32,Resolved,Jasmine Dean
+929f196b-27eb-4e10-a3c4-e859d035cbc8,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:24,2026-07-08 12:10:09.329344,Predictive,0.08,34777.5,In Progress,Peter Munoz
+7fda2ad6-35b1-418d-8f6b-aff358d11bf3,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:24,2026-07-08 12:10:09.329344,Corrective,0.03,14333.65,In Progress,Victoria Davis
+04c2757e-2392-4541-9c3b-b0b3e95eb259,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:10:04,2026-07-08 12:10:09.329344,Preventive,0.0,32498.38,Open,Eric Harrell
+c6078dce-1a95-48f7-9cce-b0bba482ddba,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:05,2026-07-08 12:10:09.329344,Corrective,0.03,47188.55,Resolved,Jessica King
+21aeefd6-0ac6-4c15-acb4-7e0f2165f489,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:54,2026-07-08 12:10:09.330343,Preventive,0.07,8232.72,In Progress,Sheryl Rangel
+31082cc5-0954-4d6a-b3b4-b0d9ac17fd10,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:41,2026-07-08 12:10:09.330343,Preventive,0.09,44658.05,Open,Joyce Brown
+c53e978d-7f4e-49f2-83d3-79886e1f8799,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:48,2026-07-08 12:10:09.330343,Predictive,0.07,13601.14,Resolved,Jeffrey Swanson
+c473b889-9196-44ed-85a2-24db9ec601ff,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:44,2026-07-08 12:10:09.330343,Predictive,0.06,33992.25,Open,Micheal Brown
+c3c9560e-e93d-4a48-97fd-5147170d66d3,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:00,2026-07-08 12:10:09.331343,Predictive,0.02,47728.32,In Progress,Linda Baker
+5fe6b100-524a-4fe2-ad88-6d30dee0489e,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:11,2026-07-08 12:10:09.331343,Predictive,0.08,48020.52,Open,Victoria Hicks
+213a91b2-b0ce-4579-8670-204884598bcb,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:08:17,2026-07-08 12:10:09.331343,Corrective,0.03,8825.94,Open,Jessica Lawrence
+92908794-6bee-4682-ad9a-2173810b7074,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:18,2026-07-08 12:10:09.332342,Predictive,0.05,41319.18,Open,Christopher Schroeder
+81a1474d-8b33-4788-9ff3-973177ebddd0,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:44,2026-07-08 12:10:09.332342,Predictive,0.01,7583.45,In Progress,Danielle Cook
+fbc51de8-2f3c-40e8-889c-ae4c8acfd944,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:49,2026-07-08 12:10:09.332342,Corrective,0.09,36260.9,Resolved,David Lewis
+b5fded75-5a7a-4ccb-a985-88dc320e257f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:00,2026-07-08 12:10:09.332342,Corrective,0.07,30853.27,Resolved,Sierra Bryant
+08048cdd-d0d1-4a0c-b5ed-bb87eea5596f,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:07:43,2026-07-08 12:10:09.333341,Preventive,0.04,9088.42,Open,Kelly Harrison
+68fea7db-068a-432f-a678-21e084dccdbe,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:39,2026-07-08 12:10:09.333341,Predictive,0.09,45053.41,Open,Jon Allen
+08518ca6-57ec-4939-af91-834bf1b79fc8,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:06,2026-07-08 12:10:09.333341,Corrective,0.08,2172.11,Resolved,Jeffrey Walker
+b2a8c893-abaa-4a4c-8462-81e9bcc73772,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:11,2026-07-08 12:10:09.333341,Predictive,0.02,33710.67,In Progress,Ian Martin
+6fb2bec7-1da7-45f9-8067-cac25db451f9,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:41,2026-07-08 12:10:09.334341,Predictive,0.02,44966.17,Open,Phillip Lynn
+cb707948-62cb-48fb-ba63-fd01b36d2255,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:03,2026-07-08 12:10:09.334341,Preventive,0.0,31712.21,In Progress,Jessica Schroeder
+eed03edc-0b5b-423d-95dd-cf7928d9ee98,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:35,2026-07-08 12:10:09.334341,Preventive,0.03,19453.99,Resolved,Shannon Mosley
+97944762-b08a-4f35-9470-748a2b4a35b6,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:34,2026-07-08 12:10:09.334341,Corrective,0.04,28082.91,Resolved,Emily Murray
+022d3589-9bb2-48c6-9847-d6964653c46d,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:46,2026-07-08 12:10:09.335340,Preventive,0.02,33546.15,In Progress,April Young
+37051190-40e0-4dbe-aaab-776c77dcdc68,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:09,2026-07-08 12:10:09.335340,Preventive,0.02,49620.78,Resolved,Nicole Ross
+20029821-9204-473f-9453-3835de29ad5d,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:06,2026-07-08 12:10:09.336339,Preventive,0.07,4967.48,Resolved,James Baker
+26092e42-691a-4919-9724-f8052fc07bc3,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:37,2026-07-08 12:10:09.336339,Preventive,0.04,32209.41,Open,Kristen Acevedo
+84e597ab-830d-498a-a0cd-18a30fcb6b53,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:55,2026-07-08 12:10:09.336339,Corrective,0.07,7686.86,Open,Miss Nancy Fritz
+2bf12b57-8e3f-40ca-8a6f-429bfc95c989,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:31,2026-07-08 12:10:09.336339,Corrective,0.09,27514.55,Resolved,Larry Gonzalez
+a30c0ba2-a63b-49db-9f9e-e718ab14ac6e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:08:47,2026-07-08 12:10:09.337339,Predictive,0.02,3329.99,Resolved,Lisa Lopez
+3953a158-d927-495d-a1c5-6a6f3a202535,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:29,2026-07-08 12:10:09.337339,Predictive,0.09,8866.94,Resolved,Cheryl Perez
+4fea3578-0b36-4937-a285-29990fe4ee5f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:27,2026-07-08 12:10:09.337339,Preventive,0.01,48895.02,Open,David Craig
+a4bd796a-0fbd-4c20-ae3e-40c943432199,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:06,2026-07-08 12:10:09.337339,Predictive,0.02,21766.15,Resolved,Michael Carter
+f3e5b3d1-a071-4f48-b274-09c3381ca898,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:11,2026-07-08 12:10:09.338339,Corrective,0.1,18963.69,Resolved,Kristen Rodriguez
+827f04cc-dcf1-4b56-a533-73f3406480d0,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:24,2026-07-08 12:10:09.338339,Predictive,0.05,30514.02,In Progress,Margaret Mitchell
+83cf5079-e55c-4b33-977d-872a2179ed5e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:04:25,2026-07-08 12:10:09.338339,Predictive,0.1,42851.59,Resolved,Jennifer Phillips
+edfb53aa-d507-4390-a1c1-55849be77b1e,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:42,2026-07-08 12:10:09.338339,Corrective,0.01,26185.7,Open,Crystal Montes
+12f94840-87f2-4ffb-8534-640cdaa8f4b7,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:48,2026-07-08 12:10:09.339338,Corrective,0.02,19004.76,Open,William Elliott
+f25c62a3-fd37-4666-bc97-5d545123f779,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:35,2026-07-08 12:10:09.339338,Predictive,0.08,22537.24,In Progress,Olivia Singh
+ad0f3c21-9407-4894-a635-77f57065eb94,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:38,2026-07-08 12:10:09.340338,Preventive,0.06,39958.75,In Progress,Charles Mitchell PhD
+c2d324f9-9297-4452-9f65-68b15e602256,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:04,2026-07-08 12:10:09.340338,Preventive,0.02,42954.3,In Progress,Samantha Salas
+5b472191-efb8-4861-8590-4d40b729809f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:09,2026-07-08 12:10:09.340338,Preventive,0.1,40577.81,Resolved,Christine Boone
+598ce504-d1fa-4c3d-aabc-2f8929a510df,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:18,2026-07-08 12:10:09.340338,Preventive,0.06,17939.55,In Progress,Nicole Warren
+59f4524f-188a-45b5-a9b1-df9b0f4b5b53,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:37,2026-07-08 12:10:09.341337,Predictive,0.09,21115.52,In Progress,Taylor Guerrero
+a213471e-5b6e-4fd1-8060-0c7d19b52b0f,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:41,2026-07-08 12:10:09.341337,Preventive,0.07,37027.33,Resolved,Monica Flores
+9ea79073-2d30-47c5-a26f-63dbf126ca09,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:06:26,2026-07-08 12:10:09.341337,Preventive,0.06,45527.7,Open,Brad Nelson
+cac27f16-4964-4ff8-b07b-11c807fd4594,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:16,2026-07-08 12:10:09.342336,Predictive,0.01,33412.92,In Progress,Stephanie Martin
+ee69ddc1-2e5d-405b-93d5-b260bc045c0a,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:04:20,2026-07-08 12:10:09.342336,Predictive,0.1,40267.87,In Progress,Rachel Jackson
+4fcab154-fe9e-41c4-852b-3591289744e1,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:15,2026-07-08 12:10:09.342336,Preventive,0.05,29421.12,Resolved,Christopher Marshall
+126dbe12-b763-4621-90be-0d94fc92331e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:11,2026-07-08 12:10:09.343336,Corrective,0.1,10497.73,Resolved,Angela Smith
+b06b1573-0527-41a7-a6fe-4658031649dd,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:07,2026-07-08 12:10:09.343336,Preventive,0.08,15971.07,Open,Mrs. Kaitlin Reese DDS
+b2388c89-be0e-4deb-9c80-490e03455506,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:18,2026-07-08 12:10:09.343336,Preventive,0.08,34757.3,In Progress,Carrie Rodriguez
+757f79c6-2573-4875-8249-f371a80b6c6f,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:58,2026-07-08 12:10:09.343336,Preventive,0.05,28603.7,In Progress,Antonio Tucker
+469b6a8f-9753-46c5-8e52-b5674e83a934,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:01,2026-07-08 12:10:09.344335,Preventive,0.04,7608.79,Open,Justin Fisher
+11eba3f7-88eb-438c-9b92-3270197f6abf,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:08,2026-07-08 12:10:09.344335,Preventive,0.05,36382.54,Open,Julie Parker
+34defe8e-baa1-477b-b5b7-fb73f71b1652,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:11,2026-07-08 12:10:09.344335,Corrective,0.08,11851.5,Open,Rebecca Leblanc
+72e4e581-51e3-46c5-b09c-fa3e766bff11,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:07:26,2026-07-08 12:10:09.344335,Predictive,0.05,22666.32,Resolved,Mr. Michael Hardy
+ec18d7ef-d6ce-478c-bc61-771315b14608,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:10,2026-07-08 12:10:09.344335,Predictive,0.1,19822.93,Open,Cynthia Ryan
+5da4d966-6c7c-4fd1-a4e1-8527c48810ce,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:56,2026-07-08 12:10:09.345335,Predictive,0.02,36200.06,Open,Robin Meyer
+53057b44-415b-4ee7-ba82-df86d0456667,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:23,2026-07-08 12:10:09.345335,Preventive,0.05,49978.4,Resolved,Paul Perez
+05c70e07-e325-45b9-8fd0-b7e7bf9f84bf,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:18,2026-07-08 12:10:09.345335,Predictive,0.06,45349.88,Open,Zachary Macias
+88d9dda8-16a5-431c-95a4-fae6549e0bdc,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:21,2026-07-08 12:10:09.345335,Predictive,0.01,42635.27,Resolved,Christina Williams
+be48da2c-5a1e-448e-ad99-17664c6af400,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:07,2026-07-08 12:10:09.346334,Corrective,0.03,10762.86,Open,Matthew Tran
+72f5c9f0-4503-4027-ae4b-ed3afe40c345,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:16,2026-07-08 12:10:09.346334,Corrective,0.06,33333.63,In Progress,Thomas Thomas
+42b023ba-f9e8-4790-ac38-c4f5b729f6b3,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:03,2026-07-08 12:10:09.346334,Preventive,0.05,31465.73,Open,David Butler
+ce9cbaba-11d7-4527-bdfd-3ed5bfab7bc6,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:41,2026-07-08 12:10:09.346334,Preventive,0.09,9271.7,In Progress,Jennifer Bowman
+a5d2252e-d6fb-4a0d-8b5d-a9625b524d8d,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:08,2026-07-08 12:10:09.347333,Corrective,0.02,45569.55,Open,Seth Chen
+4d14991e-f692-4530-a032-fd335f951975,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:04:14,2026-07-08 12:10:09.347333,Preventive,0.1,1089.51,Resolved,Danielle May
+da5b8f98-a408-40bb-9fc1-3cff68078f52,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:08:23,2026-07-08 12:10:09.347333,Preventive,0.03,39232.95,Open,Daisy Bond
+902b71a7-8209-4a12-b0de-c80eb2beb423,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:19,2026-07-08 12:10:09.347333,Corrective,0.08,8540.93,Resolved,David Pitts
+e50acb89-35ff-4922-be29-096bcb01a784,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:09,2026-07-08 12:10:09.348333,Predictive,0.02,48410.04,Resolved,Kimberly Rice
+be26e072-9b4c-43a1-8b37-4fafbb2d5af1,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:48,2026-07-08 12:10:09.348333,Preventive,0.04,33292.78,In Progress,Joseph Kennedy
+82905b12-29ab-43f6-8cab-fd6173b7ef1e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:46,2026-07-08 12:10:09.348333,Preventive,0.02,39575.77,In Progress,Christopher Johnson
+cea46b73-76ea-4193-92ed-8637c739c807,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:05:43,2026-07-08 12:10:09.348333,Predictive,0.07,16636.4,In Progress,Angela Mccoy
+2d14f555-8bbd-401d-9429-b18f846de506,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:09:06,2026-07-08 12:10:09.349332,Preventive,0.02,40185.12,Resolved,David Myers
+54f5a46b-0be5-432d-a636-7d224571b8fc,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:05:30,2026-07-08 12:10:09.349332,Corrective,0.08,13011.2,Open,Melinda Hopkins
+f015a390-f433-4ecf-829d-3c50a462bb7b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:32,2026-07-08 12:10:09.349332,Predictive,0.01,45242.09,Resolved,Arthur Mcmahon
+f317e091-f1c0-4a45-978b-3d001242a5a2,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:40,2026-07-08 12:10:09.350332,Preventive,0.01,2729.36,Open,Emily Vincent
+e0af2b53-ee60-4bce-9c89-1cf9ac972c90,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:53,2026-07-08 12:10:09.350332,Preventive,0.0,38473.39,Resolved,Tina Allen
+029bc9a8-ba4e-4770-916b-fc22d66a02be,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:30,2026-07-08 12:10:09.350332,Corrective,0.03,45771.27,Open,Michael Pope
+44418e1b-e2c0-448a-89a7-89a8ea9bf5ef,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:22,2026-07-08 12:10:09.351332,Predictive,0.08,45860.11,In Progress,Benjamin Mack
+12379e9d-8f71-40e7-95fa-3e5b5f9e202a,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:17,2026-07-08 12:10:09.351332,Predictive,0.05,1200.37,Resolved,Gregory Flores
+51780ff1-21fa-466d-8e52-4b81f6d5cc67,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:32,2026-07-08 12:10:09.351332,Predictive,0.01,48761.08,In Progress,Dr. Michael Johnson MD
+8e0adae6-38ce-4709-a107-4b6f0eb6e05b,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:09:34,2026-07-08 12:10:09.352331,Corrective,0.01,44114.23,In Progress,Deanna Richards
+034d7cc5-5895-4085-b34a-2148629dc8dd,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:09:00,2026-07-08 12:10:09.352331,Preventive,0.02,31669.99,Resolved,Isaac Fernandez
+49fb4005-37ac-429b-a39e-0b03080ca394,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:52,2026-07-08 12:10:09.352331,Corrective,0.04,29880.14,In Progress,Michael Hill
+99fc8980-a5cc-4bcf-a780-66208497db3a,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:10:01,2026-07-08 12:10:09.353330,Predictive,0.0,42500.0,Resolved,William Bryant
+8b1d04da-6884-4176-9af1-9189c109b4c7,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:07:23,2026-07-08 12:10:09.353330,Preventive,0.05,26082.68,In Progress,Michael Moore
+0b496176-6113-4762-ba67-a3a6a0ebca2c,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:11,2026-07-08 12:10:09.353330,Corrective,0.08,14966.36,In Progress,Joshua White
+e13dc119-4925-4654-8553-c1b52a456f6e,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:08:41,2026-07-08 12:10:09.353330,Predictive,0.02,20432.45,Open,Raymond David
+1c36c5a0-0081-44f4-b89f-a93bb1e9c70a,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:11,2026-07-08 12:10:09.354329,Preventive,0.02,39596.37,Resolved,Anthony Miller
+f401d1a2-0d32-4a79-a32a-a547146d312d,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:09:38,2026-07-08 12:10:09.354329,Preventive,0.01,8251.44,Open,Lori Mcdaniel
+54207bd1-9392-4a7f-8ab3-e059e14d46aa,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:05:06,2026-07-08 12:10:09.354329,Predictive,0.08,45192.75,In Progress,Gary Townsend
+a0439268-bf11-4498-b47a-ed51b48cb54c,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:06:29,2026-07-08 12:10:09.354329,Predictive,0.06,17746.57,In Progress,Michele Scott
+b37501a5-29b2-4e70-8b15-ecb0fbc49a48,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:19,2026-07-08 12:10:09.355329,Predictive,0.08,19388.45,In Progress,Michael Baker
+9b448bab-e40a-416f-8aee-3c3f6da6b8d3,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:05:03,2026-07-08 12:10:09.355329,Preventive,0.09,34129.7,In Progress,James Turner
+89919285-5ca0-4e5c-bc55-60b9ea150cb8,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:04:49,2026-07-08 12:10:09.355329,Predictive,0.09,16152.91,Resolved,Mrs. Carly Kim
+8c64e7f1-fdda-47c9-a79c-fa6426d52f1a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:08,2026-07-08 12:10:09.355329,Predictive,0.02,33827.31,Open,Shawn Keith
+39a441f3-a8ef-4493-8608-385be41a3b44,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-08 12:07:43,2026-07-08 12:10:09.356328,Preventive,0.04,20625.46,Resolved,Emily Ramirez
+67209b8e-0895-4829-8f0d-696ec1772f94,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:08:29,2026-07-08 12:10:09.356328,Predictive,0.03,48217.0,In Progress,Joshua Wagner
+77086017-be8a-4c86-b807-88f6ab9b9053,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:08:41,2026-07-08 12:10:09.357328,Preventive,0.02,33155.12,Open,Samantha Burns
+074bdf8b-b342-448f-b3ba-fde35daaafc9,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:04:49,2026-07-08 12:10:09.357328,Corrective,0.09,11074.73,In Progress,David Martin
+65726635-efcd-45e6-808e-17880d26d7d2,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:23,2026-07-08 12:10:09.357328,Predictive,0.01,42579.94,Open,Jose Green
+1d51381d-891a-4a02-8a7a-c082bd7c552f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-08 12:07:23,2026-07-08 12:10:09.357328,Corrective,0.05,30144.3,Open,Christopher Mcintosh
+c82cd6f2-8faf-439c-99f3-044f721b8ad9,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:09:26,2026-07-08 12:10:09.357328,Preventive,0.01,9386.67,Resolved,Alexis Taylor
+48e8b4c0-a7a3-4e8f-af90-8d630f580162,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:04:30,2026-07-08 12:10:09.358327,Preventive,0.09,32133.91,Resolved,Melody Sanders
+ecc0347a-331e-4e98-b810-8ef9e9d96005,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:45,2026-07-08 12:10:09.358327,Preventive,0.06,2414.12,Open,Carl Adams
+1db9b714-efce-489f-9c46-14d95bfcc87b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:07:57,2026-07-08 12:10:09.358327,Corrective,0.04,43007.88,In Progress,Wesley Todd
+8cf83c1c-fc43-4367-90ee-2b3205687dfc,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:06:03,2026-07-08 12:10:09.359308,Preventive,0.07,49089.48,In Progress,Daniel Jones
+c3edc87c-d858-44e7-a575-07ba95ec6c92,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-08 12:06:49,2026-07-08 12:10:09.359308,Corrective,0.06,44732.05,Resolved,James Gonzales
+5b25aa8f-4fa8-48b0-8eca-f90d663e19f5,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-08 12:10:08,2026-07-08 12:10:09.359308,Predictive,0.0,14015.78,Open,Amanda Green
+16574e4f-092d-4ac9-99a5-261a58f78ead,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-08 12:05:06,2026-07-08 12:10:09.360327,Corrective,0.08,15504.21,In Progress,Whitney Young
+0858d0d7-0644-420d-8317-b20541b00251,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-08 12:06:30,2026-07-08 12:10:09.360327,Corrective,0.06,24279.5,Open,Melissa Walters
+c09915f5-df0d-4a62-87a3-69ed541620ce,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-08 12:09:32,2026-07-08 12:10:09.360327,Predictive,0.01,38064.73,In Progress,Sara Hardy

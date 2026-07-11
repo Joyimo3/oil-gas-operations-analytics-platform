@@ -1,0 +1,22 @@
+# ============================================================
+# OIL & GAS PROJECT - CONFIGURATION FILE
+# All paths, settings and rules live here.
+# No hardcoded values anywhere else in the project.
+# ============================================================
+paths:
+  raw: data/raw/
+  clean: data/clean/
+  errors: data/errors/
+  alerts: data/alerts/
+  database: database/oil_gas_ops.db
+
+generation:
+  num_records: 1000
+  dirty_percentage: 0.15
+
+sla_rules:
+  Critical: 4
+  High: 8
+  Medium: 24
+  Low: 48
+

@@ -1,0 +1,1001 @@
+hse_id,equipment_id,field,team,category,incident_date,incident_type,severity,near_miss,days_lost,department,location,reported_by,investigator
+aaeb484b-223b-404a-994c-28b16056571a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:59,Fall,Critical,No,27,Engineering,Pump Station,Derek Sanders,Scott Compton
+ef950eb9-2e3d-48d7-af02-461b97b44e7d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Fall,Critical,Yes,-99,UNKNOWN,Pipeline Junction,Lori Keller,
+dfb577bc-6358-4331-a1c4-e7b9ee0c66d8,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:52,Chemical Spill,High,No,3,Engineering,Control Room,Michael Perez,Heather Herring
+b7e16657-e9fd-499d-a5c0-1dc467b0d83a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:02,Fire,Low,No,29,HSE,Wellhead,Kimberly Roberts,Erica Rios
+012076bc-8875-4aa3-aea1-3edc829354cd,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:09,Chemical Spill,High,Yes,23,Engineering,Compressor Area,Sean Hall,Holly Scott
+e61cdd21-bc35-41f5-9e6c-f7e6b2cc17f7,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:26,Gas Leak,High,No,30,Maintenance,Pipeline Junction,Deborah Briggs,John Holmes
+d0280a37-f76c-4dbe-ba15-e4047c3d68a2,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:16:43,Chemical Spill,Medium,Yes,23,HSE,Pipeline Junction,Megan Johnson,Kristina Hunt
+125c2b9a-ff33-4d9c-b74d-06d9c7a3baeb,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:34,Gas Leak,Medium,Yes,1,HSE,Pipeline Junction,Patricia Summers,Isaiah Mullen
+223f1e31-b18d-4f47-945c-a6f6b30b5f8f,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:26,Gas Leak,High,No,26,Maintenance,Storage Area,Melinda Miller,Diana Smith
+debcfcd2-a687-4b39-8d07-dc9bcad5b515,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:28,Explosion,Medium,No,21,Logistics,Compressor Area,Terry Richardson,Sandy Richards
+336de023-dbf6-4fef-80f2-aa9e470b86ce,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:32,Fall,Medium,Yes,26,Engineering,Pipeline Junction,Ronnie Gonzalez,Nicole Gibson
+9e041f58-343a-4e90-9053-ea26a6034fff,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:18,Equipment Strike,Medium,No,17,Operations,Control Room,Casey Ellis,David Phelps
+48479330-d9a3-493c-8bc4-841200f2f9cc,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:45,Fire,High,Yes,1,Engineering,Control Room,Cynthia Wade,Kelly Jackson
+75ac7db5-510a-44ff-befb-2b4c6231cc70,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:33,Chemical Spill,Medium,No,11,Maintenance,Pipeline Junction,Mrs. Elizabeth Gardner,Eric Robinson
+c366a0a8-e980-4421-bcfc-245ce48d28e9,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:21,Fire,High,Yes,22,Engineering,Storage Area,Christina Gonzalez,Matthew Thomas
+78698512-7192-4b9e-8a96-c765f2264a5f,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:20,Equipment Strike,Low,No,0,Operations,Pipeline Junction,Bryce Anderson,Alexandra Griffin
+a1e8e2cd-81e9-4e4c-a032-120d83740ac7,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:52,Fire,High,Yes,10,Logistics,Control Room,Kristin Hendrix,Ashley Shields
+97615305-85d2-4bdc-85d0-8d6b79a4c7f0,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:42,Equipment Strike,Low,No,9,Engineering,Compressor Area,Christina Lee,Philip Lane
+5db444d0-cd77-4b69-8381-7db845ddb709,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:36,Fall,Critical,No,24,Maintenance,Compressor Area,Tiffany Ware,Sarah Fox
+da04915d-74d9-431c-9111-c09aea91b672,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:21:08,Fall,Low,Yes,20,Operations,Storage Area,Ryan Davis,Mario Black
+75978192-ce26-40d3-a8fb-62a9f07156d0,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Chemical Spill,Medium,Yes,-99,UNKNOWN,Control Room,Joseph Salinas,
+3f347c7e-7183-4019-82a2-2d59336dc4bc,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:52,Fire,Low,No,15,Maintenance,Wellhead,Christy Gonzales,Michael Lee
+0dfab217-c77b-4b74-ae1f-30a560267000,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:20,Fire,High,Yes,7,Operations,Pump Station,Juan Rogers,Lynn Perez
+a97d1046-9229-49a9-8a93-c25cb6e57524,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:16:32,Fire,Low,No,20,Engineering,Wellhead,Makayla May,Randy Castillo
+a310725b-7af2-4840-8a3c-a345a1d6e7fd,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:39,Fire,Low,No,28,Logistics,Wellhead,Dawn Jenkins,Melissa Peterson
+9f1d354d-c016-4933-ae05-8ac5482c4336,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:46,Chemical Spill,Low,No,18,Maintenance,Pump Station,Tyler Thomas,Rebekah Ellison
+2da37491-19d1-4a4f-a79e-e10a77df35e2,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:07,Equipment Strike,High,Yes,22,Logistics,Wellhead,James Anderson,Brandon Martinez
+c8e3c4a9-dbf8-4646-a6d1-a502ea0b40c8,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:35,Chemical Spill,Low,Yes,5,Logistics,Wellhead,Hannah Smith,Cory Roth
+51ffd3e0-cf9e-4f05-9a0e-ca8fa8e9990b,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:45,Equipment Strike,Low,Yes,24,Maintenance,Control Room,Jessica Dean,Jason Miller
+262ddc73-fcf4-44ae-84e9-d517603cc084,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:28,Gas Leak,Low,No,1,Operations,Compressor Area,Amanda Martin,Jennifer Kidd
+04b62e9f-136f-44e8-a60a-78e0476b2764,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:26,Chemical Spill,High,Yes,2,Maintenance,Compressor Area,Veronica Miller,Anthony Hurley
+8a5ac155-5dad-4670-89e1-d0348e278c88,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Chemical Spill,Critical,Yes,-99,UNKNOWN,Wellhead,Barbara Vaughn,
+44561f8b-363d-422f-9279-ae2c6a640b9d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:51,Explosion,Medium,No,26,HSE,Pipeline Junction,Miguel Hawkins,Bridget Williams
+5bb83fab-fc8b-4ae0-99ae-e06857e413fc,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:35,Chemical Spill,Low,No,16,Engineering,Wellhead,Kevin Carter MD,Joel Dudley
+3155a057-e90a-4fde-865f-f505b468b1f4,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:21:21,Chemical Spill,High,No,18,Logistics,Wellhead,Todd Caldwell,Natalie Shaw
+0547122c-c597-4a1d-92a8-2e33e3366942,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:04,Explosion,Critical,Yes,21,Logistics,Compressor Area,Gabriel Yates,Corey Zuniga
+493bb01f-5496-4117-8487-19a30036e04f,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:54,Equipment Strike,Low,No,19,Engineering,Control Room,Nicole Torres,Lauren Craig
+98cc9824-234b-4a3b-b0ab-6df35cc95dfa,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:30,Gas Leak,Critical,No,3,HSE,Pump Station,Teresa Guerra,Dawn Phillips
+640477e3-df2b-4cdf-bc02-1f8bae6c44b5,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:14,Explosion,Low,Yes,13,Operations,Compressor Area,Rhonda Griffith,William Mccoy
+30c07129-6f16-4f63-ae13-3638224c2e81,COMP-202,Forcados Field,Team Bravo,Compressor,,Gas Leak,Critical,No,-99,UNKNOWN,Storage Area,Thomas Mullins,
+efff896e-8ea8-4ea5-ac30-c9b724ec2bd4,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:04,Equipment Strike,Low,Yes,9,HSE,Pipeline Junction,Loretta Fletcher,Amanda Bridges
+6ae38477-6689-47e6-9f0c-b7023140c201,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:40,Equipment Strike,Medium,No,4,Engineering,Pipeline Junction,Hayden Dominguez,Shannon Mcmahon
+75a277c2-f67b-4a6e-aa78-b5785fec63b3,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:12,Fire,Critical,Yes,26,Operations,Wellhead,Michelle Walker,Whitney Johnson
+e4000563-d492-4c39-9e08-140dbae42e1c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:17,Chemical Spill,Critical,Yes,3,Engineering,Control Room,Richard Miller,Devin Torres
+4fe406ee-b552-49ec-a448-b576e523d64b,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Gas Leak,High,Yes,-99,UNKNOWN,Wellhead,Shawn Dougherty,
+a7ba57e1-5c84-415d-ba2a-ecd08936a07f,COMP-202,Forcados Field,Team Bravo,Compressor,,Explosion,Low,Yes,-99,UNKNOWN,Pipeline Junction,Kathleen Padilla,
+7c593a63-59b6-4376-9a59-3624e91f306c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:15,Equipment Strike,Critical,Yes,1,Maintenance,Wellhead,Jay Allen,Margaret Lee
+b49a98dd-75e7-4a7d-af5a-fec046afbf17,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:55,Chemical Spill,Low,No,13,Maintenance,Control Room,Sydney Henderson,Frank Hill
+61af6d23-45aa-4b08-aa25-a7f3e1856a4d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:17,Fall,Low,Yes,17,Engineering,Wellhead,Brian Beard DDS,Robert James
+8fb999c7-49c2-41de-8c94-09368afa7b38,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:19,Chemical Spill,Medium,No,25,Operations,Pipeline Junction,Valerie Simmons,Vanessa Bryant
+2a675036-2fc3-4679-9b35-07a9f3139a9e,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Explosion,Medium,No,-99,UNKNOWN,Control Room,Bobby Davis,
+1086a31d-6cb3-4ad4-82b8-9930d374880e,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:48,Gas Leak,Medium,No,11,Operations,Control Room,Abigail Beck,Justin Bates
+1982b927-6519-493d-b024-29abe1e776f0,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Chemical Spill,Critical,Yes,-99,UNKNOWN,Pipeline Junction,Sierra Gilmore,
+b1466dde-3324-40f3-a708-ffbfdc92d066,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:43,Chemical Spill,Medium,No,18,Engineering,Storage Area,Stephanie Ramsey,Karen Griffin
+d687fadf-2179-4da4-bf89-ef63c52e9ce9,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:11,Equipment Strike,Medium,No,20,Engineering,Pump Station,Nichole Williams,Julia Smith
+25096249-49e8-4b70-a886-37e9541ae7e8,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:19:30,Fire,Medium,Yes,22,Engineering,Compressor Area,Christopher Noble,Angela Carpenter
+b448777f-1514-493a-87d5-3f03f1164c4c,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:14,Explosion,Low,Yes,7,Maintenance,Pipeline Junction,Monica Caldwell,Krista Thompson
+4273c194-521b-4764-a1d6-75aea71945f6,COMP-201,Forcados Field,Team Bravo,Compressor,,Fire,Medium,No,-99,UNKNOWN,Pump Station,Deborah Sanchez,
+53ef55b1-3108-48c4-b458-e2ae5f380087,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:14,Fire,Medium,No,28,HSE,Wellhead,Leslie Hunter,Susan Little
+9f41fbaa-8785-4bc6-bb3d-cd1036e0966f,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:40,Fall,Medium,No,10,Engineering,Storage Area,Nathan Walker,Sheila Ortiz
+6873b2de-62a0-4d97-990e-c7c8e6f59453,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:21:11,Gas Leak,Medium,No,16,Logistics,Wellhead,Alicia Coleman,Denise Parker
+c3d05750-8f0d-4952-ba31-700431e8c266,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Fall,Medium,No,-99,UNKNOWN,Storage Area,Robert Washington,
+347b86c9-1872-4a2b-af7f-4ca48418b00a,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:25,Equipment Strike,Low,Yes,12,Logistics,Control Room,Alex Rios,Mark Patel
+4e486f46-29db-45dc-a006-26ca679ff81e,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:37,Chemical Spill,Critical,Yes,9,Logistics,Pipeline Junction,Zachary Evans,Julia Johnson
+8b45964f-4a5b-4313-a036-d660e284521d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:10,Chemical Spill,Low,No,11,Logistics,Compressor Area,Eric Adkins,Mark Ortega
+1c4654e6-cbec-483c-9079-ff3e1ad0b840,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Fall,Critical,No,-99,UNKNOWN,Storage Area,John Thompson MD,
+25dc4a92-4c12-4ad3-850c-41653273cf17,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:21,Explosion,Critical,No,0,HSE,Pipeline Junction,Miranda Rubio,Richard Cook
+f6118cd3-ca5f-4339-b42c-a6c4f0a68c0a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:32,Equipment Strike,Medium,Yes,18,Maintenance,Compressor Area,Peter Garza,Michael Morrison
+44f7880f-0071-428f-ad72-617890d7825d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:33,Explosion,Low,Yes,28,HSE,Pipeline Junction,Ashley Moore,Susan Durham
+0d7d2b5e-9b11-4f67-8cb7-2a620d1a4852,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:37,Equipment Strike,High,Yes,30,HSE,Storage Area,Carolyn Pierce,Luis Richard
+681c53e1-55a2-4e5f-a747-6b88e116931f,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Fall,Critical,Yes,-99,UNKNOWN,Wellhead,Steven Stein,
+6bb70257-ccda-4032-92ff-a330886e195d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Equipment Strike,Medium,No,-99,UNKNOWN,Storage Area,Alexis Wagner,
+461e5589-1aa6-4102-a925-6b9148efc403,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:18,Fall,Medium,No,3,HSE,Storage Area,Jessica Miller,Mrs. Melissa Sanders DDS
+1fa5dedd-4298-4121-82db-4d3f56bf5a3f,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:40,Fire,Medium,No,13,HSE,Compressor Area,Sydney Morales,Dakota Armstrong
+43705608-b558-4c43-b5d3-9f8985c5dc8c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:09,Equipment Strike,Low,Yes,13,Engineering,Pipeline Junction,Ian Barker,Calvin Haynes
+7e42d0be-5e00-4953-a3a9-9253bb41ab6b,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:18,Equipment Strike,High,Yes,9,Operations,Storage Area,Jesus Mendoza,Tyler Drake
+a5ede024-e1f3-4222-bc72-00869fea98ae,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:27,Gas Leak,High,No,29,Operations,Compressor Area,Brooke Owens,Christina Gutierrez
+15ad7eca-5e46-4ebb-8a17-d4cbc14ac933,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:20,Fire,Critical,No,16,Maintenance,Compressor Area,Kara Cline,Amy Hall
+bebabd86-d8a5-486b-b500-b7d94296e27d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:43,Explosion,High,Yes,17,Logistics,Wellhead,Terrance Miller,Kathy Burgess
+851a3d92-42a0-463f-8e73-ff673d7509fa,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:53,Equipment Strike,Medium,No,25,Maintenance,Compressor Area,Miguel Ortiz,Jennifer Guerra
+65074470-7c40-4009-bcdd-b86a857ae95b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:09,Fire,Critical,Yes,19,Operations,Control Room,Bradley Lewis,Steven Hart
+b8928611-c153-4e49-89d7-1e2579f5bea9,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:04,Gas Leak,High,Yes,30,Maintenance,Compressor Area,Sarah Ortiz,Charlotte Stevens
+6c7eaa86-b478-4a8b-91b1-ebeaf68622f7,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:20,Explosion,Medium,Yes,25,HSE,Wellhead,Carlos Rodriguez,Kayla Summers
+f9905333-98ad-46d8-9b85-93dfc02a1e25,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Gas Leak,High,No,-99,UNKNOWN,Wellhead,Randy Stevens,
+e4eadf59-4e66-4ded-98ab-918d6d788753,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:44,Equipment Strike,High,Yes,17,Engineering,Compressor Area,Kyle Perkins,Robert Hood
+2701563b-68b9-46df-a643-117e548be8a3,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:26,Fall,Critical,Yes,5,HSE,Pipeline Junction,Ms. Melissa Miller,Alan Jones
+093a179c-d2a2-4885-907c-0f3dd589f8c2,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:21:08,Fire,Low,No,17,HSE,Wellhead,Kristin Stone,Mrs. Ellen Davis MD
+3981758d-1ffb-4709-a38b-051afc47c1cb,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:15,Equipment Strike,Low,Yes,21,Logistics,Pump Station,Kimberly Phelps,Andrea Flores
+d98c064f-6dda-4f9f-8be2-9e2b2d3ea653,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:04,Equipment Strike,High,No,14,HSE,Wellhead,Jackson Larson,James Cannon
+40132585-978e-4c48-b16d-d41eaca10033,COMP-202,Forcados Field,Team Bravo,Compressor,,Equipment Strike,Critical,Yes,-99,UNKNOWN,Pipeline Junction,Jay Graham,
+49738c55-5c3c-4f25-8f19-29267fdf58b8,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:40,Chemical Spill,High,Yes,23,Operations,Pipeline Junction,Vincent Lozano,Charles Hayes
+9b387b32-69f5-45ec-b5bf-ddf7f0ed7438,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:02,Chemical Spill,Critical,Yes,4,Operations,Control Room,Denise Holmes,Katie Lee
+690ba101-9351-4545-b22e-c32ae7c21612,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:21:07,Explosion,Medium,No,1,Operations,Pipeline Junction,Michael Martin,Sarah Gibbs
+d12c2bfe-a2ae-4379-8876-99a9bea9936e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:29,Chemical Spill,Low,Yes,17,Maintenance,Wellhead,Calvin Nguyen,Johnny Smith
+33b8febd-6886-45b2-9b55-55a751c8076a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:51,Chemical Spill,Medium,Yes,8,HSE,Pump Station,Stacey Wolf,Patrick Stevens
+8bd9d0ee-c341-40dd-97e2-bcb64a724faa,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:28,Explosion,Medium,Yes,2,Maintenance,Control Room,Sarah Reyes,Benjamin Sanchez
+0656b4c4-89eb-4584-86ca-ed0b7d7b9768,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:21:22,Fire,Medium,No,10,Maintenance,Wellhead,Jose Miller,Sonya Carlson
+a2094080-f880-4025-9b23-ab31ed94cb95,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:09,Gas Leak,Medium,Yes,9,HSE,Wellhead,Daniel Cook,Lorraine Hernandez
+7143aec7-6f9d-4166-b252-ffd3eee1be7c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:21:21,Chemical Spill,Low,Yes,19,Maintenance,Control Room,Michelle Alvarado,Joseph Williams
+67670e30-3631-4e5a-8cc8-2a5c3ac1152e,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:32,Fall,High,No,24,Operations,Pump Station,Robert Hernandez,Amy Brown
+ccaf7ac2-c77c-4f16-8970-53fa0fa5370d,COMP-201,Forcados Field,Team Bravo,Compressor,,Gas Leak,High,No,-99,UNKNOWN,Wellhead,Katrina Ferguson,
+3a3d83cf-bf48-4682-9559-ce08fd65a864,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:37,Equipment Strike,High,Yes,27,Operations,Storage Area,Sandra Lynch,Victoria Peters
+e6a71082-a395-4666-901d-fd0ea09790ba,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:30,Gas Leak,Critical,Yes,12,HSE,Wellhead,Kristin Rice,Jackie Flores
+b49c7d9c-8019-470c-acd1-849dc0f7d75a,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:01,Fall,Low,No,4,Engineering,Compressor Area,Joanne Bradley,Connie Bishop
+2ee0e522-a575-4b0b-8a2e-68e5c103192b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:55,Equipment Strike,Low,No,29,Engineering,Pump Station,Jessica Burke,Benjamin Herring
+dfdc0c32-c7d1-49c4-bed2-80de6883cda4,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:41,Explosion,Low,No,3,HSE,Compressor Area,Jennifer Jones,Veronica Dean
+118f80ff-f882-49b7-bf65-dfc3017903b3,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:05,Explosion,Critical,Yes,12,Maintenance,Wellhead,Megan Martinez,Keith Moreno
+304c6a9d-f4c6-4f75-9b0d-4bb554264711,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:51,Chemical Spill,Medium,No,6,Maintenance,Pipeline Junction,Ruben Hill,Aimee Simpson
+55d4907c-2450-4155-bd52-aa0e7c7fa52a,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:05,Fire,Low,No,14,Engineering,Wellhead,Emily Simpson,Sara Brennan
+70ac1dde-d1e8-4360-8b22-2ef349faaa79,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:54,Chemical Spill,Critical,No,5,Engineering,Pump Station,Debbie Chambers,Jennifer Kent
+e6c6d97f-345d-468c-859e-ecc542612ae3,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:18,Gas Leak,Low,No,5,Logistics,Storage Area,Amber Bartlett,Frank Munoz
+6b53b396-ef7f-434d-894e-763f147999b7,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:23,Equipment Strike,Medium,Yes,18,Logistics,Storage Area,Michelle Thomas,Monica Bailey
+bb145e05-684a-4063-889a-34477233537b,COMP-201,Forcados Field,Team Bravo,Compressor,,Chemical Spill,Low,Yes,-99,UNKNOWN,Pump Station,Andrew Mason,
+1a82dd0e-512e-40e7-abd8-d423bca20c33,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:53,Explosion,Medium,Yes,12,Engineering,Storage Area,Kimberly Foley,Brian Taylor
+eaf1fbf8-26af-4859-994d-6c5a887454bf,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:43,Gas Leak,Critical,Yes,2,Engineering,Pipeline Junction,Kristen Freeman,Paul Rose
+2a3e0dcb-249f-45f2-b545-ece46bf025dc,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:14,Chemical Spill,Critical,Yes,0,Engineering,Compressor Area,Matthew Gray,Timothy Young
+d9db1336-9ac5-45f4-8b5d-7dd89e24ab2c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Chemical Spill,High,Yes,-99,UNKNOWN,Compressor Area,Maria Gibson,
+f077444b-56fc-448d-9884-12eb17fcded4,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:21:25,Equipment Strike,Medium,No,5,Operations,Compressor Area,Rachel Richards,Heather Gregory
+93ec85a4-b45c-4009-afc0-86bab78ecc73,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:00,Explosion,Medium,Yes,25,Maintenance,Wellhead,Joshua Gutierrez,Linda Perez
+a116bcbb-6e45-493e-9e6f-db235adcb8f8,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:47,Explosion,Medium,No,12,Operations,Storage Area,Derek Brooks,Melinda Gonzalez
+422e547e-208c-41b2-870b-0b3119ba65c6,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:29,Chemical Spill,Low,No,25,Maintenance,Compressor Area,Anthony Bennett,Denise Daniels
+37ffbf30-dcc2-4c3c-906c-183d2fb0825d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:43,Explosion,Critical,Yes,1,HSE,Storage Area,Jodi Mcfarland,James Brown
+a2f010c4-6941-4e3a-8621-4cd910848dd4,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:43,Fire,Medium,No,5,Operations,Pipeline Junction,Deborah Johnson,Barbara Mata
+f992c3d4-36e3-4d5a-95e8-3275764594ba,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:00,Explosion,High,No,4,Maintenance,Control Room,Michael Allison,Mrs. Jamie Carter DVM
+85b05b0b-edd0-4b3e-bf0d-583692e201c8,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:18,Fire,High,Yes,1,Logistics,Control Room,Mary Thomas,Robert Cole
+8a238fe4-e8bb-45d1-9774-695b91531a9b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:34,Fall,Low,No,23,HSE,Control Room,Melanie Moss,Jacqueline Bryant
+ae305b29-f2b9-4c18-9e3f-cb48028f7435,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:13,Explosion,Critical,No,6,Logistics,Pump Station,Virginia Pearson,Laura Cordova
+5fe598ba-cf9f-4c2e-90b5-916e058834a4,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:53,Explosion,Medium,Yes,17,Engineering,Compressor Area,David King,Courtney Stewart
+91d78c7f-bd97-41da-ada1-b646e5ba51de,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:52,Fall,Medium,No,15,Maintenance,Storage Area,Cynthia Johnson,Matthew Mccarthy
+70c13598-6f54-4641-8eab-88bf1c4adaa9,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:43,Gas Leak,High,No,3,Maintenance,Control Room,Natalie Bradley MD,Jennifer Diaz
+27ac1284-aa4c-4274-8a34-42828ee7eed9,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:56,Gas Leak,Low,Yes,16,HSE,Pump Station,Amanda Escobar,Frank Ortiz
+cc5e0120-0621-4660-937b-9d44cdb476c3,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:21:15,Chemical Spill,Medium,No,24,Maintenance,Pipeline Junction,Sheila Wu,Robert Baker
+8ddb1232-2204-484e-93e8-920109cc0b38,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:20,Explosion,Low,Yes,10,Operations,Control Room,Matthew Brown,Brian Ramos
+f206f111-085d-44e2-aaaa-0f3bc3574d80,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:16:29,Explosion,High,Yes,24,HSE,Control Room,Christopher Miller,Mr. Michael Edwards
+ed0ab5d4-8579-4f42-8bf1-586e4c3005d5,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:06,Explosion,High,Yes,12,Engineering,Pipeline Junction,Martin Delgado,Julie Jones
+f69e057e-2d86-43ac-9e78-89ec7c897d2d,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:20,Gas Leak,Low,Yes,0,Maintenance,Control Room,Lisa Willis,Robert Thomas
+71d6b23c-fc35-405a-8580-61bc07cb3cbc,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:00,Fire,Low,No,18,Logistics,Pipeline Junction,Anthony Gonzalez,Michael Sawyer
+205bd16c-0a0d-44f4-b90d-b348eb1eb869,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:53,Equipment Strike,Medium,Yes,13,Maintenance,Storage Area,Laura Smith,Denise Acevedo
+db9d7e7d-c16e-410e-ba1c-3c6d5ca8c376,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Equipment Strike,Medium,Yes,-99,UNKNOWN,Storage Area,Summer Howell,
+66bbcfd7-163e-42ec-abf2-4d183e097d5b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:34,Equipment Strike,Low,No,25,HSE,Wellhead,Linda Fox,Michael Becker
+810ec148-57da-4364-a490-2dc2d140f97e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:40,Chemical Spill,Low,No,26,HSE,Control Room,Molly Woods,Sandra Cook
+9a62851d-9311-49d8-9bb7-83ba0f109efa,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:45,Fall,Low,No,0,Logistics,Storage Area,Michael Steele,Henry Hardin
+cfc64869-aee4-4508-ab15-ee8b224f35d2,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:38,Gas Leak,Low,Yes,24,Logistics,Pipeline Junction,Ashley Garcia,Mark Olsen
+3fd6266b-c934-4aa7-8a7c-a3be8d2b8faf,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:48,Fire,High,No,2,Engineering,Wellhead,Patricia Delgado,Melissa Juarez
+8d8cc476-8027-4c8f-8e6c-94291618704a,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:14,Explosion,Low,Yes,10,Engineering,Pipeline Junction,Joshua Branch,Jeremy Vaughn
+f0747fbe-d9a0-4581-b54a-8010a978904b,COMP-201,Forcados Field,Team Bravo,Compressor,,Fall,Critical,Yes,-99,UNKNOWN,Pipeline Junction,Steven Marsh,
+69c4d751-5960-4885-bb49-211d31e754ca,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:42,Fall,Critical,Yes,10,Logistics,Pipeline Junction,Gavin Richardson,Timothy Taylor
+ce13a98e-ee91-4ea9-a119-c455e0b9ad4e,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:10,Chemical Spill,Medium,Yes,28,Engineering,Compressor Area,Christopher Jordan,Emily Li
+d0c60718-35d2-4912-9338-bf76115e885b,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:46,Chemical Spill,Critical,No,16,Operations,Control Room,Barbara Thomas,Dr. Brian Morgan
+c8b3aacc-0ea1-4058-9e1a-44f37de9ccc7,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:59,Chemical Spill,Medium,Yes,12,Engineering,Compressor Area,Stephanie Ward MD,Gabriel Everett
+358d7d1c-7487-416f-a906-35cd10b97fbe,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:38,Gas Leak,Medium,No,13,Logistics,Storage Area,Kevin Boyd,Madeline Lang
+c1f041f0-5576-433b-85a2-1d1a50f3bb21,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:19,Fall,Critical,No,14,Engineering,Pump Station,Taylor Valdez,Sarah Bailey
+5eb92c93-42f8-447e-a6a1-76b461166fd5,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:40,Gas Leak,Critical,No,26,Maintenance,Control Room,Zachary Reese,Melvin Herring
+6aa17abc-d009-473e-8913-bc3749d774c2,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:08,Equipment Strike,Medium,No,24,Engineering,Pipeline Junction,Thomas Garcia,Melissa Wallace
+f116a4e3-3b7c-448d-a3ea-431d1647a1a7,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:20,Explosion,Low,No,20,Operations,Pump Station,Carlos Morton,Lori Smith
+79221dbf-2487-44cf-a139-0474f3cf294a,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:00,Explosion,High,Yes,17,Engineering,Pump Station,Janice Hunt,Nicholas Jones
+49732db2-f451-40d4-b2cc-dc26411e0b3b,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:21,Gas Leak,Critical,No,9,Logistics,Pump Station,Jodi Hudson,Erika Soto
+5b8eef36-9fb8-43f8-a095-08c8ad37972e,COMP-201,Forcados Field,Team Bravo,Compressor,,Equipment Strike,Critical,No,-99,UNKNOWN,Pump Station,Randy Hunt,
+cc7a1924-6682-4ded-b1a3-6f980ac4f654,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:01,Equipment Strike,Medium,Yes,11,Engineering,Storage Area,Terry Casey,Kaitlyn Obrien
+4a559d63-3412-403d-bda7-112dabf68bba,COMP-201,Forcados Field,Team Bravo,Compressor,,Fire,Critical,No,-99,UNKNOWN,Pump Station,Scott Johnson,
+9c09ed74-b832-43dd-acc3-4e096e8a6f7c,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:27,Explosion,High,Yes,7,Logistics,Wellhead,Robert Grant,Rebecca Williams
+01e90e8e-2fb3-4cc1-9ced-d2c0762901fa,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:25,Fall,High,Yes,4,Engineering,Compressor Area,Kyle Moyer,Lindsay Parks
+ec302dce-e75b-4b0c-aaf3-e93c5d690b16,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:42,Fire,Critical,No,19,Logistics,Pipeline Junction,Dr. Nathan Thomas,Tamara Matthews
+bbdb43e9-48fa-401c-bc35-f1ce21c4b51f,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:59,Fall,High,No,20,Maintenance,Pipeline Junction,Casey Hawkins,Rebecca Gentry
+a5a79e35-39c5-43aa-b3b3-bfad89234a5c,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:58,Fire,Critical,No,2,Logistics,Pump Station,Michelle Parker,Aaron Miller
+9e0018db-97c2-4f36-b931-676d22212dbc,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:09,Fall,Medium,No,28,HSE,Storage Area,Carrie Barnett,Erika Lee
+ea809b61-cd2b-42e1-8099-a4da354a7e77,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:13,Chemical Spill,High,Yes,20,Logistics,Pump Station,Natalie Avila,Denise Andrews
+d777a0cf-7bc0-4baa-b633-134e9cac3b70,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:40,Fall,Low,No,7,Logistics,Compressor Area,Tanya Smith,Melissa White
+be8486e3-5e85-4737-b42d-53447b4a5733,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:15:48,Fire,High,Yes,13,Maintenance,Compressor Area,Diane Johnson,Philip Alexander
+95119416-659c-4937-8498-c134c3bd9e22,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:23,Fall,High,Yes,0,Operations,Storage Area,Ashley Perez,Grace Webb
+660ce605-1960-4601-ad55-ad8128e31607,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:15,Equipment Strike,Critical,No,30,Engineering,Control Room,David Davis,Richard Greene
+3706a009-1df8-4c09-b0f8-09dc56554a05,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:03,Fire,Low,Yes,18,Logistics,Wellhead,Brian Cortez,Jasmine Morris
+97017e9f-0ca1-458e-893b-d92dac9b266b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:43,Explosion,Low,No,29,HSE,Storage Area,Beth Weaver,Jennifer Burke
+a4fdb3fb-6c8b-4d8a-a325-5fd8f7ae8253,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:23,Gas Leak,Medium,No,5,Maintenance,Wellhead,Kayla Schaefer,Alan Anderson
+9e89bb1f-8e9d-4c17-b428-2c82f8d55b12,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:51,Gas Leak,Low,No,4,Logistics,Control Room,Mary Velez,Thomas Anderson
+399fc3cb-fd1d-41ee-9220-1d824da1be27,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:06,Fall,Medium,Yes,9,Logistics,Compressor Area,Adam Evans,William Crawford
+65a1e01f-74af-42e4-8c12-7841e1f07f83,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:23,Fall,Low,Yes,12,Maintenance,Storage Area,Maurice Wilson,Andrew Williams
+b6050a41-591a-454f-ac80-d0396298692a,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:47,Explosion,High,Yes,14,HSE,Compressor Area,Robert Mcgrath,Denise Weeks
+4a7a1934-0183-4367-8052-8de793e957ee,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Equipment Strike,Critical,Yes,-99,UNKNOWN,Wellhead,Rebecca Spencer,
+3aa06629-a278-443b-a85c-b198ea220ed2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:11,Gas Leak,High,No,11,HSE,Pipeline Junction,Luke Thompson,Kimberly Miller
+a23ce98c-68e7-426c-a4d6-1ff8ef45c622,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Chemical Spill,Low,No,-99,UNKNOWN,Pump Station,Jill Cook,
+e93ebfe6-5b2a-4557-95d9-9fc16cdbe332,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:38,Gas Leak,High,Yes,28,HSE,Storage Area,Jean Ryan,Shannon Harris DDS
+67b51958-04e1-46a1-ae77-58917a096640,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:21:03,Chemical Spill,Critical,No,19,Logistics,Pipeline Junction,Mr. Raymond Morton,Kathy Perez
+3fdfe1f0-bf66-4d8e-ad38-e59f874e49be,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:19,Explosion,Critical,Yes,14,Engineering,Compressor Area,Tiffany Finley,Lee Reed
+56f032bc-4dce-4838-bdcd-9a4ce4034d36,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:41,Explosion,Critical,No,1,Logistics,Wellhead,James Patterson,Leslie Pugh
+59fb0866-6ac2-459f-8f5a-c5c1202c42db,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:43,Gas Leak,Low,No,30,Operations,Pump Station,Jerry Bradford,Kristen Bailey
+6ec988c2-d4e1-4f4a-b18c-3825a21d1950,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:42,Gas Leak,High,Yes,0,Maintenance,Pipeline Junction,Joseph Yu,Haley Williams
+2eea3a65-0150-452f-9b40-8e9a4ba8c492,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:10,Fire,Low,No,3,Maintenance,Compressor Area,Robert Rodriguez,Maria Greene
+609826c1-0a15-4994-bed4-22c7d45151dd,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:39,Explosion,Medium,Yes,9,Maintenance,Control Room,Stacey Duncan,Caroline Frazier
+d0697124-ef5b-4d53-8aec-4ec6f78eaeb2,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Fall,Critical,Yes,-99,UNKNOWN,Pipeline Junction,Steven Peterson,
+2632bf55-48f1-4e26-9a5d-6484dec24d10,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:00,Equipment Strike,Critical,No,12,Engineering,Storage Area,William Edwards,Christina Morton
+8b801693-0e06-4410-a033-647c681fd820,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:13,Chemical Spill,High,Yes,6,Maintenance,Compressor Area,Timothy Rogers,Adrian Fowler
+4c9d6a9a-5b0d-4deb-9294-70439fcb198a,COMP-201,Forcados Field,Team Bravo,Compressor,,Equipment Strike,Critical,Yes,-99,UNKNOWN,Pipeline Junction,Kristin Baker,
+6a844eda-f9a2-4daf-b74a-de546f859569,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:35,Fire,Medium,Yes,14,Maintenance,Control Room,Meagan Williams,Michael Dean DDS
+f538d0dd-b935-474c-a922-a962f6ac5b80,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:20,Equipment Strike,Low,Yes,6,Maintenance,Pipeline Junction,Rebecca Morris,Paul Abbott
+47b2a046-01f5-4fbe-8da9-94ed61be3c1a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:27,Equipment Strike,Low,Yes,6,Maintenance,Compressor Area,Deanna Tran,Ashley Vasquez
+5eb8427e-8cd6-4eb4-b70f-9c9432589ded,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:09,Chemical Spill,Low,No,25,HSE,Wellhead,Elizabeth Lewis,Aaron Villarreal
+99ebd99b-6030-4c82-85a8-3faf558eb4ad,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:36,Chemical Spill,Medium,No,28,HSE,Pipeline Junction,Jonathan Freeman,John Pearson
+4c4d842e-de14-42df-afd0-3ed82ed5b164,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:40,Explosion,High,No,3,Maintenance,Pump Station,Steven Walker,Roger Thompson
+b027f106-dc03-4398-a9ae-57e7ff3f871e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:28,Explosion,Critical,No,9,Logistics,Pipeline Junction,Benjamin Flores,Julie Walker
+693e3cab-f00c-4856-bf72-79d578f31a30,COMP-201,Forcados Field,Team Bravo,Compressor,,Fire,High,Yes,-99,UNKNOWN,Pipeline Junction,Gloria Oliver,
+e027b3c3-b5fe-43a8-bf07-20659d558832,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:50,Chemical Spill,Medium,Yes,28,Logistics,Wellhead,Jorge Smith PhD,Tracy Porter
+d492c46b-2eed-4755-b89a-7fb3798976ef,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Fall,Low,No,-99,UNKNOWN,Control Room,Mrs. Christina Russell,
+c66544fb-bd3b-4a68-8864-aa92e3edced5,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:22,Gas Leak,Critical,Yes,14,Maintenance,Control Room,Holly Lee,Charles Munoz
+39fed2c7-24e1-47c7-891b-c2417636d60c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:50,Fire,Critical,No,13,Logistics,Compressor Area,William Farmer,Stephen Martin
+823d3047-0c32-48b2-aac4-e107269f9cca,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:20,Explosion,Medium,No,28,Logistics,Pump Station,Larry Taylor,Tina Zimmerman
+3a13e3eb-ea07-498b-9288-8638509bda88,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:04,Gas Leak,Low,No,20,HSE,Pipeline Junction,Joshua Nichols,Lori Jordan
+5052e190-0f0d-44b3-b217-4aa89fc0900b,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:16,Equipment Strike,Medium,No,2,HSE,Storage Area,Larry Potter,Andrew Lewis
+2f5e774d-2a81-4a76-bc8b-ef37321afff2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:48,Gas Leak,Medium,Yes,5,Operations,Storage Area,David King,John Jackson
+6b183219-1725-4769-977c-8a36e8a0bce5,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Fall,Medium,Yes,-99,UNKNOWN,Pump Station,Jennifer May,
+83fa8527-6006-41cc-a8be-d25c02f92fa2,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Explosion,Medium,Yes,-99,UNKNOWN,Compressor Area,Jimmy Ayala,
+ba4b88b1-2023-45c3-bc19-6eba243a2cd8,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:21:25,Equipment Strike,Low,Yes,0,Logistics,Compressor Area,David Walker,Colton Phillips
+c419a864-1d91-4406-85ed-846b952fbd3f,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Explosion,Low,Yes,-99,UNKNOWN,Pipeline Junction,Susan Lewis,
+44db1bc3-7766-4ee9-beb0-d499187973f3,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:21:15,Equipment Strike,High,No,24,Logistics,Compressor Area,Jordan Wyatt,Ronald Allen
+096c276e-1ff9-4aa4-ba66-020824602569,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:26,Gas Leak,Low,Yes,15,Operations,Storage Area,Allison Rosario,Jeremy Frederick
+befd5805-cfd2-4852-8ade-94ba76750cc5,COMP-202,Forcados Field,Team Bravo,Compressor,,Fall,Low,No,-99,UNKNOWN,Pump Station,Aaron Gonzalez,
+7e3b8ee4-2403-45b1-a522-da4950e7ece6,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:28,Fire,High,No,24,HSE,Pipeline Junction,Peter Rodriguez,Daniel Blackwell
+6293eb8b-1127-4d7a-ab48-6d6c68cffec0,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:08,Fall,High,No,20,HSE,Compressor Area,Jennifer Fox MD,Mr. Billy Pacheco MD
+aa7c579f-2359-4d21-a217-980c72d9655a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:14,Gas Leak,Low,No,1,Engineering,Compressor Area,Donald Mccullough,Catherine Ball
+06529065-7ed4-42b2-8763-cd9d51439e2c,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:21,Fall,High,Yes,1,HSE,Control Room,Mary Gomez,Caitlin Anderson
+b64c7177-d975-4e23-8759-02b40a4ecf96,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:19:57,Explosion,Medium,Yes,27,Engineering,Wellhead,Margaret Rodriguez,David Phelps
+8b04eb13-ed61-49b5-9e23-3f555edeffae,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:56,Chemical Spill,Medium,Yes,18,Maintenance,Storage Area,Luis Francis,Christopher Williams
+2fb98fe3-18e5-443f-b701-fc6776b1866f,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:18,Fall,Low,No,12,HSE,Pump Station,William Golden,Steven Cummings
+2c4b6ab3-6d17-48c2-b903-ed003e785805,COMP-201,Forcados Field,Team Bravo,Compressor,,Gas Leak,High,No,-99,UNKNOWN,Control Room,Ryan Butler,
+a791e1f5-7c4e-47f9-9c31-f1ddb24a317b,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:29,Gas Leak,Low,No,12,Operations,Pump Station,Teresa Roy,Kelly Oliver
+e2eece16-10f6-4df3-b24a-2cf2dcf148c6,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:30,Explosion,Medium,Yes,6,HSE,Compressor Area,Nicholas Schmidt,Paula Reynolds
+9c489b6b-9311-47a8-abda-8ec1b4bfca43,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:21:26,Equipment Strike,Low,No,30,Maintenance,Compressor Area,Brianna Jackson,Megan Garcia
+747d760b-9513-445f-8514-f2006ffdcc38,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:10,Fire,Low,No,28,Logistics,Storage Area,Christopher Orozco,Tyler Park
+c992c3e1-f24b-4e67-9aaa-f83dac3c2960,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:26,Fire,Low,Yes,23,HSE,Control Room,Kathy Brown,Gregory Conley II
+e43e0958-259c-4e3d-8e3f-07e94d1a8354,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:17,Equipment Strike,Low,Yes,6,Operations,Storage Area,James Ferguson,Kayla Allen
+6d9f4b30-cd2b-454b-ba8c-091c2c10cbb0,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:43,Fire,Low,Yes,28,Engineering,Storage Area,Matthew Griffin,Gary Schmidt
+6ed89d0c-bbe1-4e09-b4a1-4f84f4b94510,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:19,Chemical Spill,Low,No,4,Operations,Control Room,Nicole Miller,Natalie Allen
+20dd1950-399e-4d98-a473-c9f2f6602a66,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:19,Equipment Strike,Critical,Yes,25,Logistics,Compressor Area,Kara Carroll,Jennifer Richardson
+b0cdaa0a-cc1b-4cb8-86f0-932f63f2bc80,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:40,Chemical Spill,Critical,Yes,18,HSE,Storage Area,Daniel Hill,Robert Villa
+833e29e9-a160-4042-9a32-5a4057bdd11f,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:56,Explosion,Low,Yes,29,Logistics,Control Room,Gary Johnson,Steve Ball
+15607ee3-0f87-44c3-8cee-e2b71f5f1eac,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:19:46,Chemical Spill,High,Yes,9,Logistics,Control Room,Jesse Torres,Michelle Williams
+e76b6a3a-3300-4b37-ad96-c37cd1d1a473,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:02,Fire,High,Yes,21,Maintenance,Control Room,Nicholas Wilson,Kristin Webb
+c376d3c7-fd12-43ee-96f5-98f0f7591385,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:17,Fall,High,No,11,Maintenance,Storage Area,Curtis Porter,Christopher Lopez
+69e68197-1be4-47ff-861e-94425c26bb92,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:31,Explosion,High,No,23,Maintenance,Pipeline Junction,Laurie Washington,John Hughes
+05b19d71-9b90-4e5c-a26a-935f09a28d86,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:15:52,Explosion,Low,Yes,6,HSE,Storage Area,Theresa Lawson,Anthony Jones
+29982c4d-db2b-49e0-801d-c0c468b6c983,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:39,Fire,Low,No,9,Operations,Compressor Area,Mr. Michael Sutton,Wesley Williamson
+90c38ee6-1815-4326-b0b8-2b94cc42a4d8,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Gas Leak,Medium,No,-99,UNKNOWN,Wellhead,Luke Allen,
+dd6f4a90-ff48-4ec5-ac3b-9d863986c5b9,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:38,Gas Leak,Critical,No,1,Operations,Pump Station,Cassandra Turner,Brian White
+0c0cf092-c10f-4b74-85d6-217ae169deda,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Gas Leak,High,No,-99,UNKNOWN,Wellhead,Christopher Hall,
+9a48f28e-4565-4ae0-84ae-c9eb56c880b0,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:19:48,Fall,Low,Yes,22,Engineering,Wellhead,Eileen Miles,Nicole Diaz
+29e5a563-926c-4c70-b33b-4b0d21341b58,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:31,Equipment Strike,Medium,Yes,12,HSE,Wellhead,Tammy Yoder,Logan Ballard
+771b929a-89d2-4831-9516-acaf9d4b91a1,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:21:12,Explosion,Critical,Yes,19,Maintenance,Wellhead,Robin Hughes,Nancy Spencer
+9bd19d2d-4a7f-4275-8ff1-f514e5c7e391,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:11,Fire,Low,No,29,HSE,Pipeline Junction,Clayton Silva,Melissa Davis
+ac9b3a34-d645-4730-92ae-27c7aef8b0a6,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Equipment Strike,Critical,No,-99,UNKNOWN,Wellhead,Thomas Davis,
+69cc22dc-c605-414a-8e68-4586d2292730,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:16,Explosion,Medium,Yes,21,Engineering,Wellhead,Michelle Vazquez,Virginia Odonnell
+74cf55c6-8685-4e42-ae47-a7caed07a8be,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:52,Explosion,High,Yes,30,Logistics,Control Room,Robert Price,Spencer Jones
+b33da5af-7c92-4572-b298-6ff8a63f2b29,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:36,Fall,Low,No,23,Operations,Control Room,Sherry Valdez,Christopher Garcia
+4d55912d-cf49-4438-98ed-b968ae636d1c,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Equipment Strike,Low,No,-99,UNKNOWN,Wellhead,Amanda Davis,
+bd8640ff-ebc4-4150-8e85-f17901aac65d,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Gas Leak,Critical,Yes,-99,UNKNOWN,Pipeline Junction,Barbara Evans,
+918710b4-1898-4b81-937f-d2d68bce9328,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:12,Gas Leak,Critical,Yes,29,Maintenance,Compressor Area,Michael Lawrence,Anthony Bishop
+0996c482-774b-415f-895c-4f3427c8aead,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Gas Leak,Critical,Yes,-99,UNKNOWN,Pump Station,Michael Santos,
+980b8b13-9316-4a1b-a0e1-1a223171f7ce,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:43,Gas Leak,Low,Yes,4,HSE,Pump Station,John Jackson,Elizabeth Jones
+c48de09b-87de-4f1a-bc44-3907d12945f9,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:50,Fall,Critical,No,8,Operations,Pump Station,Pamela Bolton,Zachary Reed
+acd6f1e5-9855-4d40-87d8-4920ff2a9de5,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Equipment Strike,Medium,Yes,-99,UNKNOWN,Pipeline Junction,Angelica Mcneil,
+6133668e-d990-420b-8f67-f5b7b8ed1b40,COMP-201,Forcados Field,Team Bravo,Compressor,,Chemical Spill,High,Yes,-99,UNKNOWN,Pump Station,Amanda Gross,
+3fc6cbd7-af8e-4288-ba96-1424343f5be6,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:11,Equipment Strike,High,Yes,28,Engineering,Pump Station,Dwayne Stevens,Angela Bean
+dcf5919c-0936-4680-a5fd-2c309bcede9e,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:46,Fall,Critical,No,10,Engineering,Storage Area,Rebecca Harris,Melissa Barnes
+1dace7af-2d98-4c09-8ef6-a9ec43bbaa8d,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:03,Fire,High,No,20,HSE,Control Room,Brittany Woods,Kristina Eaton
+cb5227c6-3480-4bb7-b018-26d1955d33f1,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:19,Fall,Medium,Yes,7,Maintenance,Compressor Area,Jose Robles,Gregory Bennett
+55e84e0a-6ae2-49fa-96a8-f90dc60fd013,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:19,Chemical Spill,Medium,No,29,Logistics,Control Room,Laura West,Michael Edwards
+08b8e8da-a7da-472e-b25a-93d005654cf9,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:21:16,Fall,High,Yes,28,HSE,Storage Area,Mark Curtis Jr.,Gerald Jones
+6ee7dcf4-6ed8-47c8-9f5a-93fb6a133db8,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Gas Leak,Medium,Yes,-99,UNKNOWN,Pump Station,Monique Wilson,
+edc5b15b-b39f-4126-af69-1a63e1bf6367,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:57,Equipment Strike,Low,Yes,2,Engineering,Control Room,Cynthia Wilson,Alexis Kane
+9a180fd6-1421-4d5e-bca3-6447e6a90e3e,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:21:14,Explosion,Critical,No,16,Operations,Control Room,Patrick Perez,Oscar Curtis
+15e22ced-e195-4bcc-8bd2-1f6b9934014d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Fall,Medium,Yes,-99,UNKNOWN,Control Room,Carolyn Keith,
+b25ceef7-d2be-4f45-b74f-055a19505a89,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:47,Fall,Critical,Yes,18,Maintenance,Wellhead,David Hernandez,Joe Moore
+b03bfcda-2fbe-4fa2-83da-bb40ef9f01f5,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:29,Explosion,Critical,Yes,30,Engineering,Wellhead,Jason Rodriguez,Sean Wheeler
+1fdc6654-87e6-4e79-9a08-3f2ebde7d78e,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:53,Gas Leak,High,No,30,Operations,Pipeline Junction,Drew Sanchez,Billy Greer
+eaf98e5c-5ca8-4d14-b9ca-47e9ecf30197,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:43,Fall,Low,No,20,HSE,Pipeline Junction,Shelby Klein,Maria Nichols
+1f3dc287-23f9-4aca-9ecf-42c77d93f1b6,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:00,Equipment Strike,Low,No,29,HSE,Pump Station,Angela Cook,Melissa Riggs
+7841847a-1416-4dea-9e9d-8be517d411d2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Chemical Spill,High,No,-99,UNKNOWN,Compressor Area,Rebecca Lopez,
+eade09ab-5963-441f-b099-3f05014b98c7,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:39,Fall,Medium,Yes,12,Logistics,Pump Station,Mr. Kevin Lopez,Yesenia Jones
+edc89d01-6626-42c0-9326-44feb17363b0,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:07,Fall,Medium,Yes,10,Maintenance,Storage Area,Sarah Butler,Brian Conley DDS
+30e4a493-b7e5-442c-a2fe-f4fc33f710a7,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:27,Fire,Low,Yes,23,Operations,Pump Station,Karen Black,Anthony Pruitt
+1c529c20-6d70-47b7-8a98-8eea22f93ba3,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:21:02,Explosion,Medium,No,19,HSE,Control Room,Edward King,Cindy Cole
+7cd98e90-c54a-44f7-9fdb-e071a820762e,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Equipment Strike,Medium,Yes,-99,UNKNOWN,Storage Area,Megan Johnson,
+cf5f8319-fddc-48e2-9eb7-6990b7fd69a0,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Equipment Strike,Critical,No,-99,UNKNOWN,Pump Station,Jaclyn Solis,
+923a7a37-22c5-4d86-a5cc-9f60f54b949b,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:39,Equipment Strike,Critical,No,16,Engineering,Storage Area,John Berry,Victoria Davies
+81fc0d86-fe7c-460c-9ab8-9af7c0707b85,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:36,Explosion,Medium,Yes,18,HSE,Pipeline Junction,Ian Wood,Angela Ramirez
+7648abf5-6ea3-4414-ba11-d64854acbc13,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:40,Gas Leak,Critical,Yes,21,Engineering,Compressor Area,Michelle Hanson DDS,Melissa Hill
+f945c42b-fbf9-4c8b-93c2-951b735ddb42,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:15,Explosion,High,Yes,26,Maintenance,Compressor Area,Brandi Whitehead,Linda Stone
+1aaa19b1-4aa7-45bd-8886-2ad88066f5bd,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:53,Gas Leak,Low,Yes,11,Engineering,Wellhead,Jacob Turner,Matthew Rush
+e3c80295-bc46-494d-b72e-1f0cc76f0713,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:21:09,Chemical Spill,Medium,Yes,24,Logistics,Pump Station,Matthew Huerta,Kelsey Chang
+08079d49-a6a0-4365-954f-6187a225c1f1,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:43,Fire,High,No,13,HSE,Compressor Area,Sandra Padilla,Stacey Smith
+85498b20-7479-49fe-b6e8-e9f206c2b976,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:30,Fire,Low,No,13,Operations,Pipeline Junction,Alison Evans,Paul Hahn
+81ae1062-6b02-49cf-895e-1283dbccea16,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:42,Fall,Medium,Yes,9,Engineering,Pipeline Junction,Thomas Stafford,Brittany Hopkins
+a6216bba-8adc-4885-b125-49676a375e03,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:19:18,Equipment Strike,Low,No,27,HSE,Compressor Area,James Brown,Tyler Browning
+cf1b88ec-ee90-44f8-a272-371f69aa8efd,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Fall,Low,Yes,-99,UNKNOWN,Control Room,Rhonda Vasquez,
+c4cd0abe-28b1-406e-9e16-2add2e95a50b,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:16,Fire,Low,Yes,9,Maintenance,Compressor Area,Amy Greer,Kent Fowler
+0f60766f-9e7f-4f20-84c8-abf6e66223a5,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:22,Chemical Spill,Critical,Yes,17,Engineering,Pipeline Junction,Joshua Melton,Tanner Jones
+e8723708-24a9-4e6b-9f55-a6a54511720e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:43,Gas Leak,High,Yes,30,Engineering,Pump Station,Christian Christian,Lisa Price
+353c11fd-4ccd-416b-ad12-c9ece38ced14,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:25,Gas Leak,Low,No,14,Operations,Control Room,Stephanie Anderson,William Vance
+6bb9d2d1-a7c1-4fbf-b252-55fc9d724f77,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:57,Equipment Strike,Critical,Yes,3,HSE,Pipeline Junction,Charles Watts,Beth Sandoval DDS
+7e5476e8-ca79-48b2-8ec3-76e84454a165,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:07,Chemical Spill,Low,Yes,5,HSE,Compressor Area,William Brown,Jason Stephenson
+e0d6114f-63bf-44b4-9bf9-22d08daffdf4,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:29,Fall,Medium,No,4,HSE,Wellhead,Kenneth Quinn,Elijah Brown
+ac6daf5b-14e2-4c06-9fae-c5646bab4004,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:40,Gas Leak,Critical,Yes,28,Maintenance,Wellhead,Julie Owens MD,Robert Curry
+145d27e6-f604-4556-b9d6-fcb01a4f5be3,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Fall,Critical,Yes,-99,UNKNOWN,Storage Area,Amanda Sandoval,
+df556bb2-8edb-4fbb-aebc-7d3b3c22e66f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:17,Fire,Critical,No,28,HSE,Compressor Area,Michelle Hopkins,Claire Weber
+38f1d4d4-7365-404c-ae53-2541d85c527c,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:01,Fall,Critical,Yes,25,HSE,Compressor Area,Jasmine Zamora,Karen Cox
+65d6d55d-90cd-48cc-8840-baa1add7e052,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:15:35,Fall,High,Yes,7,Operations,Storage Area,Antonio Gray,Pamela Morris
+748edd90-4f63-4643-9002-5a0a5ad57cfe,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:33,Explosion,Low,No,12,Engineering,Pipeline Junction,Kaitlyn Tran,Kelly Johnson
+64163656-c7cc-44de-99c9-0d8ebb097359,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:22,Fall,Critical,No,3,Logistics,Wellhead,Darlene Evans,William Strong
+e7649ad0-0ab2-40e8-b888-df828e16c392,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:04,Chemical Spill,Low,Yes,18,Maintenance,Control Room,Christine Brown,Amber Stevens
+2e7ee254-eb17-4658-a569-acaa3058a397,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:48,Equipment Strike,High,Yes,7,HSE,Pipeline Junction,Susan Guerra,Alexis Hawkins
+7494d0a8-fab4-4dba-b59c-9b09edb58b31,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:28,Gas Leak,Low,No,18,Logistics,Wellhead,Kyle Hansen,Brenda Krueger
+6fa6c9bf-f369-4843-b866-51959f7dd3bf,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:54,Explosion,Critical,No,10,Operations,Pipeline Junction,Alan Stephens,Ralph Maynard
+3eb2030c-f5c0-4e5d-8872-c4bb8625b1af,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:03,Explosion,Medium,No,15,HSE,Pipeline Junction,Victoria Roth,Kathleen Ward
+defcd24c-239d-4a45-b19d-c93773da2b10,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Gas Leak,Medium,Yes,-99,UNKNOWN,Control Room,Eric Mays,
+ce82428a-28dd-4944-a9a5-8bb7c5268308,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Chemical Spill,High,No,-99,UNKNOWN,Wellhead,Courtney Rogers,
+7edf9afd-6eef-440a-9d8f-f8136e22a1a1,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:51,Chemical Spill,Medium,No,29,Logistics,Compressor Area,Elizabeth Hoffman,Juan Osborn
+4a6211d1-b14a-4c50-8b65-3a085db50237,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:29,Gas Leak,Critical,No,9,Engineering,Storage Area,Nina Rodriguez,Nicholas Leach
+72e175f1-396e-4cb5-8d8f-5dc31492becb,COMP-201,Forcados Field,Team Bravo,Compressor,,Equipment Strike,Low,Yes,-99,UNKNOWN,Compressor Area,Ricky Weiss,
+afe06337-43fb-46da-9920-c6238a74ab4b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:14,Equipment Strike,Low,Yes,10,Engineering,Compressor Area,Penny Hill,Rachel Garcia
+58a39688-33f4-4b8b-8b9d-7f6854f4363d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:09,Chemical Spill,Low,Yes,29,Logistics,Wellhead,Leah Coleman,Eric Hancock
+54c32366-8234-4a40-9c20-b00e08dc5c85,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:24,Fire,Low,No,13,Logistics,Control Room,Jeffrey Booth,Denise Moreno
+1d093ab6-5cd9-49ad-9d81-da6bf9d4f845,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:53,Chemical Spill,Critical,Yes,11,Maintenance,Storage Area,Denise Robles,Amy Rodriguez
+81bcab10-7aa0-4463-b0c2-f369e7cfb042,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:15:50,Explosion,Low,Yes,27,Logistics,Storage Area,Jason Welch,Jeremy Davis
+08f8a73c-4df9-40c8-8e96-7696fffa1a85,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:53,Chemical Spill,Critical,No,28,Maintenance,Wellhead,Jenny Kirby,Mark Craig
+6ed68480-ef88-4f39-b3a9-cfd11aa02a4f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:38,Fall,Low,No,23,Maintenance,Compressor Area,Shawn Gutierrez,Dr. Roberto Medina
+2f58ba45-3cf0-41f7-8a33-66d0a98c58f5,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Gas Leak,Low,No,-99,UNKNOWN,Pump Station,Philip Wilkins,
+37a9a726-177b-4302-bdce-d6ac24b73ae3,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Fire,High,No,-99,UNKNOWN,Control Room,Denise Carroll,
+265ded75-3144-467f-b619-5715de103c8b,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:21:01,Explosion,Critical,No,5,Operations,Pipeline Junction,Patricia Johnson,Janice Jones
+dcdb13c1-952e-4506-98a5-a4c756afa948,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:56,Fall,Medium,No,30,Maintenance,Pipeline Junction,Mary Hunter,Brandi Schneider
+9b8fd0eb-87dc-422a-8e8f-846607dfd8c2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Fire,Critical,No,-99,UNKNOWN,Pump Station,Patricia Herrera,
+7a4d542b-a26a-4e2b-b450-ab795bcc412b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:10,Equipment Strike,Medium,Yes,8,Engineering,Storage Area,James Evans,Tiffany Black
+6ea08cd0-e0fa-44bd-be09-b9d0b93f668c,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:51,Equipment Strike,Low,Yes,26,Operations,Pump Station,Taylor Mcpherson,Krista Martinez
+91846f88-adba-4ec9-9f04-d675e1ccb447,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:54,Chemical Spill,Critical,Yes,4,HSE,Pump Station,Julia Robbins,Robert Watson
+0bbfe630-8138-460e-8fdd-31cef65cb6dd,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:38,Gas Leak,Medium,No,23,Maintenance,Pump Station,Derek Williams,Rita Clarke
+8de4c225-476b-482a-b38f-06eeda6f3974,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:30,Fire,High,No,22,Operations,Pump Station,Chris Jacobs,Roger Evans
+9a1ad0fa-d3cd-4fbc-bfa5-8dbd651d795d,COMP-202,Forcados Field,Team Bravo,Compressor,,Fire,High,No,-99,UNKNOWN,Wellhead,Patrick Davis,
+b1a7fdd8-8c54-489e-a6af-8e75f7d05e51,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:07,Fall,Low,Yes,12,Engineering,Wellhead,Nicholas Henderson,Ryan Jones
+94a78e95-a196-4075-ab3b-91ef39838ca7,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:21:26,Fall,Low,No,18,Engineering,Pipeline Junction,Krystal Young,Erin Cordova
+59d6e742-483d-4221-8563-f770b1c3b8b2,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:47,Fire,Critical,Yes,13,Operations,Wellhead,Harold Floyd,Mark Lee
+f81a3ad5-132a-4616-8945-2cec0e34d69f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:42,Fall,Critical,Yes,30,Engineering,Pipeline Junction,Rebecca Stewart,Christina Fisher
+8ad12b90-6a97-421c-b27e-1d652f73a8f4,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:54,Gas Leak,Medium,Yes,30,HSE,Pump Station,Nathan Parsons,Michelle Green
+110e1407-0011-433c-a47f-07464f945ab4,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:15,Equipment Strike,Medium,No,28,Logistics,Compressor Area,Grant Evans,Kristy Hamilton
+2745c99a-2a59-4bca-b31c-d79b313d963e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:13,Equipment Strike,High,No,19,HSE,Control Room,Michael Jones,Patrick Young
+33560fb5-b07b-4fc7-8f11-377556b93005,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Gas Leak,Medium,No,-99,UNKNOWN,Pump Station,Russell Wilson,
+4c22855a-7b4d-41b6-b2b5-65aac19225a2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:29,Equipment Strike,Critical,No,17,Logistics,Compressor Area,Michael Davis,Peter Diaz
+ff205131-16c1-452a-8529-895b709cbeee,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:21:00,Explosion,Critical,Yes,22,Engineering,Pipeline Junction,Jenna Keller,Tracy Raymond
+ca11025c-e007-4e2f-9392-6d611bdfa754,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:11,Equipment Strike,Low,Yes,8,Logistics,Control Room,Donna Allen,Tricia Reyes
+3d8aa035-b3f6-4ff8-b041-7f54b71f0f9b,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:54,Fall,Medium,No,21,HSE,Pump Station,Melissa Jones,Cynthia Mitchell
+6cedbbc3-46b8-4e6d-a9fe-743572e348ce,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Equipment Strike,Medium,Yes,-99,UNKNOWN,Storage Area,Jeff Burke,
+c001c612-5165-4c8c-9f95-2d64fcb50b29,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:15,Equipment Strike,Critical,No,21,HSE,Wellhead,Nicholas Harper,Kim Miller
+4ca42387-231a-4a14-8ec4-4a20c24920a4,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:37,Equipment Strike,High,No,17,Engineering,Control Room,Christopher Luna,Jeffrey Perry
+4ac3dbdf-ced3-401a-bfc5-5896b919594b,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:10,Gas Leak,Medium,No,28,Maintenance,Pump Station,Melissa Allen,Kendra Steele
+c98841b0-b7e0-4fbf-8d63-bd02e2638f17,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:24,Equipment Strike,Medium,No,26,Maintenance,Wellhead,Christopher Jones,Kevin Wilson
+85b958d3-0d77-4708-88da-2405cd18d1cc,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:39,Fire,High,No,4,Maintenance,Compressor Area,John Wright,Cody Anderson
+ff371cf0-15e0-4a80-8b8a-1b07f0b5a1b1,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Explosion,Critical,No,-99,UNKNOWN,Storage Area,Michael James,
+074e3283-b09a-4da3-a5e5-d1a96fcbb8b2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:28,Fire,High,No,5,Maintenance,Control Room,William Rogers,Alexander Torres
+6627c083-b98a-4063-9b3d-c4ef3d3e452d,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:12,Chemical Spill,Low,No,27,Operations,Control Room,Emily Rivera,Lisa Evans
+1f2c7f2d-646c-4a97-be60-64540094e181,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:00,Fire,Low,No,22,Operations,Compressor Area,Mrs. Kimberly Murray MD,Ryan Powell
+f23211e3-53d3-45c5-8fbc-f4a6ae7cd892,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:38,Gas Leak,Medium,No,8,Logistics,Storage Area,Melissa Keller,Justin Robinson
+10a476b2-0ab2-46c6-8d89-84ca8c6b6bd6,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:17,Fall,Low,No,28,Operations,Pump Station,Michael Walsh,Katie Smith
+9aed0850-5c9c-4681-8c5c-c6d819b3ee40,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Chemical Spill,Critical,Yes,-99,UNKNOWN,Pump Station,Brian Burgess,
+0075a5fa-7b9c-4add-b194-8153558e80f2,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Chemical Spill,Low,No,-99,UNKNOWN,Pump Station,Kimberly Johnson,
+8a227278-41b1-4949-80d4-6590dbadd3f9,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:21:29,Fire,Low,Yes,21,HSE,Compressor Area,Mary Holland,Justin Newton
+e0546625-418b-4ada-a2a3-cca9972db8b9,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:24,Equipment Strike,Critical,Yes,17,Logistics,Compressor Area,Holly James,Timothy Gilbert
+51d480c2-bc24-4b70-a5ee-b7fc3950560c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:27,Fall,Medium,Yes,12,Logistics,Control Room,William Reid,Catherine Gentry
+c1e168b1-f6fb-459b-ab96-44bd14bc3f62,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:21:24,Chemical Spill,High,Yes,24,Maintenance,Compressor Area,Timothy Kane,Melinda Trujillo
+9de1a54c-b37a-4208-ae84-469817e13918,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:47,Fire,High,Yes,22,Logistics,Control Room,Stephen Olson,Marc White
+dffb9cb1-1402-40cc-8eff-d7ee52262b54,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:38,Fall,Critical,Yes,28,Logistics,Pump Station,Michael Stewart,Mark Johnson
+5fe9b0b5-aae2-46d9-97b0-452c95ee9fc5,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:20,Chemical Spill,Medium,Yes,11,Maintenance,Control Room,Cindy Ortega,Erin Potter
+700b6917-ac18-42fe-b054-8d65a9973c2f,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:21:25,Equipment Strike,Low,Yes,21,Maintenance,Pump Station,Thomas Fleming,Ryan Harper
+d2b7f3bd-62c9-4c8c-924b-8a9264012ce8,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:24,Equipment Strike,Medium,Yes,1,Engineering,Compressor Area,Diana Perez,Kenneth Johnson
+2d5e7a5b-d56f-4e4b-8e13-f0d9f0ed21c5,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:56,Explosion,Critical,Yes,1,Logistics,Wellhead,Gloria Bolton,Debra Bentley
+388738ae-6305-4e88-97aa-20ee6d41a27f,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:39,Gas Leak,High,Yes,8,Maintenance,Control Room,Rebekah Garner,Sean Smith
+474392e1-1dc8-4dd3-99ba-e5d9a756e232,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:48,Equipment Strike,Low,No,6,Operations,Wellhead,William Carter,Anthony Hall
+14570636-a26f-42b9-8b16-421cbbef6257,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Equipment Strike,Low,No,-99,UNKNOWN,Pump Station,Sarah King,
+6905058b-5210-4b95-ae48-d78fa3ff61b7,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:27,Fall,Medium,No,23,HSE,Pipeline Junction,Michael Smith,Charles Lee
+bfa018c9-f299-4907-ae25-926da2d7a7b8,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:38,Gas Leak,High,No,10,Engineering,Storage Area,Courtney Turner,Amber Crawford
+8ac1b7e2-4e2c-4fd3-aa4f-8c65f78f31ea,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:07,Explosion,High,No,22,Logistics,Storage Area,Stephanie Mendoza,Lisa Washington
+20fdc394-4379-4247-a0b8-4c87d9842ca1,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Chemical Spill,High,Yes,-99,UNKNOWN,Storage Area,Angela Estrada,
+705d5476-b3b1-4dcd-92e0-ebdb4156b971,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:17,Equipment Strike,Medium,Yes,16,HSE,Compressor Area,Jose Fry,John Cordova
+96fc2752-8274-41bb-bbe8-6ace0f79ce90,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:34,Fall,Medium,Yes,3,Engineering,Pump Station,James Davis,David Ray
+8e9be957-3679-49d2-a9f9-8831b71ecf78,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Gas Leak,Low,No,-99,UNKNOWN,Pump Station,Latasha Franco,
+482913d1-88f9-44fc-84e3-ac2f83b758d6,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Fire,Low,No,-99,UNKNOWN,Compressor Area,Gina George,
+f19eff5c-a02b-46e9-9c96-f2aaea64276c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Fire,Medium,Yes,-99,UNKNOWN,Pump Station,Arthur Gutierrez,
+20c872b2-6d85-4b0c-8fab-a90cc2ef28da,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:48,Equipment Strike,High,No,21,Logistics,Pipeline Junction,Joseph Mora,Michelle Foley
+cc6261d8-3d50-4ab4-8104-6403add36b88,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:15:55,Fall,High,No,6,Operations,Pump Station,Ryan Baxter,Dylan Burns
+4effadd1-2e68-4bfe-b10a-bd25138bd345,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:47,Explosion,High,No,26,Logistics,Compressor Area,Michelle Morris,Sierra Wade
+30b1b7fa-c1a1-4309-b02b-4c6f60142a78,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:58,Explosion,High,No,10,Maintenance,Compressor Area,Jessica Joyce,Lance Wallace
+b06ec88a-ab72-4943-91ac-4a5f750ac362,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:45,Explosion,Medium,Yes,0,HSE,Wellhead,Lisa Cordova,Denise Yoder
+ee07ea55-54ba-4a3f-8c54-a42e0b65c8c0,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:41,Explosion,Medium,No,2,Maintenance,Wellhead,John Richard,Arthur Johnson
+eabe5b57-754c-4ccd-ad46-2ec60a06a526,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:38,Fire,Medium,No,26,Maintenance,Control Room,Philip Peterson,Sandra Garza PhD
+69c4a2c9-e4fb-4519-a4b2-78339e1a9a27,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Equipment Strike,Low,No,-99,UNKNOWN,Wellhead,Brenda Coleman,
+304fd70c-2d4d-4a29-ac8c-2bcfbd49c6b3,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:28,Fire,Low,No,20,Maintenance,Pipeline Junction,Marie Sanders,Nancy Flores
+ab4cbe00-1ec5-47f8-abaf-e762c84f8384,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:57,Fire,Critical,Yes,18,Logistics,Storage Area,Daniel French,Linda Hughes
+7ee9d258-ab55-4345-bc57-251d93ae37a2,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:44,Explosion,Medium,Yes,2,Maintenance,Control Room,Amy Stokes,James Stewart
+87b76803-cf5e-416d-a1b2-01abb5a1d02b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:35,Explosion,Low,Yes,28,Maintenance,Control Room,Andre Murphy,Mark Hubbard
+b1a86b7d-4b77-415f-897a-a855aba5ccc8,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:44,Equipment Strike,Low,No,1,Maintenance,Storage Area,Meghan Kirk,Hayley Butler
+b6dbac5a-8165-47b2-949c-97f37997ff46,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:35,Fall,Critical,No,8,Engineering,Storage Area,Robert Leblanc,Megan Grant
+75204ec8-3249-4db5-9410-a3c98a0a641e,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:27,Fire,Medium,Yes,6,Logistics,Wellhead,Benjamin Logan,Mrs. Theresa Smith DDS
+d823df8b-3607-40ea-99df-59935f7667ab,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:00,Explosion,Low,No,21,HSE,Storage Area,Marcus Baker DDS,Kelly Evans
+88904e1e-0737-4251-a96a-1ec722da8d9d,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:25,Gas Leak,Critical,Yes,12,HSE,Pump Station,Brooke Craig,Erin Jones
+cb6395e3-222b-4987-a2d2-9850fc27a14c,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:19,Fire,Critical,No,11,HSE,Storage Area,Richard Chambers,Kathryn Cannon
+651e3c5d-7ff0-4a06-9787-24e3cf278bad,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:18,Equipment Strike,High,No,20,Logistics,Wellhead,Jennifer Lewis,Morgan Kim
+33ef073d-b263-49f8-91dd-ea1816d357f6,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:57,Fall,Low,Yes,16,HSE,Control Room,Mr. Walter Walsh,Cheryl Johnson
+d7891d7f-188d-495e-ac22-407acb2be3fd,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Gas Leak,Critical,No,-99,UNKNOWN,Compressor Area,Christina Butler,
+f40b6188-5cf4-4d36-9e2d-7b6ad5bfc9f4,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:19,Equipment Strike,Low,No,11,HSE,Pump Station,Dr. Logan Anderson,Angela Gibson
+9e626c18-d9ee-486e-969c-6e31e3f5048f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:17,Fall,Critical,No,3,Maintenance,Storage Area,Kathryn Foster,Lisa Wagner
+b5e5433a-7280-4f5b-ba14-2281d6754ff0,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:19,Chemical Spill,High,No,5,Engineering,Control Room,Angela Wilson MD,Michael West
+589aebf6-e8d9-46da-9a5c-38f14fbf0753,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:16,Fall,High,No,30,Engineering,Control Room,William Parsons,Brandon Ramirez
+52082a91-775c-446d-92a9-b951cecb3797,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Fire,Critical,No,-99,UNKNOWN,Storage Area,Krista Nunez,
+fe5cad77-2a82-4a2f-8559-3cb2fa4f7e4e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:19:41,Equipment Strike,Critical,No,2,Logistics,Pipeline Junction,Grant Scott,Patrick Brown DDS
+4a52dbdf-9557-4955-a1a4-62007fb3b6b4,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:16:02,Fall,Low,No,14,Maintenance,Control Room,Sara Alexander,Billy Silva
+7ec81668-f885-407f-9205-646761ceb5af,COMP-201,Forcados Field,Team Bravo,Compressor,,Explosion,High,No,-99,UNKNOWN,Pump Station,Daniel Kim,
+ee353195-7a55-4ed9-b538-a8ddd34fd1a5,COMP-202,Forcados Field,Team Bravo,Compressor,,Gas Leak,High,Yes,-99,UNKNOWN,Wellhead,Donald Hernandez,
+37cdbf27-ab29-40a7-aeae-2eb906228385,COMP-201,Forcados Field,Team Bravo,Compressor,,Equipment Strike,Medium,No,-99,UNKNOWN,Compressor Area,Angela Cunningham,
+fed33668-7d65-421c-b4f6-39a01f7b8675,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:48,Gas Leak,Low,Yes,18,Maintenance,Control Room,Steven Lee MD,Anthony Gibson
+f6bce5a0-bee9-41c5-8685-eec88990b9c7,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:54,Fall,High,Yes,24,Maintenance,Pump Station,Stephanie Silva MD,Dr. Kelsey Hamilton
+acf1c91a-edd4-43e0-9a76-23d16bf23f3a,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:51,Equipment Strike,Low,No,1,Maintenance,Storage Area,Philip Duffy,Deborah Sparks
+5831cccc-0784-4888-a6b2-dcb07225a64f,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:52,Gas Leak,High,Yes,17,Maintenance,Storage Area,William Lee,Cody Anderson
+9213127b-07ee-48c9-9e97-82ba212e9465,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:05,Gas Leak,Medium,No,2,Maintenance,Wellhead,Stephanie Beltran,Kelsey Shaw
+7015c0d6-4c58-482a-9106-de482785b7d9,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:20,Fall,Medium,No,28,HSE,Storage Area,Jonathan Jennings,Dr. Eric Woods
+0a2878bb-cdf0-4dde-a35b-8df51aa51dc8,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Equipment Strike,High,Yes,-99,UNKNOWN,Wellhead,Peter Stevens,
+a1da8539-3e62-40f7-9529-6103f55b31b1,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Chemical Spill,High,Yes,-99,UNKNOWN,Storage Area,Nichole Davis,
+2f8a359c-d046-4958-88a5-e663299ffcaa,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:56,Chemical Spill,High,Yes,5,HSE,Pump Station,Kelly Ayers,Jenny Kramer
+2d2c8977-87a2-4c2a-b38d-9552a2e82c67,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:05,Gas Leak,High,Yes,3,HSE,Pump Station,Alexis Peterson,Amber Nichols
+13424081-5695-4e5a-88d6-58f0670dee4c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:54,Fire,Medium,Yes,5,Engineering,Storage Area,David Miller,Tony Graham
+b5627b93-86ad-400f-8639-aa5d75f215e6,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:49,Gas Leak,Medium,No,3,Maintenance,Pipeline Junction,Alexander Simon,Katelyn Bailey
+1e20f314-b022-431e-b1c8-29426afd6435,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:20,Fall,Critical,Yes,6,Maintenance,Control Room,Crystal White,Aaron Watson
+c14791a2-b862-4122-83bd-5902bf7f7370,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:04,Equipment Strike,High,No,26,HSE,Control Room,Kayla Davis,David Harrison
+e7a4200f-df70-4694-8ce6-8809bb1e2c41,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:43,Chemical Spill,Low,Yes,23,Engineering,Pipeline Junction,Scott Smith,Kevin Brown
+3d1d3c2e-c93c-4abe-b59d-201b652f17e1,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Chemical Spill,Medium,No,-99,UNKNOWN,Wellhead,Courtney Douglas,
+cf401561-69b1-48bd-a585-9eb9418c0768,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:10,Equipment Strike,Medium,No,8,Engineering,Pump Station,Wendy Owen,Jose Roberts
+3f65c584-1d79-4ae6-9fa9-502e65e55699,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:04,Explosion,Medium,No,0,Operations,Storage Area,Jessica Smith,Anthony Moran
+7aada924-602d-4a2d-b450-f55e02f0c63e,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Chemical Spill,Medium,Yes,-99,UNKNOWN,Pump Station,Cynthia Ferguson,
+c5a40f2c-b45a-411a-89d7-c8ec4607f7fa,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:01,Fall,Low,No,16,Maintenance,Wellhead,Kimberly Gonzalez,Melissa Garcia
+472bb0f5-6939-4410-87d6-d222b4db8f0b,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:21:13,Fall,High,No,0,Logistics,Compressor Area,Derek Holmes,Brittney Jacobs
+50060f23-0b94-43d1-a200-babff174224a,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:24,Chemical Spill,High,Yes,15,Logistics,Pump Station,Jeremiah White,Gabrielle Gardner
+d936351b-fa6a-4c28-a9a1-9cb45c1671e0,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:24,Equipment Strike,Medium,No,7,Engineering,Storage Area,Patricia Norman,Angela Thornton
+b5d09139-f745-4534-9fcc-e2909f95d89f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:23,Explosion,Medium,Yes,4,Maintenance,Compressor Area,Patricia Mora,Michael Wright
+b0941b37-bf22-42ec-bede-72085a1607d5,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:15:42,Fall,Low,Yes,10,Operations,Compressor Area,Tina Gordon,Rachel Mcdowell
+0cb7f086-e4ca-4253-b0f1-8f0faa504e69,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:52,Fire,Critical,No,26,Operations,Pump Station,Jennifer Sullivan,Barbara Stewart
+63dc8aa3-b4d9-4a63-aeea-9d54e4c2daad,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:25,Explosion,Medium,Yes,26,HSE,Wellhead,Jennifer Parker,Kimberly Dennis
+ba15efc5-33bf-4191-9d2d-ca77c6309a3b,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:40,Equipment Strike,Low,No,6,Engineering,Pump Station,Alyssa Kane,Crystal Adams
+231ac5c2-8941-4997-bb7d-bd4ef756f066,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:03,Explosion,High,Yes,11,Operations,Compressor Area,Misty Green,Mrs. Laura Sharp MD
+929bd64b-d3d5-4743-8813-8c04c7ce5361,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:59,Equipment Strike,Low,No,27,HSE,Wellhead,Mitchell Diaz,Christina Edwards
+1346fbdd-3cc8-4f79-b7f5-afc8cec997be,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:16:27,Gas Leak,Medium,Yes,29,Logistics,Compressor Area,Ronald Rhodes,Karen Gilbert
+fba678a5-dcf8-4320-93cd-b605f7d8b164,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Chemical Spill,High,No,-99,UNKNOWN,Compressor Area,Dawn Vargas,
+9482a379-4abc-464e-bd11-a87dd7fbe7d4,COMP-201,Forcados Field,Team Bravo,Compressor,,Chemical Spill,Medium,No,-99,UNKNOWN,Control Room,Michael King,
+45d7daaa-c8e8-409b-969d-025e9dbba859,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Fire,Medium,Yes,-99,UNKNOWN,Control Room,Anna Cole,
+8168a994-ee99-47ff-98aa-97f277d78c31,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Explosion,Low,Yes,-99,UNKNOWN,Storage Area,Joshua Hayes,
+6803c60a-cda1-4f17-a625-730b5cef9984,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:16:54,Chemical Spill,Critical,Yes,1,Logistics,Pump Station,Travis Hurley,Terri Nicholson
+4ac3a3a0-3a5e-49ec-8959-c994959d41ad,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:46,Explosion,Medium,Yes,30,HSE,Control Room,Roberto Munoz,Regina Weber
+cc94198d-9588-4f54-8d27-42dfa55b3654,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:43,Equipment Strike,High,No,4,Logistics,Storage Area,Terry Daniel,Allen Bennett
+df3b09f9-074f-46a8-a4ac-0b3da2c446e2,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:52,Fire,Critical,Yes,15,Logistics,Pipeline Junction,Juan Davis,Gina Davis
+24513772-16c3-46cf-88df-a08224da10de,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:30,Equipment Strike,Medium,No,3,Engineering,Storage Area,Susan Hopkins,Nancy Smith
+b3a3162a-3c3c-4f3e-a79f-31577734d386,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:17,Equipment Strike,Low,No,13,Engineering,Control Room,Kenneth Higgins,Aaron Miles
+2da0210f-f74b-466b-b6f9-c640e0357ef1,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:49,Fall,Medium,Yes,22,Operations,Wellhead,Jennifer Barnett,Robert Curtis
+38447844-643a-44dd-b54c-9143199a89ea,COMP-202,Forcados Field,Team Bravo,Compressor,,Explosion,Medium,Yes,-99,UNKNOWN,Pipeline Junction,Kevin Sutton,
+cea76240-d675-4d40-b0a4-b8999d7309bc,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:37,Explosion,Low,No,17,Logistics,Pipeline Junction,Marcus Morton,Kaitlyn Roth
+f15ff8cd-7f9a-4521-87f6-bf216288c69d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:16:32,Fall,Medium,No,15,Operations,Compressor Area,Jessica Cross,Jessica Harmon
+06c76751-8c3a-4515-9cd2-c44e8f8fb8bc,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:43,Gas Leak,Low,Yes,26,HSE,Compressor Area,Robert Smith,Cindy Gay
+5a24f934-644a-415c-abdf-3e823424b558,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:29,Explosion,High,No,21,Operations,Pump Station,Jill Martin,George Stephens
+5c485187-18f2-4b95-bbb5-a6d1578aa7f1,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Fall,Low,No,-99,UNKNOWN,Pipeline Junction,Levi Ford,
+00e16573-76b6-4b09-9d9c-d1eee8816d62,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:34,Fall,Medium,No,20,Engineering,Pipeline Junction,Kimberly Montgomery,Douglas Martinez
+7130ce20-2e28-4965-b1e1-774852770bea,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:25,Fall,Low,No,18,Logistics,Pipeline Junction,Sara Hanna,Alicia Mckay
+b0354878-ac5a-4207-9b8e-dacfc49b3325,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:48,Explosion,High,Yes,6,HSE,Pipeline Junction,Thomas Williams,Stephen Robles
+8816a2ad-45e5-4cc4-95a5-88c7e17ee61d,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:47,Fire,Critical,No,0,Engineering,Wellhead,Amanda Robinson,Carlos Harrison
+28be4659-4bf0-4424-a0b9-8587b8502c94,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:21:20,Fall,Medium,Yes,27,Engineering,Storage Area,Michelle Jordan,Sue Smith PhD
+af60953e-dd2c-431b-a6ca-334a8c496a7a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:56,Fall,Medium,No,13,HSE,Storage Area,Lisa Brooks,Roger Buckley
+3cc983fb-ed2e-4c9b-bdcc-b047f9bd6e24,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:24,Gas Leak,High,Yes,25,Logistics,Pipeline Junction,Kevin Hawkins,David Duncan
+e9f49855-0087-46fe-8e3a-ad887522c27b,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:50,Fire,Medium,Yes,17,Maintenance,Pump Station,Kyle Miller,Sarah Cunningham
+6de2e280-edb2-43a5-91a1-dc551563061b,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:11,Gas Leak,High,No,30,Engineering,Storage Area,Dale Frye,Jeremy Davidson
+32b13fc8-b060-4ab0-a550-c5e691b76946,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:03,Equipment Strike,Low,Yes,10,Logistics,Control Room,William Jones,Kyle Walker
+7194e2e3-f1cc-4295-8634-59a572e89302,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:11,Chemical Spill,Medium,Yes,22,Operations,Pipeline Junction,Kristen Garcia,Jose Morton
+6589e358-84d9-4164-9eab-b4bfcfd7249c,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:26,Equipment Strike,Low,No,9,Operations,Wellhead,Suzanne Fritz,Jeremy Cruz
+9e0987b9-60f2-47fb-af12-523d64294bf7,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:19,Explosion,Critical,Yes,28,Operations,Compressor Area,Eric Price,Mr. Jacob Castillo MD
+0782ee85-9b4b-454f-946e-fdedd0b5d805,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Explosion,Medium,Yes,-99,UNKNOWN,Pipeline Junction,Kaylee Nelson,
+9de6b808-1083-44a5-8188-44be950a478e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Equipment Strike,High,No,-99,UNKNOWN,Storage Area,Seth Jenkins,
+3d875980-9618-4266-a560-09ece97a03e2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Chemical Spill,Low,No,-99,UNKNOWN,Wellhead,Robert Obrien,
+3a108cc5-2832-493e-8a0c-14d7e362dc34,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:28,Gas Leak,High,Yes,6,Engineering,Compressor Area,William Clarke,Tonya Arroyo
+b9b08b41-13d1-4653-85fb-d9404f728022,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Explosion,High,Yes,-99,UNKNOWN,Pump Station,Christopher Swanson,
+568ab745-c5be-4ca3-9728-e8f6167c259a,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:16:30,Fall,Medium,No,21,Operations,Pipeline Junction,Wanda Cunningham,Malik Cooper
+6fe32d2e-65e0-46fb-a11b-425b6566f305,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:27,Equipment Strike,High,Yes,26,Logistics,Pump Station,Richard Singh,Laura Jones
+f9c48091-db8b-4167-8e70-995000de0844,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Gas Leak,Low,No,-99,UNKNOWN,Control Room,David Byrd,
+6b9aafda-9634-465c-b934-c7b1bd986f7c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:23,Equipment Strike,High,Yes,18,Maintenance,Compressor Area,Steven Baker,Brian Mitchell
+1ba2c70b-cbb2-4a8b-b8bd-9bf7e77af55b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:28,Gas Leak,Low,No,29,Operations,Compressor Area,Kathy Mendez,Misty Lang
+fecbe305-dc69-47fb-862a-57494b71fa1a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:02,Fire,Medium,No,7,Maintenance,Pump Station,Danielle Grant,Rebecca Jenkins
+04e2a01b-a772-4fc1-b15b-3c54f75ad48a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:36,Gas Leak,High,Yes,24,Engineering,Compressor Area,Spencer Williams,Mrs. Lisa Brown MD
+487b62ee-c71e-4da1-b6dc-383693f5b737,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:56,Fire,Low,Yes,19,Engineering,Control Room,Patrick Bolton,Bryan Becker
+b629e72a-2ddf-4166-9686-4b8946506264,COMP-201,Forcados Field,Team Bravo,Compressor,,Fall,Medium,Yes,-99,UNKNOWN,Pump Station,Nicholas Fowler,
+ed471ae9-05f5-4c8f-b3e3-87fc2fe693fb,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:37,Fall,Critical,No,21,Operations,Pipeline Junction,Jacqueline Thompson,Kelly Perry
+b2b71962-b5e2-48a9-93c0-16fb48586543,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Chemical Spill,Medium,Yes,-99,UNKNOWN,Pipeline Junction,Brandon Cruz DVM,
+f4644661-b026-42b3-bb6d-00811b15688c,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:51,Gas Leak,Low,No,17,Maintenance,Compressor Area,Rachel Mendoza,Denise Hernandez
+026c3b62-d264-466d-ad65-0697d8eca295,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:22,Gas Leak,Low,Yes,1,Logistics,Storage Area,Todd Huynh,Christopher West
+dd416bb2-9f46-48f0-9a6e-bfa6f2865c4f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:03,Explosion,Low,No,1,Logistics,Pipeline Junction,Brandon Krause,Alexander Thompson
+af511234-9bad-4e87-a997-58dddb86e349,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:28,Fire,High,No,7,Maintenance,Control Room,Lisa Mccullough,Samantha Jenkins
+bb187a69-a61e-4997-9808-bf87b37157a3,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:37,Equipment Strike,Critical,No,12,Operations,Pump Station,James Willis,Mark Parker
+755d4507-ca5d-4594-99cf-e4208fc71320,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:31,Fire,High,No,29,HSE,Control Room,Joanna Gonzales,Joshua Bonilla
+7e40fe30-2b72-4fdb-a099-e9d4eefd9507,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Equipment Strike,High,Yes,-99,UNKNOWN,Control Room,Teresa Jacobs,
+b98836ec-bb1a-4ab4-a4b0-2d0de1f2899e,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:46,Explosion,Critical,Yes,1,HSE,Control Room,Carrie Brown,Mr. Christopher Harrison Jr.
+bb72c25b-ec9d-4058-8315-8b1c1a708f67,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:33,Chemical Spill,High,No,3,HSE,Pipeline Junction,Alyssa Hunt,Amber Wood
+9223f31d-83bd-45e4-bc1a-73474cfe6f9f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:49,Chemical Spill,Critical,No,25,Maintenance,Wellhead,Jessica Mitchell,Adam Green
+6faa88d1-7273-4c93-9d84-f9630e23ec60,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:25,Equipment Strike,Low,Yes,5,Operations,Wellhead,David Lopez,Jon Bennett
+d116f41e-bf24-4ad3-b92a-cd9790e5946a,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Fire,Low,No,-99,UNKNOWN,Pipeline Junction,Antonio Barton,
+02a0961f-1a14-4d0f-a10b-12cbb547330c,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:43,Equipment Strike,Low,Yes,26,Logistics,Control Room,Michael Ruiz,Dr. Alexandra Knight DVM
+df5c7ad8-6103-42e5-99b1-0fec75a51ad5,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:41,Chemical Spill,High,No,26,Maintenance,Compressor Area,Greg Campbell,Dr. Brian Davis
+b3589f2e-b48d-4a78-beba-cc713c354362,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Fall,High,Yes,-99,UNKNOWN,Pump Station,Daniel Mullen,
+c96900bd-59d4-4acb-a52d-e30ca118aba4,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Fire,High,No,-99,UNKNOWN,Storage Area,Grace Chapman,
+7cc2eb7a-6292-4856-ab76-35fe87c35786,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:34,Fire,Critical,Yes,18,HSE,Storage Area,Mitchell Hogan,Emily Henderson
+5c3be19f-c42b-4644-90ec-6ff24d13eb44,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:16:00,Fire,Critical,Yes,13,Logistics,Wellhead,Lauren Armstrong,Michelle Reyes
+dea3e24b-1f4b-4f68-ba3b-cb3b4fd01548,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Fall,Medium,Yes,-99,UNKNOWN,Storage Area,Sonya Flynn,
+aaa72b54-489d-4e47-a6bb-2ed661506408,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:56,Fall,Low,No,14,Logistics,Control Room,Paige Chang,Heather Romero
+20975ec6-8958-4e08-8526-2be50e33ce2d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:34,Fall,Medium,Yes,20,Maintenance,Pump Station,Steven Reyes,Susan Brown
+18b3aa32-ff3f-45db-91eb-613a010037fe,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:15:53,Gas Leak,Low,Yes,3,Engineering,Storage Area,Mark Murray DDS,Austin Martin
+38c4bb25-8e80-40a8-a67e-26c502efaf75,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:53,Equipment Strike,Low,Yes,28,Maintenance,Pipeline Junction,Amber Watts,Ryan Garrett
+0cb6bb91-8c74-41a9-8585-5492c306743a,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:39,Fire,High,No,20,HSE,Storage Area,Pamela Howe,Stephen Galvan
+c3fc47f0-f064-4ede-be56-0d0a5608b003,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:32,Gas Leak,Medium,No,18,Logistics,Wellhead,Jay Mills,Zachary Pena
+4b75f051-a9c2-4905-86a2-07512b18a162,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:04,Chemical Spill,High,Yes,20,Maintenance,Storage Area,Samantha Escobar,Jennifer Garcia
+9a209105-f4b7-46a7-bd97-fb557a4505c6,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:55,Fire,High,No,20,HSE,Control Room,Nicole Campos,James Mcdonald
+4d46ad01-0910-4ce1-b122-eb1ae0aaa55d,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:42,Fire,Medium,No,28,HSE,Storage Area,Danielle Torres,Charles Gardner
+bfde2eba-f9f8-4f9c-853e-d5af5383e216,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:59,Chemical Spill,Critical,Yes,25,Engineering,Pump Station,Jennifer Stewart,Kimberly Ramirez
+e4057e3b-2057-4e77-9670-124daa294701,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:31,Explosion,Low,No,0,Logistics,Compressor Area,Christopher Newton,Micheal Turner
+d0657a5a-c729-46f5-846d-50be27dae05b,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Explosion,Low,Yes,-99,UNKNOWN,Control Room,Kimberly Huynh,
+3c724d36-fce1-4ee7-afd2-83c356a90ee5,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:07,Explosion,Critical,Yes,19,Operations,Control Room,David Stone,Eric Jones
+3ae916ce-3bab-4aef-afe2-a73e8e695601,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:17,Fall,Low,No,9,Operations,Wellhead,Ronnie Fitzgerald,Terry Day
+96994f8d-757a-452c-8e2d-9a6e25861303,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:38,Gas Leak,Critical,No,19,HSE,Wellhead,Sonya Nicholson,Dr. Taylor Garcia
+bc90da40-5a9a-4452-9a53-54cafbe5e039,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Fall,Medium,Yes,-99,UNKNOWN,Storage Area,Benjamin Rosales,
+c79a241b-eff2-4606-bd1e-31b93e5af8c4,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:31,Explosion,Medium,Yes,27,Logistics,Compressor Area,Jonathan Bennett,Lauren Barber
+6299c3cd-b737-4688-a69d-230025a4eb67,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:56,Fall,Critical,No,20,Logistics,Wellhead,Marisa Robinson,Nancy Ward
+6d86782e-4731-4702-b253-c3b5aae40310,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:50,Fall,Medium,No,21,Maintenance,Pipeline Junction,Jordan Craig,Amber Dawson
+f026faa6-f278-462e-9883-038d5c2fa422,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:58,Equipment Strike,Medium,Yes,30,Engineering,Pipeline Junction,Hannah Lozano,John Walker
+c3c08c45-7bf4-4985-9955-8a16c0c7f52f,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:48,Equipment Strike,Medium,Yes,22,Operations,Pump Station,Preston Bauer IV,Christine Floyd
+8c0fc7bc-6b95-49f4-aa8f-dae390ab41a2,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:15,Equipment Strike,Low,No,27,Engineering,Wellhead,Francisco Norton,Danielle Santos
+6c49762b-2b9c-4ed2-9721-4deaa00b5897,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:04,Chemical Spill,Medium,No,16,HSE,Control Room,Jennifer Taylor,Kimberly Sanchez
+9dcea8fe-ba3e-458d-8e1e-1fd393be297d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:21:24,Gas Leak,Critical,Yes,15,Maintenance,Wellhead,Brady Gonzalez,Dr. Monica Cannon
+c993ffb3-6cef-4352-ba08-8be0977692c7,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:13,Explosion,High,No,8,HSE,Pump Station,Christopher Clark,Virginia Pope
+d75623ee-2953-49dd-877e-af57b668f48a,COMP-201,Forcados Field,Team Bravo,Compressor,,Chemical Spill,Medium,No,-99,UNKNOWN,Pump Station,Jennifer Davis,
+d029d1c2-8215-4b3f-8218-de712c37153d,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Fire,High,Yes,-99,UNKNOWN,Pipeline Junction,Lauren Edwards,
+5915a4e2-0a7b-4533-be8c-bd3163c934a0,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:52,Gas Leak,Medium,No,24,Operations,Wellhead,Marc Ramsey MD,Mary Morris
+47ddf427-17b5-4090-949c-7267501739db,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:41,Fire,Critical,Yes,2,Maintenance,Wellhead,Erin Mckee,James Armstrong
+9c6ae1b0-3dc3-4428-8cd6-145cdc1b2f83,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:58,Fall,High,No,26,Maintenance,Wellhead,Carlos Tucker,Toni Norris
+d05236a6-5bc7-4b97-b650-d51f07d0863c,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:17,Equipment Strike,High,No,13,Operations,Compressor Area,Joshua Grant,Deborah Bradford MD
+c3b22ea2-215b-447a-bc6e-d6ac223cbe3f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Explosion,Critical,Yes,-99,UNKNOWN,Pipeline Junction,Dorothy Roberts,
+b4f57f6c-c996-4280-b5f2-8a49672b8a4c,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:34,Equipment Strike,Critical,No,14,Engineering,Pump Station,Jennifer Wallace,Samantha Dunn
+c064062b-f306-454c-bbd4-7c63c813d232,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:31,Explosion,High,No,15,Operations,Compressor Area,Eric Cohen,Richard Bishop
+e6054904-a4bc-4210-bcbd-5a41cd95620b,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:30,Explosion,Critical,Yes,25,Operations,Compressor Area,Diana Thompson,Mrs. Kelly Gonzalez
+5cf359a6-a0b7-410b-a7b6-78ba9d97cc08,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:32,Fall,High,No,28,HSE,Pipeline Junction,Amanda Carroll,Mitchell Bates
+dca31a01-e681-4f4e-931e-efe5d3c402d0,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:09,Fire,Medium,No,15,Logistics,Pipeline Junction,Brian Humphrey,Michael Martinez
+6c00d7db-d1ca-41a9-a8fa-372e90dd9e99,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Chemical Spill,Low,No,-99,UNKNOWN,Compressor Area,Michael Macias,
+d1508211-3718-4035-b80a-215cb1bebf84,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:36,Explosion,Medium,No,19,Operations,Control Room,Kurt Fritz,Sarah Gross
+dff1ee92-d827-424b-a567-203fa1ca7c53,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Equipment Strike,Medium,Yes,-99,UNKNOWN,Control Room,Taylor Herman,
+f92a06a0-11d1-4d91-88e5-0b6ade531511,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:44,Equipment Strike,Critical,No,6,Logistics,Wellhead,Eric Daniels,Jose Torres
+500b44aa-cb3e-47ec-be14-034e3b30ac3a,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:22,Equipment Strike,Low,Yes,24,HSE,Wellhead,Megan Thompson,Amanda Willis
+a4f7bb99-f570-4ff3-a49a-ac1b457e407e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:35,Equipment Strike,Low,No,15,Operations,Pump Station,Jason Jennings,Katie Crawford
+50146bc0-747d-42e0-9944-c32a7acfe44b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Fall,Critical,Yes,-99,UNKNOWN,Control Room,Jonathan Delacruz,
+e35ab635-1229-4976-a21b-b321fb921dbb,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:18,Chemical Spill,High,Yes,25,Logistics,Storage Area,Billy Bender,Brianna Brown
+0188c100-4654-48cc-b88e-132264594a8c,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:56,Equipment Strike,Medium,No,5,Logistics,Compressor Area,Jamie Lopez,Lisa Graham
+6d2d95f9-b51b-4d7f-bbd4-e58ea86923bc,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Equipment Strike,Medium,Yes,-99,UNKNOWN,Pipeline Junction,Dawn Dominguez,
+0f1c97ff-c291-4ad4-880e-8860fe0d2956,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:10,Chemical Spill,Low,No,10,Logistics,Pipeline Junction,Mathew Diaz,Leroy Morgan
+d56c8f2c-df2a-4952-9984-99125c9dd1a0,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Gas Leak,Low,No,-99,UNKNOWN,Compressor Area,Carolyn Castro,
+5f64f5b9-8112-460b-b8c7-23c3dab71100,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:06,Gas Leak,Medium,No,11,Operations,Wellhead,Tammy Ellison,Kathleen Watts
+d443a1f7-ea54-4a4d-be9e-ce3978f1eab9,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:29,Fire,Critical,No,25,Engineering,Pipeline Junction,Kenneth Williams,Michelle Kim
+1bd4f406-6c89-4150-acdb-6620c2e291f4,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Explosion,Medium,No,-99,UNKNOWN,Pipeline Junction,Alyssa Bell,
+247ebd5b-9baa-4c45-91e6-260c06500c8b,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:23,Fall,Low,Yes,29,Logistics,Pipeline Junction,Destiny Barker,Alexandra Bowers
+9113d7e9-f282-4d70-955d-568569fd6853,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:12,Explosion,Critical,No,11,Engineering,Compressor Area,Stanley Atkins,Christopher Miller
+b56ea54f-e762-4536-b0d6-efe85e530b2e,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:32,Fire,High,No,29,Maintenance,Control Room,Olivia Gonzales,Nicholas Wilson
+0c29cb1e-f16e-4578-99f1-ed6d11c7e92a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:06,Fire,Critical,No,16,Operations,Wellhead,Matthew Johnson,Shannon Hurst
+220665f6-c4c3-453d-98a2-8e2a85cfb83c,COMP-201,Forcados Field,Team Bravo,Compressor,,Explosion,Critical,Yes,-99,UNKNOWN,Control Room,David Smith,
+04adbac2-39eb-4911-ba7e-8c34194b661d,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:47,Explosion,High,No,28,Maintenance,Wellhead,Carol Johnston,Jeremy Hansen
+48d00c22-230e-4021-a9a6-64f1ea455001,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:23,Fall,Critical,No,27,Engineering,Compressor Area,Katie Carson,Leah Dixon
+1831378a-1fc9-4fc6-89b1-16491a8600dc,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:57,Equipment Strike,Critical,Yes,7,Logistics,Wellhead,Michelle Watts,Glenn Mckinney
+e43791b0-bba5-4768-ac17-3e24b478d226,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:21:06,Equipment Strike,Medium,No,5,HSE,Control Room,Michael Wilson,Marisa Perez
+b67d8d26-1677-4e9d-ac7e-3c416d692c8f,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Chemical Spill,High,Yes,-99,UNKNOWN,Pump Station,Leslie Oliver,
+f5d145f5-8ee2-4ac4-8acf-20c37f97a0ac,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:37,Equipment Strike,Critical,No,5,Logistics,Pump Station,Adam Cox,Pamela Johnson
+8003fad0-be43-4dc7-bc66-b01bc9206df6,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:26,Chemical Spill,High,No,11,Maintenance,Wellhead,Anthony Rodriguez,Jennifer Ortiz
+93360c89-99b6-4e30-8e53-79457cb8ca6d,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:17,Gas Leak,Critical,Yes,21,Logistics,Pump Station,Stephen Alvarez PhD,Jacqueline Villegas
+bff1ebd6-c068-46c9-8a16-98f3833bb3fe,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:38,Chemical Spill,Critical,Yes,17,Maintenance,Control Room,Heather Robbins,Julia Brown
+b6443be1-5d6f-4744-b0ec-1b7c2e1a6e08,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:19,Fire,Medium,Yes,6,Logistics,Pump Station,Donald Bautista,Curtis Daniel
+313b797c-744b-4d0e-80e6-2f1adaa4bf4b,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:33,Chemical Spill,High,No,24,Engineering,Compressor Area,Amanda Willis,Derrick Allen
+2a77dfb1-5695-4e07-b02c-43a464da1cf3,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:33,Equipment Strike,Medium,Yes,10,Maintenance,Compressor Area,Steven Saunders,Brett Edwards
+ad9f2559-ec42-4d05-8cb8-605d18f887a6,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:58,Explosion,High,No,11,Engineering,Storage Area,Cameron Gray,William Henderson
+b07b3bdb-9985-4fda-b57c-fa57d10cdde3,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:45,Fire,High,Yes,10,Logistics,Storage Area,Michael Brown,Regina Cordova
+1bcec580-e56b-45f0-861f-b4310d1b61b5,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:54,Fire,Medium,Yes,14,HSE,Compressor Area,Ian Hernandez,Steven Hunter
+27f42220-08a9-4a76-9cfe-a25d88069f41,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:31,Chemical Spill,Low,No,0,Operations,Compressor Area,Michael Oconnor,Jose Ross
+17f71b0f-cf56-409e-b5ee-cee94f94aff4,COMP-201,Forcados Field,Team Bravo,Compressor,,Fall,Critical,No,-99,UNKNOWN,Control Room,Danielle Herman,
+d66f9f18-a2e0-4000-ad98-d05f4e85f510,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:41,Fall,High,No,25,HSE,Pipeline Junction,Isaiah Burton,Jeremy Adams
+a869dfc9-e1a4-4689-ad48-5154afc85a59,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Equipment Strike,Low,Yes,-99,UNKNOWN,Compressor Area,Stephen Richard,
+d9ff6e40-54ba-4468-873f-8b606e03348b,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:31,Gas Leak,Medium,Yes,7,Maintenance,Compressor Area,Debbie Curtis,Shannon Warner
+3fa3d126-902c-4d5b-b298-abafb19b43c0,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:49,Explosion,Medium,No,21,Logistics,Storage Area,Eugene Salinas,Melissa Johnson
+7625b3f3-346c-4cf1-a58f-6bf3ae839360,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:21:16,Gas Leak,Medium,No,6,Engineering,Compressor Area,William Callahan,Sally Jensen
+95cc6bb3-bb90-4e65-bd21-803e2369ab1b,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:41,Fire,Medium,No,11,Engineering,Pump Station,Charles Campbell,Ms. Regina Floyd
+a238e78f-9ebc-4271-bb6d-61f307df04a6,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Fire,Medium,Yes,-99,UNKNOWN,Pipeline Junction,Mary Chen,
+d0224c0e-019a-4580-b5bf-49de99594439,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:21:24,Gas Leak,Low,Yes,28,Operations,Pipeline Junction,Lindsay Smith,Kyle Martin
+80a8e83e-cf7b-4488-85bc-e8a0d1b5fb13,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:37,Fire,High,No,28,Logistics,Compressor Area,Melissa Ibarra,Mr. Gregory Lopez
+0b92634d-9ea6-4c9b-925e-ae73f72e7653,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:56,Chemical Spill,Low,Yes,13,Logistics,Pump Station,Brooke Martinez,Jennifer Webb
+ec7e9c56-56f2-4db2-9c05-7ab8f82092ed,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:15:42,Gas Leak,Medium,Yes,14,HSE,Control Room,Angela Murphy,Ivan Harrison
+72bc6c97-d150-49f9-ae17-085864ccefb2,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:30,Explosion,Critical,No,13,HSE,Pipeline Junction,Anthony Baker,Devin Escobar
+1658b117-6555-42c5-903c-ee252d02f9fa,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:59,Equipment Strike,Medium,Yes,28,Maintenance,Wellhead,Mrs. Susan Sullivan,Brenda Hunt
+12c36125-806c-443e-b867-974193c6fe54,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:21:18,Chemical Spill,Medium,No,27,Maintenance,Wellhead,Nathan Russell,Abigail Smith
+3f28b686-f034-46c3-99c1-941699379853,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:34,Fall,Low,No,19,Operations,Pump Station,Crystal Robinson,Jacob Medina
+441a1dc1-929e-4fa6-992b-9bf4cc7cc210,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:15:59,Explosion,Medium,Yes,8,HSE,Pump Station,Andrew Thompson,Roger Yang
+016b8fed-9053-4ee5-869f-fe1ab19ff850,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:34,Chemical Spill,Low,Yes,10,Operations,Compressor Area,Katie Bailey,Michael Ruiz
+3e991e78-8c26-458f-930e-4b966302c96a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:54,Fall,Low,No,13,HSE,Pipeline Junction,Timothy Li,Austin Hawkins
+fc9a4787-ec30-4991-aad9-e70372f8d8e3,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:07,Equipment Strike,Medium,No,11,Engineering,Storage Area,Tiffany Wood,Caroline Miller
+c9f53b8a-a446-4b0d-8795-bb345cd84711,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:10,Gas Leak,Medium,No,27,Logistics,Storage Area,Patrick Morris,Linda Miller
+6e0c1d15-347d-45b5-a56b-d81bfc780380,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:21:14,Explosion,Low,No,9,Maintenance,Compressor Area,Shaun Hobbs,Christopher Tucker
+3cf55a1c-3391-4acd-b6aa-f62240a2a6eb,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:58,Fall,Critical,Yes,27,HSE,Pump Station,Tonya Crawford,Michael Green
+7acb3faa-a19c-422d-8652-e68451232c22,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:42,Fire,Critical,No,2,Logistics,Wellhead,Mark Cooper,Joshua Schroeder
+b6cf15eb-300f-44ae-b284-2c81c2e7f418,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:21:25,Equipment Strike,Critical,Yes,19,HSE,Pipeline Junction,Jamie Griffin,Brian Luna
+a0f9a4bb-71ab-4d9d-9e3f-33e2704b2e75,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:55,Chemical Spill,High,Yes,15,Engineering,Wellhead,Jacob Price,Katelyn Hernandez
+15ca7fca-a897-4f27-86b4-b3be78cae13e,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:44,Fire,Low,No,1,HSE,Control Room,Heather Wright,Stephen Jackson
+24fe0595-ae9c-465e-bd8b-4aa785fcb721,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:03,Gas Leak,Medium,Yes,5,Engineering,Pipeline Junction,Jennifer Smith,Ashley Aguilar
+8848d5cf-2767-4a05-95b3-7acc32a9beb3,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Fire,High,Yes,-99,UNKNOWN,Control Room,Chelsea Lee,
+d22b6047-22df-4f3f-b074-8cb4984929ca,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:58,Fire,High,No,7,Logistics,Wellhead,Patricia Allen,Michael Ramsey
+2233ea3d-a8b4-4de1-aad1-3a238c81c5b5,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:34,Gas Leak,Low,Yes,29,Maintenance,Pump Station,Taylor Hardin,Alexandra Burns
+e1334546-bf0a-4ec3-9b20-104624f16c6e,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:27,Equipment Strike,High,No,3,Maintenance,Storage Area,Joe Lozano,Eric Landry
+62100a66-4efc-4d15-94a5-a14bb0f025f5,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Fire,Medium,Yes,-99,UNKNOWN,Pump Station,Heather Miller,
+c5486216-6771-4793-9e06-f051a10a2297,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:16:06,Fire,Low,No,24,HSE,Control Room,Daniel Horne,Joshua Armstrong
+7f056b2d-382b-4a64-8a8b-b1d9a826684b,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:16:18,Gas Leak,Critical,Yes,11,Engineering,Pump Station,Scott Moran,Kenneth Ayers IV
+655cf3de-a5e8-4e68-9709-2aab0622ec8a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:56,Equipment Strike,Low,No,20,Operations,Compressor Area,Allison Collins,Julie Travis
+44ec572d-b2df-453d-949d-cb27cdfe7e5d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:59,Explosion,Medium,No,12,Maintenance,Wellhead,Kelly Warren,Howard Werner
+515ff5bf-f5c0-42ce-8177-26d2ea1ca433,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:43,Fall,Critical,Yes,10,HSE,Pump Station,Vernon Watts,Stephanie Jones
+ba4d7dcd-0359-4951-bcc1-6ad1cfaa57f0,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:15:52,Fire,High,Yes,4,Logistics,Compressor Area,Daniel Keller,Gerald Green
+8f7f3e0f-94d2-4430-b2b4-a3bdadb61613,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:26,Gas Leak,Medium,No,5,Maintenance,Wellhead,Casey Kelly,Mckenzie Smith
+8a53646b-7acc-4d62-bdb6-aabaefa0303d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:47,Explosion,Low,Yes,9,Engineering,Pipeline Junction,Elizabeth Foster,Victoria Smith
+f768deef-4dad-45e7-8688-4e1fe55f3b4c,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:14,Chemical Spill,Critical,No,8,Maintenance,Storage Area,Andrew Burton,Sarah Jones
+1be19566-c4a9-4b9d-9fba-1b4110656d56,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:13,Explosion,Critical,No,26,Maintenance,Wellhead,Jeremiah French,Evan Davis
+a7888f4e-e8dc-47bf-8ae4-097e9ca71783,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:12,Explosion,Medium,Yes,18,Maintenance,Wellhead,Bobby Stanton,Carl Thompson
+6beed8af-9ccc-4bad-998b-0fdc45e2b1fb,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:53,Chemical Spill,Critical,No,1,Maintenance,Compressor Area,Robert Moss,Cathy Bennett
+18956a60-2c82-428e-a5eb-415964261e7a,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:59,Fall,Low,Yes,28,HSE,Storage Area,Samantha Jackson,Sara Smith
+bd121d23-86a1-4cf5-8928-75e83858de89,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:23,Gas Leak,Critical,No,4,Logistics,Wellhead,Angela Marshall,Billy Cook
+aa33a8d9-e454-48f2-b2f5-520957d01742,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:56,Explosion,Medium,No,7,Engineering,Pipeline Junction,Destiny Barrett,Brent Rodriguez
+0e917cd0-b178-4f8b-84d1-314ef5426a74,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:23,Gas Leak,Medium,No,8,Maintenance,Control Room,David Peterson,Brent Hernandez
+4578d5a7-fe6a-47c3-8377-7c2748798a8a,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:48,Equipment Strike,Low,No,28,Engineering,Control Room,Steven Carter,John Barron
+478bb193-2019-41da-b7fb-5a92c666c981,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:38,Fall,High,Yes,16,Maintenance,Pipeline Junction,Angela Jones,Paul Kennedy
+178d8c4a-a880-49e5-bb53-3a0e903245ea,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:07,Fall,High,No,17,Operations,Wellhead,Jonathan Curry,Jennifer Powell
+8ad80c07-a111-4cf7-b99c-7b57c09ff3fd,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:16,Fire,High,Yes,28,Maintenance,Pump Station,Dennis Taylor,Heather Douglas
+445c6edc-8f2c-4a3a-85a4-3552d915c94c,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:07,Fall,Critical,Yes,4,HSE,Pipeline Junction,Candice Williams,Craig Douglas
+a3a6b1fe-9f35-4831-92de-f930485c7aa0,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:34,Fire,Critical,Yes,1,HSE,Control Room,Greg Harris,Nicholas Liu
+d02a0df9-6022-4ae1-9b76-076505ef73ed,COMP-202,Forcados Field,Team Bravo,Compressor,,Explosion,Medium,No,-99,UNKNOWN,Compressor Area,Nathan Henry,
+e29b54b7-8401-46c6-80cb-1af7db68c509,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:40,Equipment Strike,Medium,No,4,Logistics,Pipeline Junction,Jason Rivera,Mary Snow
+d000dc5a-0310-4598-a710-f7b11e5a8542,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:13,Chemical Spill,Critical,Yes,15,HSE,Storage Area,Cristina Ford,John Fox
+1cb7581b-1524-4ad7-8e1f-ea369e0a13a2,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:57,Fall,Critical,No,15,Engineering,Wellhead,William Dixon,Jessica Hull
+6b8a7224-5e73-4fda-98e0-b7f2d0d35a0c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:13,Gas Leak,Low,Yes,30,Operations,Pump Station,Erin Tanner,Timothy Petty
+44bd75f7-a6be-4f0f-8d69-ce2e46aa4d96,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Gas Leak,Medium,Yes,-99,UNKNOWN,Wellhead,Jennifer Roberson,
+1ac8c21b-5137-43d2-b5fa-0f76b451cda5,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:44,Equipment Strike,High,Yes,0,Maintenance,Wellhead,Peter Harris,Mary Ramos
+f7668c2e-7054-4174-b21b-cd9881259db1,COMP-202,Forcados Field,Team Bravo,Compressor,,Explosion,Critical,Yes,-99,UNKNOWN,Pump Station,Kyle Huang,
+fc04cf09-75a1-41fe-b651-a887caa846f0,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:21:26,Chemical Spill,High,No,26,Maintenance,Control Room,Jesse Santiago,Angelica Brown
+f5a84d3f-a722-4418-9150-676961525fcd,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:23,Chemical Spill,Low,Yes,5,HSE,Wellhead,Brendan Hernandez,Sherry Vaughn
+edb05b30-28ee-42a6-915d-4f8c4a215076,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:39,Equipment Strike,Low,No,14,Maintenance,Compressor Area,Nicholas Lewis,Natalie Reynolds
+24e17fdd-d512-49d9-8631-641d88d74ee0,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:39,Gas Leak,Critical,Yes,8,Engineering,Pump Station,Brandon Dunlap MD,Sarah White DDS
+4e6f7a7b-e061-42f2-9aa0-08e3c7ccec41,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:23,Chemical Spill,Critical,No,21,Engineering,Compressor Area,Johnny Ortega,Lisa Morris
+a63f2acf-33f2-4a8b-9b3c-5cc5d9c6c4c8,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:15,Fall,Low,No,4,Operations,Storage Area,Devin Lewis,Judith Joseph
+f9826899-609c-4a6b-b8d2-4bb573fe4fbe,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:03,Fire,Critical,No,13,Engineering,Control Room,Jordan Neal,Emily Griffin
+9eadb116-4d54-49ff-abfa-c57bcdae96ae,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:15,Fire,Critical,Yes,4,Maintenance,Control Room,Stephanie Gonzalez,Michelle Chen
+489c8027-e15e-4234-bced-848362c4a7e4,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:24,Equipment Strike,High,Yes,28,Operations,Wellhead,Alexandra Scott,Elizabeth Hernandez
+9e715f9f-4044-48c8-87d4-b8d7e8220823,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:54,Equipment Strike,Critical,No,29,Operations,Control Room,Erin Rhodes,Christopher Russell
+226d913d-8f03-4f90-8ce5-1762334fdee4,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:47,Explosion,Low,No,3,Engineering,Wellhead,Steven Adams,Linda Scott
+207a7b72-51c3-4c39-8775-ad54dad5dcb9,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:44,Chemical Spill,Critical,No,20,Maintenance,Storage Area,Brandon Wright,Christopher Gonzalez
+e8671f09-8daa-4ec7-9267-1162ae6a1094,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Fire,Critical,Yes,-99,UNKNOWN,Compressor Area,Beth Lee,
+17ebf870-b9b1-44d2-8f96-6e63ba8c779e,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:49,Explosion,Medium,No,8,Maintenance,Control Room,Mark Hernandez,Katherine Griffith
+4212fa99-e4f3-4fdf-8f51-52d810c50ba6,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:03,Fall,Critical,Yes,15,Logistics,Pump Station,Allen Reynolds,Christopher Luna
+be3ae701-71dd-40c2-a05d-5bccbbbf5744,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:18,Gas Leak,High,Yes,0,Engineering,Control Room,Maurice Vasquez,Robert Gutierrez
+ff1b6f73-ec70-405b-87e7-2373e9ef7fa3,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Fire,Low,No,-99,UNKNOWN,Pump Station,Scott Murphy,
+91c7c382-fe74-4c43-b456-a4474c346d52,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:37,Fall,High,No,4,Maintenance,Compressor Area,Bradley Michael PhD,Jordan Martinez
+1834ba7e-0865-4f9e-ac88-19f9e2cf2aa5,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:21:14,Fire,Critical,Yes,18,Operations,Storage Area,Erica Hubbard,Jeremiah White
+45a1c3cd-a967-4627-9ed3-8438b5320295,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:20,Fire,Medium,No,28,Engineering,Pump Station,Benjamin Williamson,Randy Garcia
+e9ed834e-e90e-42f9-bf59-0e0aefb85983,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Fall,Critical,No,-99,UNKNOWN,Compressor Area,Jason Mathews,
+8d320a45-7f50-4609-ae72-0edfd49598aa,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:54,Equipment Strike,High,Yes,5,Logistics,Wellhead,Douglas Sharp,Julia Edwards
+e41e570d-53eb-4f99-98b6-65caa4f2a69b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:33,Fire,Critical,Yes,28,HSE,Storage Area,Justin Dunn,Patrick Leblanc
+e783f6d6-0dfa-4be4-b612-052a49864d50,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:12,Explosion,Low,Yes,24,Maintenance,Storage Area,Joseph Nguyen,Bradley Mcdonald
+1ee3ed61-f2f9-42f1-bb88-5d4f30084797,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:15:57,Chemical Spill,High,No,18,HSE,Control Room,Tony Mathis,Brandi Hall
+0f1f7b57-bbc4-4fe4-83a0-1f0fdad206cc,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:48,Chemical Spill,Critical,No,23,Operations,Storage Area,Robert Leon,Denise Tate
+f53306a9-53fb-4a79-ba8e-2285d7972851,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:19,Gas Leak,High,No,2,Maintenance,Compressor Area,George Johnson,Patrick Nichols
+7433e486-d03f-4562-931a-fe8301aaa886,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Fire,Medium,Yes,-99,UNKNOWN,Wellhead,Kenneth Valencia,
+b9e10f51-67a0-46dd-8795-70f09db8eeb1,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:42,Fire,Low,Yes,11,Operations,Storage Area,Mary Gregory,Jesse Perry
+a0e065c2-22e0-4429-b554-ef48a0b7e060,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:15:37,Fall,Low,Yes,4,HSE,Pipeline Junction,Amanda Graham,Kevin Dixon
+609a254d-9cb3-48ee-b500-a9270f5e3f5f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:21:07,Gas Leak,Medium,No,17,Logistics,Control Room,Carl Wells,Martha Cook
+7d6f84a2-752d-442e-bc2d-c4c38e32a427,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Fall,Critical,Yes,-99,UNKNOWN,Pipeline Junction,Richard Willis,
+86f280b9-eb06-426f-af73-8430f4c3c26a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:21:29,Fall,Medium,Yes,28,Operations,Compressor Area,Stacy Bradley,Taylor Williams
+0932634e-6326-4195-8bdf-ae17770a6cfe,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:10,Chemical Spill,High,Yes,16,Logistics,Pump Station,Elizabeth Clark,Crystal Sims
+25b5b01f-3bf7-4d75-84f3-467ca61437a6,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:12,Gas Leak,Medium,Yes,30,Engineering,Compressor Area,Suzanne Mason,Jeremy Alvarez
+e85109b5-3aca-49e3-a106-8bd0eb85f058,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:23,Explosion,Critical,Yes,23,Logistics,Wellhead,Charles Hampton,Anthony Logan
+fae63ee9-9835-482a-9a06-4d3a1e25d1d8,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Equipment Strike,High,Yes,-99,UNKNOWN,Pipeline Junction,Robert Patrick,
+cb306d11-85df-4ca4-84bf-4bc1823a3f2c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:43,Gas Leak,High,No,12,Logistics,Wellhead,Tonya Mitchell,Robert Fields
+d712da74-9f04-4dff-95ce-c12357600fc7,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:31,Equipment Strike,Low,No,21,Operations,Compressor Area,Erik Gray,Troy Yang
+cc2030e5-44f3-481c-84c1-4a89dbcaf08d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:18,Gas Leak,Low,No,27,Maintenance,Pump Station,Austin Snyder,Jenna Barrett
+7388345d-d50e-4548-85cc-6bfc125e07d7,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:23,Fire,High,No,9,Logistics,Storage Area,Donald Berg,Tiffany Wagner
+5208a43c-c391-472d-b81f-c4c264a70192,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:08,Fire,Medium,No,16,HSE,Control Room,Dylan Kemp,Wendy Armstrong
+ee38535e-31be-44c1-9ef2-b1e133392b9d,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:33,Gas Leak,Critical,Yes,5,Logistics,Storage Area,Kristen Miller,Kathleen Carlson
+547823cd-8b3c-4beb-aac7-770e42d66075,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:26,Fall,Medium,No,30,Operations,Compressor Area,George Aguirre,David Ruiz
+1d786216-e4fc-43c9-9bd7-a7ab2d6e0705,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:31,Explosion,Low,Yes,18,HSE,Control Room,Charles Medina,Garrett Johnson
+585f1fc5-d517-4aec-bfc2-dbe95f91eaa6,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:07,Equipment Strike,Medium,No,2,HSE,Compressor Area,Lauren Young,Robert Peterson
+6310ff58-ac17-4a14-980e-5f6f729658bf,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Gas Leak,High,No,-99,UNKNOWN,Control Room,Theresa Dorsey,
+598ece76-b2ba-4ced-b349-265cf0e0ed66,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:31,Fire,High,Yes,11,HSE,Pipeline Junction,Kayla Cummings,Jamie Miller
+10b538c8-a185-4022-8ca9-c553db5a5ab5,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:13,Explosion,Medium,No,13,Engineering,Storage Area,Terry Johnson,Ashley Johnson
+3ece1014-b091-4ccb-8a48-5646ab70ce8d,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:36,Equipment Strike,High,No,7,Maintenance,Compressor Area,Mark Smith,Amanda Shaffer
+65e79c69-acd0-4001-9a07-2d5d3ee6bdea,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Fall,Medium,Yes,-99,UNKNOWN,Storage Area,Mark Nguyen,
+7c8d1fe9-4bf9-4978-b78f-818290d38620,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:17,Fire,High,Yes,8,Engineering,Wellhead,Andrew Ho,Nicole Gonzalez
+41291508-506b-4d3e-8d33-e4e92f03bae2,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:29,Fall,Medium,Yes,29,Logistics,Control Room,Sean Bird,Mark Norton
+5d1b7a6d-8b05-4e9a-862e-f409387002bd,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:14,Equipment Strike,Medium,Yes,13,Logistics,Pump Station,Justin Wood,Richard Donaldson
+7b02a838-ec0e-4ee4-9d99-ac45e69902d6,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:10,Fire,Low,No,2,Maintenance,Compressor Area,Sara Davidson,Janet Carrillo
+1a93e940-7632-421c-82b6-2461fefd5b6a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:21,Explosion,High,Yes,9,Maintenance,Storage Area,Tina Rowland,Mary Reyes
+0a12653f-7e7a-4ca7-b75b-3180c2bb8a7a,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Gas Leak,High,No,-99,UNKNOWN,Wellhead,Stacey Cunningham,
+e4b1b11f-c1e5-4744-a9a5-74e88d388ac2,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:52,Equipment Strike,Critical,No,9,Logistics,Storage Area,Keith Jenkins,Michelle Jones
+feb8716b-fa2e-41d8-a58d-ee47de891706,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:53,Chemical Spill,Critical,No,14,Engineering,Compressor Area,Andrew Chavez,Jared Gilmore
+b043bb7c-ff77-4879-b976-be068cf5a29e,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:04,Chemical Spill,High,No,1,Operations,Pipeline Junction,Alexander Anderson,Jamie Stewart
+6af9539e-ce1d-424f-b9fe-4d2155126fd4,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Fall,High,Yes,-99,UNKNOWN,Wellhead,Caitlin Lawrence,
+d4967124-aca4-4b22-bc4e-94a0b376dbc4,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:01,Fall,Low,Yes,0,Maintenance,Wellhead,Mikayla Hansen,Jennifer Perez
+e617dc36-cb63-4c84-869f-47cba15bb658,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:59,Explosion,Low,Yes,30,HSE,Pipeline Junction,Manuel Black,Ryan Green
+ad0c334c-2bed-40bc-9e66-086d8e63f29a,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:02,Fire,Low,No,3,HSE,Storage Area,Darrell Hart,Christopher Brown
+fa9c60c2-63c1-455c-8532-48a0a59cf481,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:05,Equipment Strike,Low,No,19,Maintenance,Wellhead,Melissa Davis,Tami Cortez
+05e79569-06da-41a9-b6a7-bbf9347f268a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:03,Explosion,High,Yes,0,Logistics,Pipeline Junction,William Bender,Kelly Miller
+4e75f453-5113-4cc2-a02a-9754f2c0d1b3,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:21,Gas Leak,Critical,No,9,HSE,Storage Area,Ryan Contreras,Theresa Moore
+71510b38-1122-43ae-951e-57fc73cb4eb9,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:40,Fire,Low,Yes,15,Engineering,Pipeline Junction,Edwin Mejia,Thomas Faulkner
+332ea89c-654b-4150-93a2-330aba74e0d4,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:35,Gas Leak,Medium,No,15,Operations,Compressor Area,Ian Robles,Aaron Brewer
+c123505e-8f74-4d7f-9269-a219cb80d4d1,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:19,Chemical Spill,Medium,No,9,Engineering,Compressor Area,Beth Alexander,Bryan Woodard
+cdc33177-c1a6-44ca-88a2-7383243e2092,COMP-202,Forcados Field,Team Bravo,Compressor,,Fall,High,Yes,-99,UNKNOWN,Pump Station,Robin Melton,
+28f9cd25-3b51-4cce-bd4a-adeff6d14c0a,COMP-201,Forcados Field,Team Bravo,Compressor,,Equipment Strike,Low,Yes,-99,UNKNOWN,Wellhead,Lauren Smith,
+022375c2-17ba-4223-8e69-522e6d3cb8ee,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:58,Equipment Strike,Critical,Yes,10,Maintenance,Storage Area,Caitlin Hooper,Chris Underwood
+222492e4-948d-451f-8031-11340cb06f77,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:45,Fall,High,Yes,24,Maintenance,Compressor Area,Laura Coleman,Rebecca Jones
+cf8cc451-40ab-495f-9aac-bc2d0cd1d52a,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Fall,High,No,-99,UNKNOWN,Wellhead,Katie Johnson,
+c6a86934-7287-4c32-8bca-7c0e4e64eb80,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:03,Fall,Medium,Yes,19,HSE,Wellhead,Gabriella Mitchell,Amanda Shaffer
+cd8d8f20-d94c-413e-98fd-2a45c36d2174,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:32,Equipment Strike,Low,Yes,27,Maintenance,Control Room,Adam Kaufman,Garrett Mcconnell
+a91d8178-7d6e-4c00-a3ed-0e4c97acbac1,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:54,Fall,Critical,Yes,8,Maintenance,Pump Station,William Parks,James Adams
+c2385347-1e53-4e7e-92bd-6578953fb189,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:15:29,Chemical Spill,High,Yes,10,Logistics,Wellhead,Michael Cole,Casey Williams
+937e04de-f236-4a34-ba94-5324cd84a54b,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:50,Equipment Strike,Critical,Yes,19,HSE,Compressor Area,Daniel Diaz,Jacob Brown
+6d726eea-8a3b-42c0-9c72-9484d4027c22,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:03,Equipment Strike,Critical,Yes,19,Maintenance,Pipeline Junction,Vanessa Oliver,Paul Yates DDS
+df4abf4a-405b-43fd-af7f-3c6d50fcb05f,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:21:24,Equipment Strike,Critical,No,16,Engineering,Pump Station,David Flores,William Smith
+1574ff91-a043-46e6-8ed4-86e2687b4c5d,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:48,Chemical Spill,Critical,Yes,19,Logistics,Wellhead,Yvonne Andrews,Stacie Mata
+b73c40a9-83cc-4f32-9648-02f147766f91,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:55,Fire,Low,Yes,11,Maintenance,Compressor Area,Jeffrey Mclaughlin,Jonathan Brown
+ce35d16b-3f48-41cf-b974-2e2fb6685394,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:40,Explosion,Critical,Yes,10,Maintenance,Control Room,Daniel Rogers,Dennis Mccoy
+20208ea1-db4b-4122-8416-32a923dbf39b,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:05,Fall,Low,No,22,Maintenance,Pump Station,Michael Jackson,Kristen Johnson
+e9f39f5a-4f56-4651-8a99-c2f75f5e1774,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:03,Fire,Critical,Yes,5,HSE,Wellhead,Joanna Turner,John Dominguez
+71f062ff-f4e5-4a9a-af04-412a4bc4ec2c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:26,Fire,Medium,No,11,Maintenance,Storage Area,Jon Adkins,Sandra Yates
+b8e8a1ac-e99d-44e4-be29-01576240e60e,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:06,Chemical Spill,Critical,No,28,HSE,Pipeline Junction,Gregory Mills,Jake Thomas
+cc3b3a1c-f591-4ef8-9e72-4390f3f5817a,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:31,Explosion,Critical,Yes,11,Maintenance,Pipeline Junction,John Evans,Steven Edwards
+2dba2a56-07d3-447e-b938-f33071e8363f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:48,Equipment Strike,Low,Yes,24,Logistics,Control Room,Trevor Johnson,Lori Coleman
+f8bec8a2-c252-48f6-a899-8ba6f01ccfe9,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:57,Fire,Low,Yes,10,HSE,Control Room,Allison Miller,Dr. Michelle Lopez
+2dc607ea-96a7-4095-9857-b01fefc5e233,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:55,Explosion,Low,Yes,2,HSE,Pump Station,Michael Abbott,Teresa Montgomery
+26afe833-e9d1-453a-b70d-c12b168a7551,COMP-202,Forcados Field,Team Bravo,Compressor,,Gas Leak,Critical,Yes,-99,UNKNOWN,Control Room,Emma Neal,
+8a1b75de-f7cb-40cc-8072-1e45b0607c55,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:37,Explosion,Low,No,23,HSE,Storage Area,Stephen Nelson,Lori Calderon
+c1122618-cdca-4029-8c61-1729cf547cde,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:16:07,Equipment Strike,Low,Yes,23,Engineering,Control Room,Sherry Fry,William Andrade
+0ddd6f08-32db-4cbb-ad3a-c872a02ecb66,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:46,Fire,Low,No,7,Maintenance,Wellhead,Edward Liu,Samuel Fleming
+0e7b2fff-162e-4893-8748-75352aeeaca9,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:21:27,Chemical Spill,High,No,28,HSE,Compressor Area,Lisa Mccoy,Matthew Carroll
+705b50e0-7938-4f6c-90cf-612de2f54001,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:28,Fire,Low,Yes,29,Logistics,Pipeline Junction,Patrick Gilmore,Sandra Chapman
+0bf52218-26bc-4309-a32e-46f545011650,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:11,Fire,High,Yes,20,Maintenance,Wellhead,Timothy Wiggins,David Mason
+47e22b93-bf1b-48e7-920c-541e3507292a,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:21:04,Explosion,Medium,No,8,Logistics,Compressor Area,Adam Salinas,Robert Richard
+37087d54-e24e-44cb-b3d5-bc06daecbd7f,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:14,Fire,Critical,No,21,Engineering,Wellhead,Sheila King,Margaret Choi
+619c7005-da65-4f59-a7c3-bf34f7e9f503,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:58,Fire,Critical,Yes,29,Maintenance,Wellhead,Brianna Henry,Jennifer James
+3f2789a0-f992-41e9-a1a9-4e228fffa927,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:59,Chemical Spill,Low,No,2,Engineering,Wellhead,Makayla Carter,Shawn Crawford
+009370c6-535d-4ac2-88a1-c1c4aa59d5b5,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Fire,Medium,Yes,-99,UNKNOWN,Wellhead,Erica Diaz,
+c5cb51d8-68af-43a6-8b8f-ed8325159f87,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:18,Explosion,Low,Yes,21,Maintenance,Compressor Area,Jason Jensen,Christopher Miles
+e53f9ea9-3b08-41bc-8b64-7d7f2738f34c,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:39,Explosion,Medium,Yes,16,HSE,Compressor Area,Shelby Clark,Zachary Gonzalez
+2a62e5d2-014a-4dc6-8772-92ffd844e380,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:19,Chemical Spill,Medium,No,1,Logistics,Wellhead,Danny Phillips,Abigail Munoz
+c0e5d277-6642-4c08-a4fe-6950fb7b611c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:47,Chemical Spill,Low,No,12,HSE,Storage Area,Michael Greene,Lori Benson
+eb810df2-a90a-4be0-9102-cb52a37bac12,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:15:49,Explosion,High,No,20,Logistics,Control Room,Douglas Trevino,Andrea French
+f28f9d0a-3384-45ee-a55b-6a4684ba375c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:29,Explosion,Low,Yes,0,Maintenance,Compressor Area,Lisa Cobb,Mr. Arthur Moore
+c0cb7075-93be-4c44-98b6-3f2ef3718238,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:15:59,Chemical Spill,Critical,Yes,26,Logistics,Wellhead,Tyrone Turner,Daniel Bernard
+94e4e5ba-1014-499a-a2c5-21676c8d338e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:55,Fall,Low,No,24,Operations,Pump Station,Linda Campos,Susan Schultz
+1c8be6e3-6da0-4e7d-af7c-815bc9f2e5b0,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:08,Gas Leak,Medium,Yes,7,Logistics,Compressor Area,Jeffrey Parker,Christine Barnes
+52bc5a63-1cc2-45dd-a6e4-e2451b303347,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:47,Equipment Strike,High,Yes,18,Operations,Pipeline Junction,Katherine Houston,Rachel Anderson
+0904886e-4238-41dc-9f7a-0080f6d4d7ff,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:20,Chemical Spill,High,No,16,Engineering,Storage Area,Sandra Mcdonald,Jessica Hoover
+85ea42d6-03a3-4d6b-a2b7-cc9fd0ec3069,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:35,Fall,Low,No,19,Operations,Pump Station,Michael Thomas,Jasmine Rodriguez
+cdc9d46a-3d53-4768-8037-f0dc127accda,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:12,Gas Leak,Critical,Yes,15,Engineering,Control Room,Phillip Jenkins,Paul Hunter
+02330f61-8c33-4095-adbc-cbf4549ba254,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:00,Fall,Low,Yes,6,Logistics,Pump Station,Diane Hernandez,Tyler Decker
+366a4d62-938a-46e6-8d3f-85fd43e3e619,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:28,Gas Leak,Critical,No,14,Operations,Wellhead,Julian Welch,Tina Smith
+586f16a9-ea1d-45c2-8552-f7fd06472124,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:06,Fall,Critical,No,6,HSE,Wellhead,Erika Vega,Dr. Susan Holland MD
+95d48f75-ab64-42de-8168-8630b04cdf14,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:51,Fire,High,Yes,8,Maintenance,Wellhead,Michelle Campbell DDS,Alicia Melton
+85922371-2a01-4583-99ac-49bb1eb5376f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:56,Equipment Strike,Medium,No,21,Engineering,Control Room,Jeremy Archer,Sarah Fry
+debe7071-9d47-4f72-9ac4-7cc689b29a95,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:08,Explosion,Critical,No,14,Maintenance,Pipeline Junction,Bailey Shannon,John Jones
+941fd66c-cea7-4ed7-86c1-d769fdb94320,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:04,Fire,High,No,9,HSE,Compressor Area,Andrew Williams,Christopher Stone
+22ed123d-857c-42b9-b67a-5fd2458d0ed0,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:49,Explosion,Critical,Yes,16,Logistics,Compressor Area,Melissa Miller,Katelyn Diaz
+f18b9775-390c-43d7-a8a7-7e7e1e62b2ec,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Gas Leak,Critical,No,-99,UNKNOWN,Control Room,Peter Howard,
+760a79f1-b28e-4579-b8b2-0567ce2ee499,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:19:36,Explosion,Low,Yes,7,Operations,Control Room,Frank Mathis,Paul Bright
+1e959017-5291-4f7e-b1d0-a9091c018fa2,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Fire,Low,No,-99,UNKNOWN,Pump Station,Mary Cobb,
+3281f914-5ab6-48a2-8173-6a25c7a3cbf8,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:33,Chemical Spill,Medium,No,26,Engineering,Control Room,Derek Hancock,Scott Martinez
+676283fc-2f1c-4ab4-96ce-3bc37fc117ac,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:15:42,Chemical Spill,Critical,No,3,Logistics,Compressor Area,John Walker,Kathy Henderson
+1096a028-da8e-45c1-977d-a908150c9e11,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:39,Gas Leak,High,Yes,15,Operations,Compressor Area,Carolyn Leonard,Matthew Jones
+6995ee68-3651-451a-a89b-db4ef70ea35a,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Gas Leak,Low,No,-99,UNKNOWN,Pump Station,April Keith,
+c1ff2e8b-2ce7-4097-be62-354a4f642390,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:45,Explosion,Low,No,14,Logistics,Pump Station,Ronald Gordon,Jason Guzman
+20d18d4b-c81d-4395-9a8f-a2bdb4d0711e,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:26,Explosion,High,Yes,19,Engineering,Pipeline Junction,Dr. Samantha Kim,Kurt Chan
+20a32d11-583f-47f0-9eeb-b4ef488277cb,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:47,Chemical Spill,High,Yes,8,Operations,Control Room,Donna Boyer,David Gonzalez
+84958016-4561-4b9a-9f8d-8d5b85ae3c38,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:15:53,Explosion,High,Yes,5,Engineering,Pipeline Junction,Michael Griffin,Jose Perez
+b1e4cbec-9030-4d5a-a4d6-e8a42c3e25a8,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:33,Equipment Strike,Low,Yes,3,Maintenance,Pipeline Junction,Barbara Jones,Susan Bradshaw
+c3f9611e-c934-4097-8d6b-3bad52cebfdd,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:40,Fire,Critical,No,26,HSE,Compressor Area,Douglas Harvey,Karen Reynolds
+915dabb7-6875-4e99-85c7-beec1b07d835,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:52,Equipment Strike,Low,No,5,Maintenance,Wellhead,Michael Logan,Tanya Landry
+7a22caa4-1122-4ab2-b3f5-5f41e9c387a8,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:01,Chemical Spill,High,No,19,Logistics,Pipeline Junction,Jason Adams,John Thompson
+ba7da752-4d45-45b6-9c91-0cbaa022759f,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:21,Fall,Low,No,12,HSE,Wellhead,Alexandra Hart,Kristi Molina
+75c5ff2e-1f01-4c8d-bc96-d9ba89325fa5,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:21:11,Equipment Strike,Medium,No,16,Logistics,Compressor Area,Briana Ramirez,Daniel Carpenter
+59bfdf99-da19-4039-9498-72e0121a7c0c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:21,Chemical Spill,Critical,Yes,9,Maintenance,Control Room,Andrea Vargas,Dr. Peter Medina
+e655d255-2189-4247-a135-1b4d9dece650,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:21,Fall,Critical,Yes,30,Maintenance,Pipeline Junction,Jacob Oliver,John Robinson
+19a2e4ca-5aa4-4b94-ba47-f5fa87f9060f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Fire,Low,Yes,-99,UNKNOWN,Wellhead,Tracy Williams,
+e9224caf-4f6f-4dcb-ac19-33f5ab91a0e4,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:58,Gas Leak,High,No,15,Operations,Storage Area,Paul Williams,Tiffany Foley
+e098beee-b8d0-4e5e-afc9-f0949fba3535,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:04,Fire,Critical,No,6,Logistics,Control Room,David Hall,Melissa Harris
+c3128509-6217-472d-8bac-37e515d97a7c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:23,Gas Leak,High,No,22,Engineering,Control Room,Traci Kennedy,Larry Taylor
+060dd67a-8f2d-465e-a18e-bcff465ffbdf,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:45,Fall,Low,Yes,7,Engineering,Storage Area,Manuel Zamora,Jessica Townsend
+c5644fec-c018-49d1-a345-32fc27ff9e1e,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:45,Explosion,Low,Yes,27,Logistics,Wellhead,Tracy Young,Jeremy Warren
+0e9aa7f1-2343-45f9-b7ca-1d6a5a81b73d,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:01,Fire,High,No,6,Logistics,Wellhead,Ariana Johnston,Elizabeth Hurley
+34c316b8-3852-498d-b7fe-44cb313bef3c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:46,Gas Leak,Critical,No,1,Operations,Wellhead,Bobby Dalton,Connie Henderson
+cceacb32-bea1-4ccf-8f43-959d7afee9ce,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:48,Fire,Low,Yes,25,Engineering,Compressor Area,Joseph West,Micheal Perry
+04faddbd-b990-4ea4-b3cb-1d9e40e268df,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:36,Explosion,High,No,19,HSE,Pump Station,Elizabeth Nelson,Susan Steele
+635f4a2e-5d20-43f5-adea-7cb66cf67b85,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:15:46,Fire,Medium,Yes,28,HSE,Compressor Area,Christopher Richardson,Larry Wheeler
+ea405b75-15aa-42c3-bf8c-7039bbf6a6fe,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:13,Explosion,Critical,No,21,HSE,Control Room,Frank Jones,Melissa Pollard
+579f08f4-c834-4c0c-b16d-7d1c60d56cd3,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:42,Explosion,Low,No,23,Operations,Storage Area,Thomas Fisher,Jeff Garcia
+8d78f0d1-5e86-42d8-9ab8-7e34defd91ab,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:50,Fire,Low,Yes,22,HSE,Wellhead,Sheila Robinson,Jennifer Allen
+8a7c90f3-0951-4610-9e37-f72e2f816a95,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:20,Equipment Strike,Critical,Yes,1,Operations,Wellhead,Thomas Hayes,Mrs. Denise Duncan
+6f9f22cf-d539-45ff-b78b-cd9ede7471a1,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:04,Chemical Spill,Medium,Yes,28,HSE,Wellhead,Tyler Schwartz,Laura Gardner
+682d1557-b2bf-4791-af14-de5882aac144,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:50,Equipment Strike,High,No,18,Logistics,Control Room,Aaron Castillo,Rebecca Schmidt
+a0eadf74-6c15-491e-854a-56e5ecefa3af,COMP-202,Forcados Field,Team Bravo,Compressor,,Fall,Low,No,-99,UNKNOWN,Wellhead,Gregory Skinner,
+a1168905-64a2-4e8b-8cba-924222e222fc,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:28,Fall,Low,Yes,3,Operations,Wellhead,Brenda Watson,Mrs. Jennifer Mccullough
+9a188d0b-718b-4b5e-99b3-7f21b1814d9e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:18:40,Gas Leak,High,No,16,Maintenance,Pump Station,Brian Bush,Megan Alvarez
+e802a752-d64f-402e-9897-89349239be0d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Explosion,Medium,No,-99,UNKNOWN,Pump Station,Mark Cunningham,
+1cc30dd0-2605-4090-9dbb-c615d350ae54,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:56,Gas Leak,Low,Yes,14,Logistics,Pipeline Junction,Jill Cunningham,Barbara Wagner
+895026c1-a1b6-4882-9ec1-168229da930f,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:10,Gas Leak,Critical,No,27,Operations,Wellhead,Kimberly Porter,Brian Martinez
+b275bbfc-0d48-4524-9634-b14ef5c70e5b,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:15:40,Equipment Strike,Critical,Yes,4,Engineering,Wellhead,Tony Evans,Melody Little
+f246a28d-3e3c-4f82-ba3e-018348bc6074,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:07,Equipment Strike,Critical,Yes,14,Operations,Pipeline Junction,Jerry Gonzalez,Carol Chambers
+55d168ff-c204-4459-b1a7-710059234206,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:21,Fall,Critical,Yes,9,Engineering,Compressor Area,John Young Jr.,Paul Flores
+eac9d5c2-767e-435a-a3c7-7d6c86851b43,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Gas Leak,Medium,Yes,-99,UNKNOWN,Wellhead,Mark Walker,
+ec5c6e75-16fe-4065-8317-831794ba5973,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:16,Gas Leak,Low,No,6,Logistics,Storage Area,Stacey Davidson,Daniel Myers
+7e69d7e9-794c-4547-82d0-5caa3bbd19c2,COMP-202,Forcados Field,Team Bravo,Compressor,,Fire,Low,No,-99,UNKNOWN,Storage Area,Kimberly Jensen,
+d9ef199f-0ee3-41dd-a3f2-fd78852d59b9,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Chemical Spill,Low,No,-99,UNKNOWN,Wellhead,Sean Little,
+a008c5fb-97c9-4e76-8cd3-70d592d89b97,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:09,Gas Leak,Low,No,5,Engineering,Wellhead,Samantha Wong,Kyle Bass
+ab31247a-4923-482e-a174-bb28436e402c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:54,Explosion,Low,No,4,Operations,Compressor Area,Lauren Thompson,Teresa Owens
+1900b849-fae4-437b-99df-ee25da04f761,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Fall,High,No,-99,UNKNOWN,Control Room,Amanda Boyer,
+db3e6090-421b-4aa3-8c01-3b2a3f0a9fe5,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:56,Fall,High,Yes,8,Logistics,Compressor Area,Amy Wilson,Holly Johnson
+3c49419f-48ea-4f8c-b00f-46a09378955c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Fall,Medium,No,-99,UNKNOWN,Storage Area,Eric Howe,
+b5f4c68e-1357-4b73-b2a6-f3e03bb54736,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:21:05,Chemical Spill,Medium,No,10,Operations,Compressor Area,Patricia Phillips,Rhonda Lara
+55b30d20-d208-4caf-bdbc-51958fba3979,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Equipment Strike,Low,No,-99,UNKNOWN,Pipeline Junction,Brenda Howard,
+0e696f72-c666-450c-b9b4-39f50ac3bdcd,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:02,Explosion,Medium,Yes,5,Engineering,Compressor Area,Michael Garza,Rebecca Rosales
+d27797e3-3c3b-4267-9661-3434cf733438,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:25,Fall,Critical,No,14,HSE,Control Room,Jay Meadows,Juan Obrien
+5ad2186b-b206-475e-8ff0-8a4d76d7616a,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:53,Fall,High,No,13,HSE,Wellhead,David Smith,Brenda Miller
+a5c9c975-8ad3-45ed-adcb-f5780e61cd7d,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:44,Fire,Medium,Yes,8,Engineering,Storage Area,Michael Smith,Scott Monroe
+8e2ef9e2-b214-48b4-a508-5a957341b1f1,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:42,Chemical Spill,High,No,14,Maintenance,Compressor Area,Melanie Miller,Michelle Davis
+6dbc0a22-2d9f-4c91-a9db-0b1509bc6d5d,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:41,Gas Leak,Critical,Yes,20,Maintenance,Pipeline Junction,Sherri Davis MD,Monica Foster
+bc29a316-a4c5-46a7-9459-10827ee1ced2,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:30,Fire,Low,Yes,23,HSE,Pipeline Junction,Carly Mitchell,Ana Diaz
+c99e19e4-6064-4989-8a16-490f821d1847,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:19,Chemical Spill,High,No,3,Operations,Wellhead,Ashley Orozco,Scott King
+00a59618-6c3b-4479-ba70-ca6a9f243a42,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:24,Fall,Critical,No,1,HSE,Storage Area,Sarah Flynn,Nancy Page
+090e2ad6-6c7e-4a72-b733-2798541af9e5,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Equipment Strike,Medium,Yes,-99,UNKNOWN,Control Room,Robert Brown,
+d0700c31-9b35-4fe4-9b1e-a68d01258b25,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:59,Fire,Low,Yes,14,Logistics,Pump Station,Emily Sparks,Kathy Powell
+6c19e140-05c4-4518-b4b0-b8517640e699,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,,Explosion,Low,No,-99,UNKNOWN,Compressor Area,Amy Greene,
+fdb00ab9-df0b-4137-adb2-8f96c3bb44dc,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:15,Chemical Spill,Critical,Yes,2,Engineering,Storage Area,Janet Quinn,John Cook
+6b906e42-4816-49f4-8633-7ca16dcc1626,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:37,Gas Leak,High,No,14,Operations,Pump Station,Danielle Brown,Jennifer Smith
+2355e776-b359-476d-974a-4991eaf83ea0,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:20,Explosion,High,No,13,Engineering,Pump Station,Terri Lewis,Chad Williams
+3963048e-060d-4c0d-962f-e664b435d53c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:58,Gas Leak,Medium,No,26,Engineering,Control Room,Jeffrey Horne,Austin White
+8167368f-8159-4f33-819e-47487308b40e,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:15:30,Fall,Low,No,19,Logistics,Pump Station,Douglas Bishop,Francisco Flores
+09c6080c-8903-4b0e-86bb-e038e6ed939e,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:18,Explosion,High,No,10,Operations,Control Room,Tanner Marshall,Kyle Moore
+b9d5791c-e29d-4698-8baf-bad96537ed64,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Fall,Low,No,-99,UNKNOWN,Control Room,Debra Mcpherson,
+cf12c5f1-bfbb-44b0-b709-846afe21eb7c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Equipment Strike,High,No,-99,UNKNOWN,Control Room,Barry King,
+b4f776b4-1cac-45da-8029-823ab62e46cc,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:42,Chemical Spill,High,Yes,26,Engineering,Storage Area,Diane Turner,David Lee
+2ef6d6f1-0fa1-47a9-9ff0-887e85368ef5,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:48,Gas Leak,Medium,Yes,15,HSE,Control Room,Sarah Bauer,Andrea Nielsen
+7d9d9661-4c59-443c-9329-66b0bacb66ee,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:02,Explosion,High,No,2,Engineering,Control Room,Cathy Pierce,Todd Andersen
+aaf7c0c0-e099-4d15-9f4d-43593b525568,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:15,Chemical Spill,Medium,Yes,26,Engineering,Control Room,Michael Hale,Chloe Solomon
+f821158c-1fc9-46de-8d5a-b17a8f2f5062,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:13,Gas Leak,Low,Yes,27,Maintenance,Pump Station,Jonathan Morrow,Ryan Moran
+95b1030d-6bbf-4628-aa1b-309f35b99056,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Explosion,Critical,Yes,-99,UNKNOWN,Compressor Area,Sarah Koch,
+c57799cb-22f9-4058-9d9f-f329340525cd,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:19:29,Explosion,Low,No,6,Maintenance,Pump Station,Jerry Peters,Gary Green
+199b5fe4-fb4e-481c-bcef-8b68cbb56419,COMP-202,Forcados Field,Team Bravo,Compressor,,Fall,Medium,No,-99,UNKNOWN,Storage Area,Kyle Smith,
+6edc5ada-0a6b-4bc2-ae4c-2a4cc859a5f1,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:46,Fall,High,Yes,1,HSE,Pipeline Junction,Erik Daniels,Lucas Brown
+25c3ec2d-20b0-4ebf-b6ff-6cc3f08dd407,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:37,Fire,Critical,No,1,Maintenance,Storage Area,Peggy Green,Misty Miller
+d9bf8a13-9690-41c2-a629-0a890877d408,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Gas Leak,High,No,-99,UNKNOWN,Compressor Area,Tony Owens,
+5bbff568-9921-40f1-b21f-198614eb10c9,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Fire,Low,Yes,-99,UNKNOWN,Wellhead,Maria Johnston,
+38e18679-47a6-4918-9bbe-b60a22b9aa1f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:22,Equipment Strike,Low,Yes,7,HSE,Storage Area,Samantha Sheppard,Edward Decker
+be92b1bd-e7c7-4c46-bf0a-37a17a2f4bdb,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:30,Fire,Critical,No,17,Logistics,Compressor Area,Mark Flores,Mark Dean
+8a196e17-0923-4e96-8977-894a3f87b988,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:06,Chemical Spill,Low,Yes,24,Maintenance,Storage Area,Jonathon Boyd,John Moss
+707e8520-6fff-4a12-b7ba-94ffa3319e10,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:38,Chemical Spill,High,No,13,Logistics,Control Room,Sara Baker,Scott Hale
+b8b17ef2-1028-43f6-906b-5f5372dc3645,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:29,Fall,Low,No,0,Engineering,Pipeline Junction,Patty Butler,Laura Lewis
+f0d3fdab-c4df-40d2-ad59-62351f40ac6f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:20,Fire,Medium,No,26,Engineering,Compressor Area,Nathan Sullivan,Jennifer Dominguez
+e59800d6-d730-40bc-88c4-fd915d5ba58a,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:18,Equipment Strike,High,Yes,12,HSE,Pipeline Junction,George Fowler,Joshua Sweeney
+fc1f930e-1d7e-4274-8d1b-d466a3a86ab5,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:51,Explosion,Medium,Yes,30,Operations,Control Room,Leslie Strong,Erica Norman
+ec3f2d73-0b69-49bf-818b-af3b86ee3a01,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:36,Gas Leak,High,Yes,25,Operations,Compressor Area,Jeffery Mckee,Dawn Mitchell
+709c60c2-a0f3-4f9e-85a4-86cd406f031b,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:34,Gas Leak,Low,No,6,Engineering,Pipeline Junction,Jennifer Gomez,Kristen Harper
+e08468b8-e326-4c3d-b0f5-3517db51d0fc,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:19:15,Chemical Spill,Medium,No,15,Engineering,Pump Station,Isaac Brooks,Dylan Bell
+8d2e941c-1d31-4119-bbe5-cbab99c99e2e,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:21:17,Gas Leak,Low,Yes,2,Operations,Storage Area,Stephen Larson,Ivan Carlson
+ca79578f-7df9-4332-8d0f-fd934de4c565,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:33,Fire,High,No,30,HSE,Pipeline Junction,Lisa Campbell,Audrey Smith
+f9b02ba4-698f-47d3-a67f-e79063218792,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:06,Fall,Medium,No,7,Operations,Control Room,Julie Carter,William Stewart
+14bae5be-1818-4294-b001-139358ca0b1e,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:19:14,Explosion,High,Yes,13,Engineering,Storage Area,Kayla Thomas,James Hill
+319f9ff1-29af-4c74-a585-b67d52422ec5,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Fall,Critical,No,-99,UNKNOWN,Storage Area,Melissa Malone,
+b8127055-d8ae-4d1b-877b-843eee02d5a1,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:16,Explosion,Medium,No,14,Operations,Pump Station,Christine Cunningham,Matthew Castro
+4025c27b-b86e-4202-9e5e-5b132843a4f0,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:30,Explosion,High,Yes,30,Engineering,Control Room,Isaac Stuart,Joseph Smith
+7eaabf4c-b15d-4b7c-9354-0652f1fadfa2,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:14,Chemical Spill,Critical,Yes,14,HSE,Storage Area,Nicholas Ware,John Williams
+9324131c-40bd-470c-866b-ece76a4ef985,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:01,Equipment Strike,Low,Yes,19,Engineering,Pipeline Junction,Gavin Cook,Charles Brooks
+7311c945-8f8a-4592-bbeb-00f59aef523e,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:40,Explosion,Medium,No,11,Operations,Pump Station,Antonio Lee,Jason Mora
+0a573387-8007-4505-9f5c-0275ce32bae0,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:56,Explosion,Critical,No,14,HSE,Wellhead,Corey Richardson,Kelly Walker
+b6cf8ce8-21b5-4747-9531-750d06ba4428,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:47,Chemical Spill,Low,No,0,Engineering,Wellhead,Martin Kline,Pamela Grant
+5facabcc-f359-4b73-9d56-ca60c01dcd3c,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:20:53,Fire,Critical,Yes,13,HSE,Storage Area,Scott Smith,Steven Huff
+ebef31be-d628-4c6e-8b8a-81757afde954,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:16:22,Gas Leak,Critical,Yes,0,Operations,Control Room,Kevin Palmer,Michelle Miller
+024c02bc-aa1e-48a1-b387-c2cbf3a76326,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:15:39,Fire,Medium,Yes,16,HSE,Pump Station,Tyler Johnston,Scott Irwin Jr.
+e6f05e5f-ce68-4bfd-b26e-94c998aa5d26,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:45,Fire,High,Yes,13,Logistics,Pipeline Junction,Lisa Ross,Amanda Owens
+805ef133-a2bf-4154-a8d5-b66a72811cbb,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:54,Explosion,High,Yes,12,Operations,Control Room,Patrick Clark,Ethan Davis
+9a81356f-2bea-4d00-a4a6-62f794300b86,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:01,Fall,High,Yes,0,Engineering,Pump Station,Stephen Diaz,Chad Burke
+7031c605-3cdd-4cb3-8594-1e31f6308627,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:57,Gas Leak,Low,No,29,Maintenance,Wellhead,Barbara Jackson,Rebecca Sullivan
+6a1d7f9a-05a6-406b-b55a-884256378351,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Fall,Medium,No,-99,UNKNOWN,Wellhead,Michael Simpson,
+e0e7afd7-ab33-45a3-9c72-7c7656a5a0c0,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:51,Chemical Spill,Critical,No,20,Maintenance,Control Room,Shelly Ray,Joel Gill
+0c6b6b19-ab7e-41c3-ade8-a620cf0b98c0,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:16,Gas Leak,Critical,Yes,26,HSE,Pipeline Junction,Christopher Richardson,Tamara Martinez
+a6645dfb-3e60-4b6a-8eea-4b338894615c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:02,Equipment Strike,Low,Yes,29,Engineering,Control Room,Eugene Melendez,Amanda Jackson
+f1bf76cf-2fd5-46a9-9c06-f0feb8ddaf65,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:35,Fall,High,Yes,14,HSE,Pipeline Junction,Brittany Lowe,Mrs. Debbie Watkins
+0c3c9566-8b85-460c-919a-1da999e9b10f,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:02,Chemical Spill,Critical,No,3,Operations,Pipeline Junction,Patrick Nguyen,Brandy Johnson
+adcbd85b-8082-41a5-bc4f-a74a5c9ff9e0,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Fire,High,Yes,-99,UNKNOWN,Storage Area,Aaron Mcclain,
+d77400d3-2ae9-47b8-8c35-e52cd11ea675,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:21:09,Chemical Spill,Critical,No,19,HSE,Pipeline Junction,Michelle Rojas,Natalie Harris
+ea8ea46d-e6ba-4fab-b13a-c4820d6b9acb,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:11,Explosion,Critical,Yes,29,Operations,Wellhead,Teresa Lopez,Thomas Mitchell
+6cd41a0a-160d-453d-b26a-7e45c0412baf,COMP-201,Forcados Field,Team Bravo,Compressor,,Chemical Spill,Critical,Yes,-99,UNKNOWN,Compressor Area,Bonnie Blankenship,
+9711a0e3-b7ce-4320-9483-4cefb55fa513,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:17,Chemical Spill,High,No,1,Operations,Pump Station,Jane Lopez,Amy Arnold
+1ae34c50-217c-4832-a754-8c2a4843217b,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:15:52,Chemical Spill,Medium,No,11,HSE,Compressor Area,Samantha Harris,Holly Oliver
+0dbed212-a506-4200-8efc-f0f2b2fef4bb,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:21,Fire,Critical,Yes,7,Operations,Storage Area,Cameron Raymond,Colton Foley
+a814b9de-4144-47cd-990c-5d0cc2807317,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:51,Gas Leak,Low,No,11,Operations,Storage Area,Tiffany Gordon,Caitlin West DVM
+0947de71-4a7e-4dcc-9bf1-47346cdde1f9,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:40,Gas Leak,High,Yes,15,Operations,Control Room,Laura Strong,Mercedes Williams
+bc689e55-08b2-4c74-ad6b-9d4be6d70b51,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:15,Gas Leak,Medium,No,22,Operations,Compressor Area,Sarah Green,Emily Wright
+03e017e1-7a3c-4f66-9394-be5e321c2f2c,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:21:04,Fire,High,Yes,22,HSE,Storage Area,Emily Logan,Christina Jennings
+c2045c93-ab46-4067-b833-9c0d7c20d556,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:19,Gas Leak,Critical,Yes,25,HSE,Compressor Area,Christopher Lawson,Tracy Herrera
+abd13b4b-b1d5-48c4-bbfb-c3ab34b0e644,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:21,Gas Leak,Medium,Yes,18,HSE,Storage Area,Reginald Miller,Louis Mitchell
+bd8b9b70-2d61-47e8-9f12-e0d9fcdede0c,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:47,Chemical Spill,Critical,No,19,Operations,Compressor Area,Stephanie Spears,Alan Wright
+05166f7e-77e1-4b9f-903f-397cb44aab88,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:13,Equipment Strike,High,No,18,Logistics,Compressor Area,Richard Oneal,James Collier
+6548fb1b-a6d9-4760-a938-720d82da4287,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:38,Fall,High,Yes,28,Maintenance,Control Room,Ashley Gonzalez,Mary Armstrong
+32aa39cf-0e5a-4303-b1d4-f73cab07f914,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:36,Gas Leak,High,Yes,10,Operations,Pipeline Junction,Sheila Gaines,Cody Chapman
+80c27242-691d-4697-99fa-27fe1ff9b00b,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:50,Fall,Critical,Yes,6,HSE,Pipeline Junction,Elizabeth White,Pamela Lozano
+18daebf3-a08f-4057-8e79-2b01426b6f3f,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:41,Explosion,High,No,6,Logistics,Pump Station,Ronald Patel,Gabriel Francis
+a480e1d8-7949-4991-b12d-6a0d8c1bee7f,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:47,Fall,Medium,No,16,Logistics,Pipeline Junction,Destiny Black,Ann Herrera
+678e0e44-76d1-4a3e-b7c2-827ebfa11b74,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:18,Gas Leak,Medium,Yes,7,Operations,Wellhead,Gregory Jones,Jonathan Arroyo
+2ef40659-35ab-4165-8ac7-a5de6a7c0c5e,COMP-202,Forcados Field,Team Bravo,Compressor,,Equipment Strike,High,Yes,-99,UNKNOWN,Control Room,Perry Jones,
+5f173ce0-cc00-4880-a512-5393036cd6f5,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:58,Gas Leak,Low,Yes,19,Logistics,Compressor Area,Mr. Ryan Wade,Kelsey Garcia
+089cc72e-4bb7-4f82-9a2d-51dc24d25b77,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:23,Explosion,High,Yes,9,Logistics,Wellhead,Jonathan Montoya,Rebecca Jensen
+e051ad57-fb0e-4c8d-a7e2-4bffcc106014,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:31,Chemical Spill,Low,No,24,HSE,Pipeline Junction,Kevin Estrada,Christopher Miranda
+0c70ed8c-e7c6-4d4f-a202-8833d7758eba,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:38,Fire,Low,No,6,Operations,Compressor Area,Holly Williams,Mr. John Chen
+92e6a7c5-aada-414a-bf0c-08a8a31aa170,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:37,Fire,Low,Yes,24,Maintenance,Control Room,Ryan Johnson,Frank West
+dde5a68e-01ef-40f8-8f6a-60029b502c8f,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:17:29,Fire,Low,Yes,25,Maintenance,Storage Area,Daniel Mendoza,Noah Weaver
+55ca5a2a-267a-47f1-96ab-286ad2df5b54,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Gas Leak,Critical,Yes,-99,UNKNOWN,Control Room,Ann Young,
+e22c76a7-abcb-4ae3-87d7-37b9d7c5e52c,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:15:46,Fire,High,Yes,17,Logistics,Storage Area,Mrs. Gabrielle Evans MD,Joshua Weeks
+2226873e-3fe4-49f4-8ddb-bd68ebaf8826,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:32,Chemical Spill,Critical,No,13,HSE,Control Room,Donna Long,Haley Bell
+f554df1b-1103-4801-898d-884b5aa233a0,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:29,Chemical Spill,Medium,No,12,HSE,Wellhead,Katherine Kelly,Robert Foster
+d40ff609-bcca-401d-b03c-374a3505c5bc,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:46,Fire,High,Yes,29,Engineering,Wellhead,Chase Aguirre,Cody Schaefer
+5ccafde5-0989-499b-9368-e2d35ac26e74,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:21:29,Chemical Spill,Critical,No,22,Maintenance,Compressor Area,Fred Anderson,Richard Baker
+868a5921-6095-4898-8ada-18e6c8c4b3a9,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:15:33,Explosion,Medium,No,18,HSE,Wellhead,Susan Patel,Natalie Fowler
+b49115d6-4384-46be-8048-36ce1c256939,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Equipment Strike,Medium,Yes,-99,UNKNOWN,Pipeline Junction,Brandi Jones,
+f39bfc39-8377-4384-9354-6f5e9f008805,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:44,Fire,Medium,No,24,HSE,Control Room,Paige Haney,Kyle Jackson
+82ff6300-5e51-4729-bac0-d2e9e08f1f9e,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:53,Gas Leak,Critical,Yes,22,Engineering,Storage Area,Joshua Garcia,Steven Foster DDS
+10df2800-9a8c-44ec-b96d-63cb56d31bae,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:40,Equipment Strike,Critical,No,16,HSE,Pump Station,Morgan Hunt,Patricia Fitzgerald
+f475024b-582a-4ebf-a4ce-5dc0c5431032,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:07,Chemical Spill,High,No,13,HSE,Control Room,Stephanie Ramirez,Richard Parker
+3d67d6af-16e1-46d9-96f6-6685e64cf2f1,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,,Chemical Spill,High,Yes,-99,UNKNOWN,Wellhead,Melinda Arellano,
+24499592-56bf-4bf9-88e5-3842e5bde7c4,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:53,Equipment Strike,Low,No,21,Engineering,Pipeline Junction,Andrew Yang,Thomas Marks
+a8137fa2-2712-4577-a540-6ba68300a24c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:28,Chemical Spill,Low,No,4,Logistics,Pipeline Junction,Leonard Murphy,Kiara Tate
+47f8293e-7448-4ca6-af7f-954af520d1cb,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:22,Chemical Spill,Medium,Yes,26,Maintenance,Control Room,Laura Meyers,Alexander Kidd
+52f33671-aa24-459b-a133-21b1e54343be,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:06,Fire,Low,No,27,Logistics,Wellhead,Daniel Roberts,Ashley Fleming
+704d8431-b56d-416a-81bb-83bfb00a0c09,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:21,Explosion,Critical,No,6,Maintenance,Wellhead,Thomas Bates,Ryan Espinoza
+bf943650-ed31-4267-acaf-fedf684eee40,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:20:01,Gas Leak,High,No,11,Logistics,Pipeline Junction,Corey Taylor,Jeremiah Mullen
+ef305752-540e-4a6f-ae2a-7b926d7986c8,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:21:27,Explosion,Medium,Yes,23,Maintenance,Pipeline Junction,Jennifer Gutierrez,Patricia Howard
+e959bbdc-d258-409a-bb7c-0b4f02b6158c,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:20,Gas Leak,Medium,No,20,Operations,Storage Area,Jay Sampson,Brandy Johnson
+08a0da2a-47bf-49fd-a811-cca178ec93af,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:18:13,Equipment Strike,High,Yes,23,Maintenance,Control Room,Kelly Marsh,Jacqueline Barker
+1183f888-b065-4468-a1b5-70abcd273815,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:21:26,Fall,Medium,No,21,HSE,Pump Station,Daniel Mata,Mr. Gabriel Strong Jr.
+8560ff07-6952-4f1b-8d44-104be814ef46,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:10,Equipment Strike,Critical,Yes,28,Engineering,Compressor Area,Justin Robertson,Todd Mitchell
+60354e38-466c-49d3-8f9d-772256c285f6,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Fire,High,Yes,-99,UNKNOWN,Pump Station,Keith Jordan,
+488c7af3-b463-4d92-8368-fbc867434d59,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:19:08,Fall,Medium,No,14,Operations,Control Room,Paula Flores,David Roberts
+a1d2b530-c27c-42e2-86b4-b10e5f9ae591,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:19:45,Fire,High,Yes,13,Logistics,Wellhead,Barbara Miller,Justin Owens
+f60eea37-da98-42a5-be21-4679a9097b95,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:46,Fall,Critical,No,13,Logistics,Wellhead,Alison Fields,Sarah Smith DDS
+f835ae78-d200-4ddd-97f9-baef7497cbba,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:03,Fire,Critical,Yes,3,Logistics,Wellhead,Nathan Mitchell,Kathleen Anderson
+70ca8b73-34f0-4f81-a344-227a0c7c6885,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:47,Explosion,Critical,No,28,Maintenance,Control Room,Melissa Johnson,Susan Anderson
+f3148ac5-73ae-40cb-aff3-bc7e79d412b5,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:15:35,Gas Leak,Medium,No,13,Operations,Wellhead,Mr. Raymond Li,Zachary Lopez
+90a2653b-6110-4c44-b47e-803ee911dea3,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Chemical Spill,Critical,No,-99,UNKNOWN,Wellhead,Victor Reid,
+8e9d993c-a317-45b4-8d6d-6157e138ebf5,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:21:03,Fall,Low,No,5,HSE,Compressor Area,Cameron Jackson,Monica Baker
+4c375fe5-1172-40f1-b1ed-219ee76fc269,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:42,Gas Leak,Critical,Yes,0,Maintenance,Control Room,Randy Rodriguez,Mrs. Danielle Mills
+1b27bb7c-c284-462a-83ad-c24f430d58ec,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Chemical Spill,Medium,No,-99,UNKNOWN,Wellhead,Ronald Gutierrez,
+4669bbc8-fbb4-49fc-81e0-f84f1f7a812c,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:18:32,Fall,Critical,No,12,Logistics,Pipeline Junction,Adam Erickson,Michael Wells
+1bbb4d37-6a55-4cb1-9e23-3318177e63ba,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:58,Fire,Critical,Yes,2,HSE,Storage Area,Brian Lopez,Randy Taylor
+e51319cc-48f7-406a-b74f-833c115e4fbd,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:41,Fall,High,No,27,Engineering,Pipeline Junction,Julie Grimes,Sonia Campos
+a239ad6c-e9ea-4081-ba2a-f3ccc960522b,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:21:10,Fire,Low,Yes,19,Operations,Compressor Area,Steven Anderson,Matthew Kelley
+d27df30c-959c-45db-9630-8d6e9eca3482,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:49,Explosion,Critical,Yes,8,Engineering,Control Room,Rebecca Soto,Anna Pierce
+0ed75e7d-11c4-48eb-aec7-fed96e4bb0d3,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:21:07,Equipment Strike,Low,Yes,18,Operations,Pipeline Junction,William Santana,John Mendoza
+016dc270-8b3c-4a37-aad2-35d5593f106b,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:18:19,Chemical Spill,Critical,Yes,6,Engineering,Compressor Area,John Garcia,David Fields
+5e511854-5cec-42c5-ad99-9f0d2fe7b63e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:17:44,Equipment Strike,Medium,No,9,Logistics,Compressor Area,Eddie Santiago Jr.,Jonathan West
+1e1ce924-4cdd-48e1-9d76-437320516891,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:08,Gas Leak,Low,No,5,Maintenance,Pump Station,Brian Hardin,Pamela Franco
+0e5aba41-ddf3-4741-8f2e-52a2aeb00af3,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:34,Fall,Critical,Yes,11,Logistics,Control Room,Nicholas Schneider,Sarah Jackson
+366adbd4-c8cb-469b-90d5-f2572d8cb675,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,,Fall,Medium,No,-99,UNKNOWN,Storage Area,Casey Smith,
+bed1a2fd-b565-4692-8340-28035aad9de8,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:17:56,Fire,Medium,No,4,Logistics,Storage Area,David Miller,Kristina Cummings
+51104eda-c36b-48d0-bd8b-ffe563bddd0f,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:21:17,Explosion,High,Yes,24,Logistics,Compressor Area,Ethan Joseph,Jeffrey Leblanc
+e4ba0266-4103-44ff-afc0-8aab3aabae59,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:19:21,Chemical Spill,Medium,No,4,Engineering,Pipeline Junction,Randy Zavala,Kristin Miller
+fde2ac76-3d0a-4aae-95c4-58b25c8d56d7,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,,Fall,Critical,Yes,-99,UNKNOWN,Pipeline Junction,Joanna Martinez,
+eeb228b1-cd77-46f9-9285-4f4bf942e7f1,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:20:32,Chemical Spill,Critical,Yes,22,Operations,Compressor Area,Kelsey Greene,Theresa Martin
+870590c8-744c-4b18-8f5a-ba1d85af56c4,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:36,Chemical Spill,Critical,Yes,22,Maintenance,Compressor Area,Dr. Christina Tyler,Stephen Lopez
+36c0ecb4-125e-4056-a067-ad80872dc7c1,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:37,Equipment Strike,Low,No,9,HSE,Pipeline Junction,Amy Wang,Carla Martin
+9f2d7b03-8382-4850-821a-581e5d98475c,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:17:43,Fire,Medium,Yes,12,HSE,Pipeline Junction,Jasmine Jackson,Amber Collins
+dda54feb-14d3-457b-b76b-2157fc9aeec2,TANK-502,Qua Iboe Field,Team Bravo,Storage Tank,2026-07-09 10:16:36,Equipment Strike,High,No,20,Maintenance,Compressor Area,Louis Fisher,Frank Adams
+5e59eabe-7b3c-4be4-8a6a-aeb00f18167d,VALVE-302,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:53,Fall,Medium,No,7,Engineering,Control Room,Candice Hurst,Caitlin Watson
+381f9e12-e4fb-41d1-9c11-5419f0cbd1d4,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:17,Fall,Medium,No,30,Logistics,Pipeline Junction,Stephanie Shaw,Brian Donovan
+4b0ea868-f6e3-418c-aa78-7f441a03c509,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,2026-07-09 10:20:10,Fall,Low,Yes,11,Maintenance,Control Room,Jonathan Roberts,Anne Larsen
+c9f223f1-0797-4883-9b93-a9d1d48f1697,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,,Gas Leak,Medium,No,-99,UNKNOWN,Storage Area,Timothy Mcpherson,
+a5f39cbc-9006-455c-8751-335fbf502c72,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:23,Explosion,High,Yes,25,Logistics,Pump Station,Joanna Gilbert MD,Jessica Mckinney
+6ef79f00-292b-4692-be92-4ba53e0f683b,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:18:45,Equipment Strike,Critical,Yes,15,Maintenance,Compressor Area,John Villa,Latoya Phillips DVM
+c6d673ff-9636-4403-83a6-c7c3ebacd49a,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:17:02,Gas Leak,Critical,Yes,0,Operations,Pipeline Junction,Daniel Turner,Cindy Williams
+cbdc8261-84fb-4791-a109-84f00726772d,COMP-201,Forcados Field,Team Bravo,Compressor,2026-07-09 10:20:45,Chemical Spill,Medium,Yes,27,HSE,Control Room,Allison Cox,Claire Davis
+dabbf728-14bb-4e16-a8a5-fd75f720c721,VALVE-301,Escravos Field,Team Charlie,Pressure Valve,,Fire,High,No,-99,UNKNOWN,Control Room,Leslie Patrick,
+97846445-51f8-48aa-bf57-7941839a90ce,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:20,Fall,Low,Yes,15,Maintenance,Wellhead,Christopher Baldwin,David Green
+8db68c32-55de-4c07-abdd-2f730f231bfd,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:19:37,Chemical Spill,Medium,Yes,9,Engineering,Storage Area,Kristina Reese,Kristin Long
+1c632181-9cea-4b0d-bf27-9b5091b843b5,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:16:53,Fire,Low,Yes,6,Operations,Storage Area,Laura Zhang,Corey Lester
+e150f944-4e8b-4c33-a0e8-007dd46b6aef,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,,Fire,Medium,Yes,-99,UNKNOWN,Pipeline Junction,Julia Moore,
+f5fe8d25-d32b-493e-b475-72947e33054c,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:17:06,Gas Leak,Critical,Yes,4,Logistics,Storage Area,Katelyn Gray,Jared Parker
+a30875a6-01b1-4474-924c-9bb6790d32bd,PIPE-401,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:21:06,Chemical Spill,Medium,No,16,HSE,Storage Area,Kelsey Burns,Daniel West
+09107bb4-e717-402e-b57b-5c67fee8f94e,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,2026-07-09 10:19:09,Explosion,Critical,No,29,Engineering,Storage Area,Andrea Arnold,Dana Benitez
+f12a04ac-6624-4914-8bf2-d81b5f535c99,PUMP-101,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:16:39,Gas Leak,Medium,Yes,1,Operations,Pump Station,Mr. Robert Reilly,Barbara Moyer
+ae291676-86f3-42ab-8881-3e2bd5b210ae,PUMP-102,Bonny Field,Team Alpha,Pumping Unit,2026-07-09 10:20:48,Fire,Medium,No,2,Engineering,Storage Area,Paul Hopkins,Ann Johnson
+9e6e4f63-dd06-4e64-9912-e875c62263f7,PIPE-402,Brass Terminal,Team Delta,Pipeline Segment,2026-07-09 10:18:21,Fire,High,No,21,HSE,Compressor Area,Adam Johnson,Jeffrey Brown
+f052558d-31e4-4fa2-aeda-6516a7b17f98,TANK-501,Qua Iboe Field,Team Alpha,Storage Tank,,Fall,Medium,No,-99,UNKNOWN,Wellhead,Diane Sanders,
+efbfe2bd-1b01-4adb-947f-2d98bcd7cd4f,COMP-202,Forcados Field,Team Bravo,Compressor,2026-07-09 10:16:33,Fall,Low,Yes,30,Engineering,Compressor Area,Olivia Bryant,Nicholas Parker
