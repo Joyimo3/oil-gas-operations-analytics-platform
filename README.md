@@ -370,7 +370,7 @@ High-level operational summary for leadership:
 
 ### Page 2 — Production & Maintenance KPIs
 
-![Production & Maintenance KPIs](assets/Dashboard_Production%20&%20Maintenance.png)
+![Production & Maintenance KPIs](assets/Dashboard_Production_Maintenance.png)
 
 For production and maintenance teams:
 - Total Deferred Production, Average Wellhead Pressure
@@ -382,7 +382,7 @@ For production and maintenance teams:
 
 ### Page 3 — HSE & Risk Monitoring
 
-![HSE & Risk Monitoring](assets/Dashboard_HSE&Risk_Monitoring.png)
+![HSE & Risk Monitoring](assets/Dashboard_HSE_Risk_Monitoring.png)
 
 For safety managers:
 - Total Safety Incidents, Total Days Lost, Total Critical Incidents
@@ -395,7 +395,7 @@ For safety managers:
 ### Page 4 — Operational SLA & Compliance
 
 
-![Operational SLA & Compliance](assets/dashboard_operational_sla&compliance.png)
+![Operational SLA & Compliance](assets/Dashboard_Operational_SLA_Compliance.png)
 
 Detailed SLA analysis:
 - SLA Compliance Rate %, Total Alerts, Total Breaches, Avg Resolution Hours
