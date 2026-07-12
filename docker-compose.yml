@@ -1,0 +1,32 @@
+# ============================================================
+# OIL & GAS OPERATIONS - DOCKER COMPOSE
+# Orchestrates the pipeline container
+# ============================================================
+
+version: '3.8'
+
+services:
+  pipeline:
+    build: .
+    container_name: oil_gas_pipeline
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./monitoring:/app/monitoring
+      - ./database:/app/database
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python -m Scripts.run_pipeline
+
+  # Future: Add these services when scaling
+  # postgres:
+  #   image: postgres:15
+  #   environment:
+  #     POSTGRES_DB: oil_gas_ops
+  #     POSTGRES_USER: admin
+  #     POSTGRES_PASSWORD: ${DB_PASSWORD}
+  
+  # airflow:
+  #   image: apache/airflow:2.7.0
+  #   depends_on:
+  #     - postgres

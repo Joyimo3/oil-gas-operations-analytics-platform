@@ -155,6 +155,8 @@ Equipment is permanently assigned to a field and team. This never changes betwee
 | Git | Version control and portfolio hosting |
 | python-dotenv | Environment variable management |
 | PyYAML | Configuration management |
+| Docker | Container environment |
+| Apache Airflow | Pipeline orchestration (DAG) |
 
 ---
 
@@ -284,6 +286,31 @@ python -m pytest tests/ -v
 
 ---
 
+---
+
+## 🔄 Orchestration
+
+The pipeline includes a production-ready Apache Airflow DAG (`orchestration/dag_pipeline.py`) that:
+
+- Schedules the pipeline to run automatically every day at 6am
+- Defines 6 tasks in sequence — generate → validate → load bronze → load silver → load dimensions → load gold
+- Retries failed tasks automatically with configurable delays
+- Tags tasks for easy monitoring in Airflow UI
+
+> Note: The DAG is designed for deployment on managed Airflow environments such as AWS MWAA or Google Cloud Composer.
+
+---
+
+## 🐳 Docker
+
+The project is fully containerized using Docker:
+
+- `Dockerfile` — defines the Python 3.12 environment with all dependencies
+- `docker-compose.yml` — orchestrates the pipeline service with persistent volume mounts
+- Commented sections show roadmap for adding PostgreSQL and Airflow services
+
+> Note: Docker requires virtualization enabled in BIOS. The files are production-ready for deployment on any Docker-supported environment.
+
 ## 📂 Repository Structure
 
 ```
@@ -295,6 +322,9 @@ oil_gas_project/
 │   ├── logger.py            # Central logging configuration
 │   └── settings.py          # Reads config.yaml and .env
 │
+├── orchestration/
+│   ├──dag_pipeline.py
+|
 ├── assets/
 │   └── architecture.png
 │   └── Star_schema.png
@@ -346,6 +376,8 @@ oil_gas_project/
 │   ├── dimension_tables.sql # dim_field, dim_team, dim_equipment
 │   └── fact_tables.sql      # Fact table definitions
 │
+├── Dockerfile
+├── docker-compose.yml
 ├── .env                     # Environment variables (gitignored)
 ├── .gitignore
 ├── README.md
@@ -469,18 +501,18 @@ python -m Scripts.load_database
 
 ✔ Proper dimensional modeling — dim_field, dim_team, dim_equipment
 
+✔ Airflow-style DAG for pipeline orchestration (production-ready for AWS MWAA or Google Cloud Composer)
+
+✔ Docker containerization with docker-compose for consistent deployment across environments
+
 ---
 
 ## 🚧 Future Roadmap
-
-- Containerization using Docker
-- Workflow orchestration with Apache Airflow
 - Cloud deployment (Azure Data Factory or AWS Glue)
 - PostgreSQL migration for production-grade database
 - CI/CD using GitHub Actions
-- Great Expectations for advanced data quality monitoring
 - dbt integration for scalable SQL transformations
-- Power BI Service deployment for cloud-hosted dashboards
+
 
 ---
 
